@@ -9,7 +9,6 @@ Principal Investigator
 <!-- ![picture of PI](/images/Genew.jpg align = "right")  -->
 <img align="left" width="100" height="100" src="/images/Genew.jpg">
 
-
 Ge Lv, PhD
 
 Assistant Professor, Departments of Mechanical Engineering and Bioengineering
