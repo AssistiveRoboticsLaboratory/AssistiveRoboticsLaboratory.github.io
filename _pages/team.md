@@ -9,10 +9,15 @@ Principal Investigator
 ![Editing a markdown file for a talk](/images/Genew.jpg) 
 <!-- ![Editing a markdown file for a talk](/images/Labview.jpg)  -->
 Ge Lv, PhD
+
 Assistant Professor, Departments of Mechanical Engineering and Bioengineering
+
 Faculty Scholar, School of Health Research
+
 Clemson University 
+
 Email: glv AT clemson DOT edu
+
 [Personal Website](https://sites.google.com/view/lyuge)
 
 
