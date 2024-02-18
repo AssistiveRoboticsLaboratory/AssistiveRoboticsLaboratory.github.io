@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 ![Editing a markdown file for a talk](/images/Labview.jpg) 
+
 MISSON
 ------
 The mission of the Assistive Robotics Laboratory is to develop agile, versatile wearable robots to assist humans across daily activities. The overall research themes can be classified into the following aims:
