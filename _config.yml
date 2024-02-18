@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Just a title here/ Site Title"
+title                    : "Assistive Robotics Laboratory"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -21,10 +21,14 @@ repository               : "AssistiveRoboticsLaboratory/AssistiveRoboticsLaborat
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
+<<<<<<< HEAD
+  avatar           : "ARL - full.png"
+=======
   avatar           : "ARL-full.png"
+>>>>>>> dafa3a8ecbbf0538088353255685f43a781183da
   name             : "Assistive Robotics Laboratory"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : # "Short biography for the left-hand sidebar"
   location         : "225 A, EIB"
   employer         : "Clemson University"
   uri              : # URL
@@ -47,7 +51,11 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
+<<<<<<< HEAD
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
+=======
   bluesky          : # "bsky.app" # Replace this with you Bluesky username
+>>>>>>> dafa3a8ecbbf0538088353255685f43a781183da
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
