@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "Team"
+    url: /Team/
+
   - title: "Publications"
     url: /publications/
 
@@ -18,8 +21,7 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Team"
-    url: /Team/
+
     
   - title: "Guide"
     url: /markdown/
