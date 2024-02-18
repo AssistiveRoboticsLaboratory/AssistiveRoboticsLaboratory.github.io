@@ -5,30 +5,69 @@ permalink: /Team/
 author_profile: true
 ---
 Principal Investigator 
----
-![Editing a markdown file for a talk](/images/Ge.jpg) 
-![Editing a markdown file for a talk](/images/Labview.jpg) 
-
-MISSON
-------
-The mission of the Assistive Robotics Laboratory is to develop agile, versatile wearable robots to assist humans across daily activities. The overall research themes can be classified into the following aims:
-
-- Human-in-the-Loop Control and Optimization Frameworks for Task-Invariant Assistance 
-- Development of User-Friendly Wearable Devices 
-- Experimetanl Validation and Biomechanics Study 
+======
+![Editing a markdown file for a talk](/images/Genew.jpg) 
+<!-- ![Editing a markdown file for a talk](/images/Labview.jpg)  -->
+Ge Lv, PhD
+Assistant Professor, Departments of Mechanical Engineering and Bioengineering
+Faculty Scholar, School of Health Research
+Clemson University 
+Email: glv AT clemson DOT edu
+[Personal Website](https://sites.google.com/view/lyuge)
 
 
-NEWS
-------
-- 07/2023: Our paper entitled "[A Two-Layer Human-in-the-Loop Optimization Framework for Customizing Lower-Limb Exoskeleton Assistance](https://ieeexplore.ieee.org/document/10155858)" was published at the invited session "Recent Advancement of Human Autonomy Interaction & Integration" of the 2023 American Control Conference, San Diego, CA. 
-- 05/2023: Congratulations to Dr. Therese Parr for successfully defending her dissertation. 
-- 12/2022: Our paper entitled "[Task-Invariant Centroidal Momentum Shaping for Lower-Limb Exoskeletons](https://ieeexplore.ieee.org/abstract/document/9993080)" was published at the 61st Conference on Decision and Control. 
-- 01/2022: ARL welcomes PhD student Miao Yu and Yalun Jiang.
-- 04/2021: Dr. Lv receives the South Carolina Translational Research Improving Musculoskeletal Health (SC TRIMH) targeted junior faculty award.
-- 01/2020: Dr. Lv joined the Mechanical Engineering department at Clemson University as an Assistant Professor.
-- 11/2018: Our recent publication: [On the Design and Control of Highly Backdrivable Lower-Limb Exoskeletons](https://ieeexplore.ieee.org/abstract/document/8536572) is the cover article of the latest issue of IEEE Control Systems Magazine! Special thanks to my PhD mentor and co-author Robert D. Gregg.  
-- 10/2018: Dr. Lv joined the Robotics Institute at Carnegie Mellon University as a postdoctoral fellow at the Robotics Institute, Carnegie
-- 04/2018: Dr. Lv successfully defended my PhD dissertation. 
-- 08/2017: Dr. Lv received the Louis Beecherl, Jr. Graduate Fellowship from UT Dallas.
-- 12/2015: Dr. Lv received the Best Student Paper Award of the 54th IEEE Conference on Decision and Control!
+Education
+======
+* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in Jekyll, GitHub University, 2014
+* B.S. in GitHub, GitHub University, 2012
+
+Work experience
+======
+* Spring 2024: Academic Pages Collaborator
+  * Github University
+  * Duties includes: Updates and improvements to template
+  * Supervisor: The Users
+
+* Fall 2015: Research Assistant
+  * Github University
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
+
+* Summer 2015: Research Assistant
+  * Github University
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git
+  
+Skills
+======
+* Skill 1
+* Skill 2
+  * Sub-skill 2.1
+  * Sub-skill 2.2
+  * Sub-skill 2.3
+* Skill 3
+
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+Talks
+======
+  <ul>{% for post in site.talks reversed %}
+    {% include archive-single-talk-cv.html  %}
+  {% endfor %}</ul>
+  
+Teaching
+======
+  <ul>{% for post in site.teaching reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+Service and leadership
+======
+* Currently signed in to 43 different slack teams
+
 
