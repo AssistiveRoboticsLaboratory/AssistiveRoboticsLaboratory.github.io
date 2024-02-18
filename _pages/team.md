@@ -17,6 +17,8 @@ Principal Investigator
      [Personal Website](https://sites.google.com/view/lyuge)
      [Google Scholar](https://scholar.google.com/citations?user%253DnDnV2LkAAAAJ%2526hl%253Den)
 
+
+
 PhD students 
 ======
 * Miao Yu, Mechanical Engineering
@@ -34,6 +36,8 @@ BS, Power Engineering of Aircaft, Nanjing Univerity of Aeronautics & Astronautic
 MS, Automotive Engineering, University of Bath, 2017
 
 
+
+
 MS students 
 ======
 * Hamdan Khan Sarvathullah, Mechanical Engineering 
@@ -45,6 +49,8 @@ MS students
 * Cassie Hoffman, Bioengineering
 
 * Timothy Brodsky, Mechanical Engineering 
+
+
 
 Undergraduate students 
 ======
@@ -80,6 +86,8 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
+  
+
   
 Alumni
 ======
