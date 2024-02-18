@@ -9,19 +9,13 @@ Principal Investigator
 <!-- ![picture of PI](/images/Genew.jpg align = "right")  -->
 <img align="left" width="250" height="250" src="/images/Ge.jpg">
 
-Ge Lv, PhD
-
-Assistant Professor, Departments of Mechanical Engineering and Bioengineering
-
-Faculty Scholar, School of Health Research
-
-Clemson University 
-
-Email: glv AT clemson DOT edu
-
-[Personal Website](https://sites.google.com/view/lyuge)
-
-[Google Scholar](https://scholar.google.com/citations?user%253DnDnV2LkAAAAJ%2526hl%253Den)
+* Ge Lv, PhD
+   * Assistant Professor, Departments of Mechanical Engineering and Bioengineering
+     Faculty Scholar, School of Health Research
+     Clemson University 
+     Email: glv AT clemson DOT edu
+     [Personal Website](https://sites.google.com/view/lyuge)
+     [Google Scholar](https://scholar.google.com/citations?user%253DnDnV2LkAAAAJ%2526hl%253Den)
 
 PhD students 
 ======
