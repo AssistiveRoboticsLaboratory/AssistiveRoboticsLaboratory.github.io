@@ -21,11 +21,7 @@ repository               : "AssistiveRoboticsLaboratory/AssistiveRoboticsLaborat
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-<<<<<<< HEAD
   avatar           : "ARLfull.png"
-=======
-  avatar           : "ARL-full.png"
->>>>>>> dafa3a8ecbbf0538088353255685f43a781183da
   name             : "Assistive Robotics Laboratory"
   pronouns         : # example: "she/her"  
   bio              : # "Short biography for the left-hand sidebar"
