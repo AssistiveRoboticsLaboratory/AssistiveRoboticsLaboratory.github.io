@@ -6,7 +6,7 @@ author_profile: true
 ---
 Principal Investigator 
 ======
-![Editing a markdown file for a talk](/images/Genew.jpg) 
+![Editing a markdown file for a talk](/images/Genew.jpg align = "left") 
 <!-- ![Editing a markdown file for a talk](/images/Labview.jpg)  -->
 Ge Lv, PhD
 
