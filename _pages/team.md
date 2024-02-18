@@ -7,7 +7,7 @@ author_profile: true
 Principal Investigator 
 ======
 <!-- ![picture of PI](/images/Genew.jpg align = "right")  -->
-<img align="left" width="250" height="250" src="/images/Ge.jpg">
+<!-- <img align="left" width="250" height="250" src="/images/Ge.jpg"> -->
 
 * Ge Lv, PhD
      Assistant Professor, Departments of Mechanical Engineering and Bioengineering
@@ -26,17 +26,16 @@ Principal Investigator
 PhD students 
 ======
 * Miao Yu, Mechanical Engineering
-   BS, Electrical Engineering & Its Automation, North China Electric Power University, 2015
+   * BS, Electrical Engineering & Its Automation, North China Electric Power University, 2015
    
-   MS, Electrical & Syhstems Engineering, Washington University at St. Louis, 2017
+   * MS, Electrical & Syhstems Engineering, Washington University at St. Louis, 2017
    
-   MS, Electrical Engineering, University of Maryland, College Park, 2021
+   * MS, Electrical Engineering, University of Maryland, College Park, 2021
 
 * Yalun Jiang, Mechanical Engineering
-
-BS, Power Engineering of Aircaft, Nanjing Univerity of Aeronautics & Astronautics, 2015
-
-MS, Automotive Engineering, University of Bath, 2017
+   * BS, Power Engineering of Aircaft, Nanjing Univerity of Aeronautics & Astronautics, 2015
+   
+   * MS, Automotive Engineering, University of Bath, 2017
 
 
 
