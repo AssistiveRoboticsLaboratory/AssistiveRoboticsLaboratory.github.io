@@ -15,19 +15,19 @@ The mission of the Assistive Robotics Laboratory is to develop agile, versatile 
 <!-- #This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
 
 
-
-
 NEWS
 ======
-01/2022: Miao passed his PhD qualification exams. Congratulations!
-08/2021: ARL welcomes PhD student Miao Yu!
-04/2021: Dr. Lv receives the South Carolina Translational Research Improving Musculoskeletal Health (SC TRIMH) targeted junior faculty award.
-01/2020: Dr. Lv joined the Mechanical Engineering department at Clemson University as an Assistant Professor.
-11/2018: Our recent publication: [On the Design and Control of Highly Backdrivable Lower-Limb Exoskeletons](https://ieeexplore.ieee.org/abstract/document/8536572) is the cover article of the latest issue of IEEE Control Systems Magazine! Special thanks to my PhD mentor and co-author Robert D. Gregg.  
-10/2018: Dr. Lv joined the Robotics Institute at Carnegie Mellon University as a postdoctoral fellow at the Robotics Institute, Carnegie
-04/2018: Dr. Lv successfully defended my PhD dissertation. 
-08/2017: Dr. Lv received the Louis Beecherl, Jr. Graduate Fellowship from UT Dallas.
-12/2015: Dr. Lv received the Best Student Paper Award of the 54th IEEE Conference on Decision and Control!
+- 07/2023: Our paper entitled "[A Two-Layer Human-in-the-Loop Optimization Framework for Customizing Lower-Limb Exoskeleton Assistance](https://ieeexplore.ieee.org/document/10155858)" was published at the invited session "Recent Advancement of Human Autonomy Interaction & Integration" of the 2023 American Control Conference, San Diego, CA. 
+- 05/2023: Congratulations to Dr. Therese Parr for successfully defending her dissertation. 
+- 12/2022: Our paper entitled "[Task-Invariant Centroidal Momentum Shaping for Lower-Limb Exoskeletons](https://ieeexplore.ieee.org/abstract/document/9993080)" was published at the 61st Conference on Decision and Control. 
+- 01/2022: ARL welcomes PhD student Miao Yu and Yalun Jiang.
+- 04/2021: Dr. Lv receives the South Carolina Translational Research Improving Musculoskeletal Health (SC TRIMH) targeted junior faculty award.
+- 01/2020: Dr. Lv joined the Mechanical Engineering department at Clemson University as an Assistant Professor.
+- 11/2018: Our recent publication: [On the Design and Control of Highly Backdrivable Lower-Limb Exoskeletons](https://ieeexplore.ieee.org/abstract/document/8536572) is the cover article of the latest issue of IEEE Control Systems Magazine! Special thanks to my PhD mentor and co-author Robert D. Gregg.  
+- 10/2018: Dr. Lv joined the Robotics Institute at Carnegie Mellon University as a postdoctoral fellow at the Robotics Institute, Carnegie
+- 04/2018: Dr. Lv successfully defended my PhD dissertation. 
+- 08/2017: Dr. Lv received the Louis Beecherl, Jr. Graduate Fellowship from UT Dallas.
+- 12/2015: Dr. Lv received the Best Student Paper Award of the 54th IEEE Conference on Decision and Control!
 
 <!-- Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge. -->
 
