@@ -10,46 +10,64 @@ Principal Investigator
 <img align="left" width="250" height="250" src="/images/Ge.jpg">
 
 Ge Lv, PhD
+
 Assistant Professor, Departments of Mechanical Engineering and Bioengineering
+
 Faculty Scholar, School of Health Research
+
 Clemson University 
+
 Email: glv AT clemson DOT edu
-[Personal Website](https://sites.google.com/view/lyuge)
 
+[Personal Website](https://sites.google.com/view/lyuge)| [Google Scholar](https://scholar.google.com/citations?user%253DnDnV2LkAAAAJ%2526hl%253Den)
 
-Education
+PhD students 
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Miao Yu, Mechanical Engineering
 
-Work experience
+BS, Electrical Engineering & Its Automation, North China Electric Power University, 2015
+
+MS, Electrical & Syhstems Engineering, Washington University at St. Louis, 2017
+
+MS, Electrical Engineering, University of Maryland, College Park, 2021
+
+* Yalun Jiang, Mechanical Engineering
+
+BS, Power Engineering of Aircaft, Nanjing Univerity of Aeronautics & Astronautics, 2015
+
+MS, Automotive Engineering, University of Bath, 2017
+
+
+MS students 
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Hamdan Khan Sarvathullah, Mechanical Engineering 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Nicolas Daly, Mechanical Engineering 
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+* Gavin Platt, Mechanical Engineering 
+
+* Cassie Hoffman, Bioengineering
+
+* Timothy Brodsky, Mechanical Engineering 
+
+Undergraduate students 
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* James Rhoads (Creative Inquiry), Mechanical Engineering
 
-Publications
+* Ryan Rutolo (Creative Inquiry), Mechanical Engineering 
+
+* Anh Doan (Creative Inquiry), Mechanical Engineering 
+
+* Thomas Holliday(Creative Inquiry), Mechanical Engineering 
+
+* Andrew Parent, Mechanical Engineering 
+
+* James Farrell, Mechanical Engineering 
+
+* Sean Lee, Mechanical Engineering 
+
+<!-- 
+Alumni 
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
@@ -65,10 +83,17 @@ Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Service and leadership
+Alumni
 ======
-* Currently signed in to 43 different slack teams
+* Dr. Therese Parr, PhD, Bioengineering 
+  * Current Position: Research Biomedical Engineer & Fellow, Air Force Research Laboratory 
 
+* Timothy Driscoll, MS, Computer Engineering 
+  * Current Position: Software Engineer, DEKA Research & Development 
+
+* Param Malhotra, MS, Mechanical Engineering 
+
+* Yash Srivastava, MS, Electrical & Computer Engineering 
 
