@@ -22,11 +22,11 @@ repository               : "AssistiveRoboticsLaboratory/AssistiveRoboticsLaborat
 author:
   # Biographic information
   avatar           : "ARL.png"
-  name             : "Your Sidebar Name"
+  name             : "Assistive Robotics Laboratory"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "225 A, Fluor Daniel Engineering Innovation Buildilng "
+  employer         : "Clemson University"
   uri              : # URL
   email            : "none@example.org" 
 
