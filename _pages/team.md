@@ -10,7 +10,7 @@ Principal Investigator
 <!-- ![picture of PI](/images/Genew.jpg align = "right")  -->
 <!-- <img align="left" width="250" height="250" src="/images/Ge.jpg"> -->
 
-**Ge Lv, PhD**
+*Ge Lv, PhD*
     
      Assistant Professor, Departments of Mechanical Engineering and Bioengineering
 
@@ -26,7 +26,7 @@ Principal Investigator
 
 
 PhD students 
-======
+---
 * Miao Yu, Mechanical Engineering
    * BS, Electrical Engineering & Its Automation, North China Electric Power University, 2015
    
@@ -43,7 +43,7 @@ PhD students
 
 
 MS students 
-======
+---
 * Hamdan Khan Sarvathullah, Mechanical Engineering 
 
 * Nicolas Daly, Mechanical Engineering 
@@ -57,7 +57,7 @@ MS students
 
 
 Undergraduate students 
-======
+---
 * James Rhoads (Creative Inquiry), Mechanical Engineering
 
 * Ryan Rutolo (Creative Inquiry), Mechanical Engineering 
@@ -94,7 +94,7 @@ Teaching
 
 
 Alumni
-======
+---
 * Dr. Therese Parr, PhD, Bioengineering 
   * Current Position: Research Biomedical Engineer & Fellow, Air Force Research Laboratory 
 
