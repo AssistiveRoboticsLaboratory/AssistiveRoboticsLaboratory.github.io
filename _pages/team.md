@@ -6,9 +6,10 @@ author_profile: true
 ---
 Principal Investigator 
 ======
-(/images/Genew.jpg align = "right") 
+<!-- ![picture of PI](/images/Genew.jpg align = "right")  -->
+<img align="left" width="100" height="100" src="/images/Genew.jpg">
 
-<!-- ![Editing a markdown file for a talk](/images/Labview.jpg)  -->
+
 Ge Lv, PhD
 
 Assistant Professor, Departments of Mechanical Engineering and Bioengineering
