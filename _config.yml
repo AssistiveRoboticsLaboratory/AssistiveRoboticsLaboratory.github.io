@@ -253,7 +253,7 @@ defaults:
  # _team
   - scope:
       path: ""
-      type: team
+      type: Team
     values:
       layout: single
       author_profile: true
