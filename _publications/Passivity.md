@@ -2,7 +2,7 @@
 title: "Passivity-Based Control for Robust Bipedal Locomotion"
 collection: publications
 permalink: /publication/Passivity
-excerpt: 'Publications on Passibity-Based Control for This paper is about the number 3. The number 4 is left for future work.'
+excerpt: 'Publications on Passibity-Based Control for Robust Bipedal Locomotion'
 # date: 2015-10-01
 # venue: 'Journal 1'
 # paperurl: 'http://academicpages.github.io/files/paper3.pdf'
