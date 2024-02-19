@@ -2,7 +2,7 @@
 title: "Task-Invariant Control Paradigms for Volitional Motion"
 collection: publications
 permalink: /publication/TaskInvariantControl
-excerpt: 'Publications on Energy Shaping Control and Centroidal Momentum Shaping Control.'
+excerpt: 'Publications on Energy Shaping Control and Centroidal Momentum Shaping Control for Lower-Limb Exoskeletons.'
 # date: 2024-02-18
 # venue: 'Journal 1'
 #  paperurl: 'http://academicpages.github.io/files/paper1.pdf'
