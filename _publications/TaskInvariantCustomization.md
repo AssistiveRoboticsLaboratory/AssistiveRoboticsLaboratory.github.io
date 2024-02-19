@@ -12,6 +12,6 @@ Kinematic control approaches for exoskeletons follow specified trajectories, whi
 
 Conference Proceedings
 ---
-* G. Lv, H. Xing, J. Lin, R. Gregg and C. Atkeson, “A Task-Invariant Learning Framework of Lower-Limb Exoskeletons for Assisting Human Locomotion”,  American Control Conference, Denver, 2020.  [PDF](http://assistiveroboticslaboratory.github.io/files/GeACC20.pdf)
+* G. Lv, H. Xing, J. Lin, R. Gregg and C. Atkeson, “A Task-Invariant Learning Framework of Lower-Limb Exoskeletons for Assisting Human Locomotion”,  American Control Conference, Denver, 2020. [PDF](http://assistiveroboticslaboratory.github.io/files/GeACC20.pdf)
 
-* G. Lv et al., “A Two-Layer Human-in-the-Loop Optimization Framework for Customizing Lower-Limb Exoskeleton Assistance”, invited session on "Recent Advancement of Human Autonomy Interaction & Integration", American Control Conference, San Diego, 2023.[PDF](http://assistiveroboticslaboratory.github.io/files/GeACC23.pdf)
+* G. Lv et al., “A Two-Layer Human-in-the-Loop Optimization Framework for Customizing Lower-Limb Exoskeleton Assistance”, invited session on "Recent Advancement of Human Autonomy Interaction & Integration", American Control Conference, San Diego, 2023. [PDF](http://assistiveroboticslaboratory.github.io/files/GeACC23.pdf)

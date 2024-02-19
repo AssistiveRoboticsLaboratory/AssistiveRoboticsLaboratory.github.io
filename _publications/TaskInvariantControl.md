@@ -14,7 +14,7 @@ Journal Articles
 ---
 * G. Lv, H. Zhu, and R. Gregg, “On the Control and Design of Highly Backdrivable Lower-Limb Exoskeletons“, IEEE Control Systems Magazine, Special Issue on Control Systems Issues for Assistive and Rehabilitation Robotics, 2018, doi: 10.1109/MCS.2018.2866605. **Cover Article of the Issue**. [PDF](http://assistiveroboticslaboratory.github.io/files/GeCSM.pdf)
 
-* G. Lv and R. Gregg, “Underactuated Potential Energy Shaping with Contact Constraints: Application to a Powered Knee-Ankle Orthosis,” IEEE Transactions on Control Systems Technology, 26(1): 181-193, 2018.  [PDF](http://academicpages.github.io/files/GeTCST.pdf)
+* G. Lv and R. Gregg, “Underactuated Potential Energy Shaping with Contact Constraints: Application to a Powered Knee-Ankle Orthosis,” IEEE Transactions on Control Systems Technology, 26(1): 181-193, 2018. [PDF](http://academicpages.github.io/files/GeTCST.pdf)
 
 * G. Lv, J. Lin, and R. Gregg, “Trajectory-Free Control of Lower-Limb Exoskeletons Through Underactuated Total Energy Shaping,” IEEE Access, 9, pp. 95427-95443, 2021. [PDF](http://assistiveroboticslaboratory.github.io/files/GeTCST.pdf) 
 
@@ -24,7 +24,7 @@ Conference Proceedings
 ---
 * G. Lv and R. Gregg, “Orthotic Body-Weight Support through Underactuated Potential Energy Shaping with Contact Constraints,” IEEE Conference on Decision and Control, Osaka, Japan, 2015. **Best Student Paper Award**. [PDF](http://assistiveroboticslaboratory.github.io/files/GeCDC15.pdf)
 
-* G. Lv, H. Zhu, T. Elery, L. Li, and R. Gregg, “Experimental Implementation of Underactuated Potential Energy Shaping on a Powered Ankle-Foot Orthosis”, IEEE Conference on Robotics and Automation, Sweden, 2016.[PDF](http://assistiveroboticslaboratory.github.io/files/GeICRA16.pdf)
+* G. Lv, H. Zhu, T. Elery, L. Li, and R. Gregg, “Experimental Implementation of Underactuated Potential Energy Shaping on a Powered Ankle-Foot Orthosis”, IEEE Conference on Robotics and Automation, Sweden, 2016. [PDF](http://assistiveroboticslaboratory.github.io/files/GeICRA16.pdf)
 
 * H. Zhu, J. Doan, C. Stence, G. Lv, T. Elery, and R. Gregg, “Design and Validation of a Torque Dense, Highly Backdrivable Powered Knee-Ankle Orthosis”, IEEE International Conference on Robotics and Automation, Singapore, 2017. [PDF](http://assistiveroboticslaboratory.github.io/files/GeICRA17.pdf)
 
