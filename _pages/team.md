@@ -95,13 +95,13 @@ Teaching
 
 Alumni
 ---
-* Dr. Therese Parr, PhD, Bioengineering 
+* Therese Parr, PhD, Bioengineering 
   * Current Position: Research Biomedical Engineer & Fellow, Air Force Research Laboratory 
 
 * Timothy Driscoll, MS, Computer Engineering 
   * Current Position: Software Engineer, DEKA Research & Development 
 
-* Param Malhotra, MS, Mechanical Engineering 
+* Param Malhotra, MS, Mechanical Engineering, 2022
 
-* Yash Srivastava, MS, Electrical & Computer Engineering 
+* Yash Srivastava, MS, Electrical & Computer Engineering, 2022
 
