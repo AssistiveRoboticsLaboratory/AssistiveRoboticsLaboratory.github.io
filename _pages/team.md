@@ -64,7 +64,7 @@ Undergraduate students
 
 * Anh Doan (Creative Inquiry), Mechanical Engineering 
 
-* Thomas Holliday(Creative Inquiry), Mechanical Engineering 
+* Thomas Holliday (Creative Inquiry), Mechanical Engineering 
 
 * Andrew Parent, Mechanical Engineering 
 
