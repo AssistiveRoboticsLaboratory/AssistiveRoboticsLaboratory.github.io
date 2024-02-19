@@ -1,5 +1,5 @@
 ---
-title: "Task-Invariant Customization Framework for Lower "
+title: "Task-Invariant Customization Framework for Lower-Limb Exoskeletons"
 collection: publications
 permalink: /publication/TaskInvariantCustomization
 excerpt: 'Publications on Human-in-the-Loop, Task-Invariant Customization Framework for Lower-Limb Exoskeletons.'
