@@ -21,7 +21,9 @@ The mission of the Assistive Robotics Laboratory is to develop agile, versatile 
 NEWS
 ------
 - 07/2023: Our paper entitled "[A Two-Layer Human-in-the-Loop Optimization Framework for Customizing Lower-Limb Exoskeleton Assistance](https://ieeexplore.ieee.org/document/10155858)" was published at the invited session "Recent Advancement of Human Autonomy Interaction & Integration" of the 2023 American Control Conference, San Diego, CA. 
-- 04/2023: Dr. Lv was recognized as Faculty Scholar at the School of Health Research, Clemson University. 
+- 04/2023: 
+  * Tapp Rhoads received the Carl Donner nelson, Jr. Meomrial Award. Congrats Tapp. 
+  * Dr. Lv was recognized as Faculty Scholar at the School of Health Research, Clemson University. 
 - 05/2023: Congratulations to Dr. Therese Parr for successfully defending her dissertation. 
 - 12/2022: Our paper entitled "[Task-Invariant Centroidal Momentum Shaping for Lower-Limb Exoskeletons](https://ieeexplore.ieee.org/abstract/document/9993080)" was published at the 61st Conference on Decision and Control. 
 - 01/2022: ARL welcomes PhD students Miao Yu and Yalun Jiang.
