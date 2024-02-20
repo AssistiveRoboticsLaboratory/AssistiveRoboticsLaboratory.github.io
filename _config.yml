@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Assistive Robotics Laboratory"
 title_separator          : "-"
-name                     : &name "Ge Lv"
+name                     : &name "Copyright (c) Ge Lv 2020 - 2024 All rights reserved."
 description              : &description "personal description"
 url                      : https://AssistiveRoboticsLaboratory.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
