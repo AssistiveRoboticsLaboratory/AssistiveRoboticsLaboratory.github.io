@@ -5,10 +5,10 @@ permalink: /Team/
 author_profile: true
 ---
 
-## Principal Investigator 
+Principal Investigator 
 ---
 <!-- ![picture of PI](/images/Genew.jpg align = "right")  -->
-<!-- <img align="left" width="250" height="250" src="/images/Ge.jpg"> -->
+<img align="right" width="250" height="250" src="/images/Ge.jpg">
 
   **Ge Lv (吕阁), PhD**
     
