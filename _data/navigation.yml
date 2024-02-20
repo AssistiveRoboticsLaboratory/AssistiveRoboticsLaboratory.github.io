@@ -3,8 +3,8 @@ main:
   - title: "Team"
     url: /Team/
 
-   - title: "Research"
-    url: /Research/
+  #  - title: "Research"
+  #   url: /Research/
 
   - title: "Publications"
     url: /publications/
