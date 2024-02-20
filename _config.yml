@@ -262,7 +262,7 @@ defaults:
 # _data
   - scope:
       path: ""
-      type: Data
+      type: data
     values:
       layout: single
       author_profile: true
