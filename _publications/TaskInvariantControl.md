@@ -17,9 +17,9 @@ Journal Articles
 ---
 * G. Lv, H. Zhu, and R. Gregg, “On the Control and Design of Highly Backdrivable Lower-Limb Exoskeletons“, IEEE Control Systems Magazine, Special Issue on Control Systems Issues for Assistive and Rehabilitation Robotics, 2018, doi: 10.1109/MCS.2018.2866605. **Cover Article of the Issue**. [PDF](http://assistiveroboticslaboratory.github.io/files/GeCSM.pdf)
 
-* G. Lv and R. Gregg, “Underactuated Potential Energy Shaping with Contact Constraints: Application to a Powered Knee-Ankle Orthosis,” IEEE Transactions on Control Systems Technology, 26(1): 181-193, 2018. [PDF](http://academicpages.github.io/files/GeTCST.pdf)
+* G. Lv and R. Gregg, “Underactuated Potential Energy Shaping with Contact Constraints: Application to a Powered Knee-Ankle Orthosis,” IEEE Transactions on Control Systems Technology, 26(1): 181-193, 2018. [PDF](http://assistiveroboticslaboratory.github.io/files/GeTCST.pdf)
 
-* G. Lv, J. Lin, and R. Gregg, “Trajectory-Free Control of Lower-Limb Exoskeletons Through Underactuated Total Energy Shaping,” IEEE Access, 9, pp. 95427-95443, 2021. [PDF](http://assistiveroboticslaboratory.github.io/files/GeTCST.pdf) 
+* G. Lv, J. Lin, and R. Gregg, “Trajectory-Free Control of Lower-Limb Exoskeletons Through Underactuated Total Energy Shaping,” IEEE Access, 9, pp. 95427-95443, 2021. [PDF](http://assistiveroboticslaboratory.github.io/files/GeIEEEAccess.pdf) 
 
 * J. Lin, D. Nikhil, G. Lv, and R. Gregg, “Optimal Task-Invariant Energetic Control for a Knee-Ankle Exoskeleton“, IEEE Control Systems Letters, 5(5): pp, 1711 – 1716, 2021. [PDF](http://assistiveroboticslaboratory.github.io/files/GeCSS.pdf)
 
