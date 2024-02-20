@@ -7,31 +7,39 @@ redirect_from:
   - /markdown.html
 ---
 
-## Locations of key files/directories
+## Mailing Address
 
-* Basic config options: _config.yml
-* Top navigation bar config: _data/navigation.yml
-* Single pages: _pages/
-* Collections of pages are .md or .html files in:
-  * _publications/
-  * _portfolio/
-  * _posts/
-  * _teaching/
-  * _talks/
-  * _team/
-* Footer: _includes/footer.html
-* Static files (like PDFs): /files/
-* Profile image (can set in _config.yml): images/profile.png
+* Department of Mechanical Engineering
+  
+  216 S Palmetto Blvd
 
-## Tips and hints
+  Clemson, SC, 29634-0921
 
-* Name a file ".md" to have it render in markdown, name it ".html" to render in HTML.
-* Go to the [commit list](https://github.com/academicpages/academicpages.github.io/commits/master) (on your repo) to find the last version Github built with Jekyll. 
-  * Green check: successful build
-  * Orange circle: building
-  * Red X: error
-  * No icon: not built
+## Email
 
+* glv AT clemson DOT edu 
+
+## Phone
+
+* (864)656 - 7291 
+
+## Office
+
+* 250, Fluor Daniel Engineering Building 
+
+## Laboratory
+
+* 225A, Fluor Daniel Engineering Building 
+
+## Twitter 
+
+* [StJimmylv](https://twitter.com/StJimmylv)
+
+## YouTube
+
+* [ARL-Clemson](https://www.youtube.com/channel/UCCsBkA8Ip_4OQYd7cukMT-w)
+
+<!-- 
 ## Resources
  * [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)
  * [MathJax Documentation](https://docs.mathjax.org/en/latest/)
@@ -231,4 +239,4 @@ Still sticking with science and Isaac Newton's E = MC<sup>2</sup>, which should 
 
 ### Variable Tag
 
-This allows you to denote <var>variables</var>.
+This allows you to denote <var>variables</var>. -->
