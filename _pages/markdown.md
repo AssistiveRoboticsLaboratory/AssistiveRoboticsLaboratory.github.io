@@ -15,29 +15,18 @@ redirect_from:
 
   Clemson, SC, 29634-0921
 
-## Email
+## Contact Information & Location
 
-* glv AT clemson DOT edu 
+* Email: glv AT clemson DOT edu 
+* Phone: (864)656 -7291
+* Office: 250, Fluor Daniel Engineering Innovation Building 
+* Laboratory: 225 A, Fluor Daniel Engineering Innovation Building
 
-## Phone
+## Social Media 
 
-* (864)656 - 7291 
+* Twitter: [StJimmylv](https://twitter.com/StJimmylv)
+* YouTube: [ARL-Clemson](https://www.youtube.com/channel/UCCsBkA8Ip_4OQYd7cukMT-w)
 
-## Office
-
-* 250, Fluor Daniel Engineering Building 
-
-## Laboratory
-
-* 225A, Fluor Daniel Engineering Building 
-
-## Twitter 
-
-* [StJimmylv](https://twitter.com/StJimmylv)
-
-## YouTube
-
-* [ARL-Clemson](https://www.youtube.com/channel/UCCsBkA8Ip_4OQYd7cukMT-w)
 
 <!-- 
 ## Resources
