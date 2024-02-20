@@ -259,6 +259,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
+# _data
+  - scope:
+      path: ""
+      type: Data
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _portfolio
   - scope:
       path: ""
