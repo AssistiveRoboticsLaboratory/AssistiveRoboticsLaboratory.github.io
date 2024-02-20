@@ -7,8 +7,9 @@ redirect_from:
   - /markdown.html
 ---
 
-<img align="right" width="300" height="300" src="/images/EIB.jpg">
 ## Mailing Address
+
+<img align="right" width="300" height="300" src="/images/EIB.jpg">
 
 * Department of Mechanical Engineering
   
