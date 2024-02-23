@@ -13,7 +13,7 @@ Current prosthetic knee designs are based on replicating normal anatomy with a r
 
 Journal Articles
 ---
-* *T. Parr, J. DesJardins, A. Hippensteal, T. Harvey, and G. Lv, "Transfemoral Prosthesis with Ambulatory Length-Actuation: Design and Preliminary Evaluation", IEEE Transactions on Bionics & Medical Robotics, under review, 2024. 
+* T. Parr, J. DesJardins, A. Hippensteal, T. Harvey, and G. Lv, "Transfemoral Prosthesis with Ambulatory Length-Actuation: Design and Preliminary Evaluation", IEEE Transactions on Bionics & Medical Robotics, under review, 2024. 
 
 * T. Parr, G. Lv, A. Hippensteal, C. Pitts, J. Roahds, O. Aguilar, J. DesJardings, "``"Pilot Evaluation of Gait Stability and Mobility for Persons using a Length-Actuated Transfemoral Prosthesis", Prosthetics and Orthotics International, under review, 2024. 
 
