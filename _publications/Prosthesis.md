@@ -1,5 +1,5 @@
 ---
-title: "Passivity-Based Control for Robust Bipedal Locomotion"
+title: "Length-Adjustable Prothesis"
 collection: publications
 permalink: /publication/Prosthesis
 excerpt: 'Publications on length-adjustable prosthesis'
