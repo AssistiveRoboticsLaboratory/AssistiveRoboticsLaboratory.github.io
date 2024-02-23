@@ -18,6 +18,24 @@ The mission of the Assistive Robotics Laboratory is to develop agile, versatile 
 
 <!-- #This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
 
+Announcement
+------
+Funded PhD positions are available at the Department of Mechanical Engineering at Clemson University starting Fall 2024. Qualified candidates will receive a tution waiver and stipend to conduct research on customizing exoskeleton assistance for volitional human motion via online, human-in-the-loop optimizaion. 
+
+*  Required Qualificaition:  
+   - A BS and/or MS degree in Mechanical, Electrical, Computer Engineering, or related areas.
+   - Proficient programming skills in C/C++, Python, and Matlab.
+   - Good communication, presentation, and writing skills.  
+
+*  Preferred Qualificaition:  
+   - Knowledge in control systems design and analysis, robot dynamics, and optimization/machine learning.
+   - Experiences with using inertial measurement units, joint encoders, actuators, and motor drivers. 
+   - Experiences with using motion capture systems and electromyography sensors for gait analysis. 
+   - Experiences in mechatronics design 
+
+*  Application Process:  
+   - Once submitted the official application to the PhD program of Mechanical Engineeirng, please fill out this [survey](https://forms.gle/YtPErmCJAitATLG98) here. 
+
 NEWS
 ------
 - 07/2023: Our paper entitled "[A Two-Layer Human-in-the-Loop Optimization Framework for Customizing Lower-Limb Exoskeleton Assistance](https://ieeexplore.ieee.org/document/10155858)" was published at the invited session "Recent Advancement of Human Autonomy Interaction & Integration" of the 2023 American Control Conference, San Diego, CA. 
