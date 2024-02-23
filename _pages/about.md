@@ -22,12 +22,12 @@ ANNOUNCEMENT: We are hiring!
 ------
 Funded PhD positions are available at the Department of Mechanical Engineering at Clemson University starting Fall 2024. Qualified candidates will receive a tution waiver and stipend to conduct research on customizing exoskeleton assistance for volitional human motion via online, human-in-the-loop optimizaion. 
 
-*  Required Qualificaition:  
+*  Required Qualification:  
    - A BS and/or MS degree in Mechanical, Electrical, Computer Engineering, or related areas.
    - Proficient programming skills in C/C++, Python, and Matlab.
    - Good communication, presentation, and writing skills.  
 
-*  Preferred Qualificaition:  
+*  Preferred Qualification:  
    - Knowledge in control systems design and analysis, robot dynamics, and optimization/machine learning.
    - Experiences with using inertial measurement units, joint encoders, actuators, and motor drivers. 
    - Experiences with using motion capture systems and electromyography sensors for gait analysis. 
