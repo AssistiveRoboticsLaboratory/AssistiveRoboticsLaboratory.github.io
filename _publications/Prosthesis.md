@@ -25,6 +25,6 @@ Abstracts
 
 * C. Pitts, R. Parr, J. Rhoads, O. Aguilar, G. Lv, J. DesJardins, "Length-Actuated Transfemoral Prosthesis Increases Hip Flexion/Extension Symmetry for Users", Prisma Health Education and Research Institute Showcase, Columbia, SC, October 27, 2023.
 
-* T. Parr, A. Hippensteal, G. Lv, T. Harvey, S. Thomas, T. Driscoll, B. Lawhorn, J. DesJardins, "Development of a Novel Length-Actuated Transfemoral Prosthesis for Functional Symmetry", 48th Academy Annual Meeting & Scientific Symposium, Atlanta, GA, March 2-5, 2022.
+* T. Parr, A. Hippensteal, G. Lv, T. Harvey, S. Thomas, T. Driscoll, B. Lawhorn, J. DesJardins, "Development of a Novel Length-Actuated Transfemoral Prosthesis for Functional Symmetry", 48th Academy Annual Meeting & Scientific Symposium, Atlanta, GA, March 2 - 5, 2022.
 
 * T. Parr, A. Hippensteal, G. Lv, T. Harvey, B. Lawhorn, S. Thomas, T. Driscoll, J. DesJardins, "Development of a Length-Actuated Transfemoral Prosthesis Based on Dynamic Leg Length Modeling", Prisma Health Research Showcase, Greenville, SC, October 22, 2021.
