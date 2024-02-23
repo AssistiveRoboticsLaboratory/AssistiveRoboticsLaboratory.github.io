@@ -3,18 +3,19 @@ title: "Teaching experience 1"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+# venue: "University 1, Department"
+# date: 2014-01-01
+# location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
+ME 3050: Modeling & Analysis of Dynamic Systems
 ======
+Spring 2020 - present 
 
-Heading 2
+ME 4021: Internship in Engineering Design Laboratory
 ======
+Spring 2022, 2024
 
-Heading 3
+ME 8200: Modern Control Engineering
 ======
+Spring 2023
