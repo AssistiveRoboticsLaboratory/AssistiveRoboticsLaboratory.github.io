@@ -34,7 +34,7 @@ Funded PhD positions are available at the Department of Mechanical Engineering a
    - Experiences in mechatronics design 
 
 *  Application Process:  
-   - Once submitted the official application to the PhD program of Mechanical Engineeirng, please fill out this [survey](https://forms.gle/YtPErmCJAitATLG98) here. 
+   - Once submitted the official application to the PhD program of Mechanical Engineeirng, please fill out this [survey](https://forms.gle/YtPErmCJAitATLG98). 
 
 NEWS
 ------
