@@ -7,7 +7,7 @@ author_profile: true
 
 ME 3050: Modeling & Analysis of Dynamic Systems
 ---
-Spring 2020 - present 
+Spring/Fall 2020 - 2023, Spring 2024 
 
 ME 4021: Internship in Engineering Design Laboratory
 ---
