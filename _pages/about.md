@@ -91,4 +91,4 @@ Last Updated:
 <!-- More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
 Feburary 23, 2024
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=QKBESDUECYuMO4wVvyyxv0RnNVfEA5Yqu4tFWeSgm7c&cl=ffffff&w=a"></script>
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=150&t=n&d=QKBESDUECYuMO4wVvyyxv0RnNVfEA5Yqu4tFWeSgm7c"></script>
