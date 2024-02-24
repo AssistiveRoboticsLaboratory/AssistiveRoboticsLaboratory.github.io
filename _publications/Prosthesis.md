@@ -1,5 +1,5 @@
 ---
-title: "Length-Adjustable Prothesis"
+title: "Length-Adjustable Prosthesis"
 collection: publications
 permalink: /publication/Prosthesis
 excerpt: 'Publications on length-adjustable prosthesis'
