@@ -39,7 +39,7 @@ Funded PhD positions are available at the Department of Mechanical Engineering a
 NEWS
 ------
 - 03/2024: 
-* Our lab receives the Faculty Early Career Development Program [(CAREER) Award] (https://www.nsf.gov/awardsearch/showAward?AWD_ID=2340261&HistoricalAwards=false) from the National Science Foundation. 
+* Our lab receives the [CAREER Award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2340261&HistoricalAwards=false) from the National Science Foundation! Many thanks to NSF for supporting our research. 
 
 * Our paper enetitiled "[The Claw: An Avian-Inspired, Large Scale, Hybrid Rigid-Continuum Gripper](https://www.mdpi.com/2218-6581/13/3/52)]" was accepted into the speicial issue "Intelligent Bionic Robots" of Robotics (MDPI)! This is a collobration work with [Prof. Ian Walker](https://iwalker.people.clemson.edu) at the Department of Electrical and Computer Engineering, Clemson University. 
 
