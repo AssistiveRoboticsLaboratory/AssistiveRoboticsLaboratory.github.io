@@ -38,7 +38,13 @@ Funded PhD positions are available at the Department of Mechanical Engineering a
 
 NEWS
 ------
+- 03/2024: 
+* Our lab receives the Faculty Early Career Development Program [(CAREER) Award] (https://www.nsf.gov/awardsearch/showAward?AWD_ID=2340261&HistoricalAwards=false) from the National Science Foundation. 
+
+* Our paper enetitiled "[The Claw: An Avian-Inspired, Large Scale, Hybrid Rigid-Continuum Gripper](https://www.mdpi.com/2218-6581/13/3/52)]" was accepted into the speicial issue "Intelligent Bionic Robots" of Robotics (MDPI)! This is a collobration work with [Prof. Ian Walker](https://iwalker.people.clemson.edu) at the Department of Electrical and Computer Engineering, Clemson University. 
+
 - 07/2023: Our paper entitled "[A Two-Layer Human-in-the-Loop Optimization Framework for Customizing Lower-Limb Exoskeleton Assistance](https://ieeexplore.ieee.org/document/10155858)" was published at the invited session "Recent Advancement of Human Autonomy Interaction & Integration" of the 2023 American Control Conference, San Diego, CA. 
+
 - 04/2023: 
   * Tapp Rhoads received the Carl Donner nelson, Jr. Meomrial Award. Congrats Tapp. 
   * Dr. Lv was recognized as Faculty Scholar at the School of Health Research, Clemson University. 
