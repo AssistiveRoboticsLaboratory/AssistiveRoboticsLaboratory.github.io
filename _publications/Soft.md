@@ -8,13 +8,39 @@ excerpt: 'Publications on Continuum and Soft Robots.'
 #  paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 #  citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
+<div style="text-align: justify"> 
 It has long been envisioned that robots will become embedded with humans to help people accomplish a wide variety of tasks during their daily lives. However, despite the prevalence of existing robotic devices, few of them directly interact with humans. Most of them are poorly adaptable to the unpredictability that characterizes human activities, and furthermore are built from rigid components that can cause harm or injuries to humans in physical interactions. The vast majority of robots therefore operate on their own in a restricted space, usually with little or no interaction with human users. Soft and compliant robots, on the other hand, offer a fundamentally safe and user-friendly interface with humans given their inherently compliant nature, and therefore have the potential to be used as assistive devices to augment a broad range of human activities.
 
-In this project, we propose a novel and rigorous human-centered framework for a class of soft robots, specifically continuum robots, to assist humans during various daily activities. The proposed robots will function as compliant auxiliary limbs and appendages in a wearable system to help their human users. 
+In this project, we propose a novel and rigorous human-centered framework for a class of soft robots, specifically continuum robots, to assist humans during various daily activities. The proposed robots will function as compliant auxiliary limbs and appendages in a wearable system to help their human users. </div>
 
-<img align="Center" width="350" height="350" src="/images/Concept.png">
+<!-- <img align="Center" width="350" height="350" src="/images/Concept.png">
 <img align="Center" width="350" height="350" src="/images/Backward Fall.png">
-<img align="Center" width="350" height="350" src="/images/MultiSectionArm.png">
+<img align="Center" width="350" height="350" src="/images/MultiSectionArm.png"> -->
+
+<figure>
+    <img 
+         align="Center" width="650" height="350"
+         src="/images/Concept.png"
+         alt="Albuquerque, New Mexico">
+    <figcaption> Continuum robots based assistive appendage for lifting patients.</figcaption>
+</figure>
+
+
+<figure>
+    <img 
+         align="Center" width="650" height="350"
+         src="/images/Backward Fall.png"
+         alt="Albuquerque, New Mexico">
+    <figcaption> Continuum robots based assistive device for fall mitigation.</figcaption>
+</figure>
+
+<figure>
+    <img 
+         align="Center" width="250" height="250"
+         src="/images/Concept.png"
+         alt="Albuquerque, New Mexico">
+    <figcaption> Different views of continuum robots.</figcaption>
+</figure>
 
 
 Conference Proceedings
@@ -36,13 +62,16 @@ Continuum robots, often inspired by cephalopods, leverage their compliant nature
     <img 
          align="Center" width="350" height="350"
          src="/images/ClawFigure.png"
-         alt="Albuquerque, New Mexico">
-    <figcaption>Just a test.</figcaption>
+    <img
+          align="Center" width="350" height="350"
+         src="/images/claw_hand.jpeg"
+         alt="Claw Hands">
+    <figcaption>The Claw, a hybrid rigid-continuum gripper, features three forward-facing digits (a) and one backward facing digit (b). The digits have rigid proximal structures, with their distal tips compliant pneumatically actuated continuum elements. The backward facing digit (b) has its  proximal rigid element directly actuated by a motor. The digits (a) are coupled in abduction/adduction (perpendicular to plane of image) by additional compliant continuum elements.</figcaption>
 </figure>
 
 Journal Articles 
 ---
- * M. Stokes, J. Mohrmann, C. Frazelle, I. Walker, and G. Lv, "The Claw: An Avian-Inspired, Large Scale, Hybrid Rigid-Continuum Gripper" [PDF](https://www.mdpi.com/2218-6581/13/3/52)", **Cover Article** of Speicial Issue "Intelligent Bionic Robots" of Robotics (MDPI). 
+ * <div style="text-align: justify"> M. Stokes, J. Mohrmann, C. Frazelle, I. Walker, and G. Lv, "The Claw: An Avian-Inspired, Large Scale, Hybrid Rigid-Continuum Gripper", [PDF](https://www.mdpi.com/2218-6581/13/3/52), **Cover Article** of Speicial Issue "Intelligent Bionic Robots" of Robotics (MDPI). </div>
 
 
 <!-- This paper is about the number 1. The number 2 is left for future work. -->
