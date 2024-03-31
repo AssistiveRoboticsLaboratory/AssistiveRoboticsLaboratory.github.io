@@ -97,6 +97,6 @@ Example: editing a markdown file for a talk
 Last Updated:
 ------
 <!-- More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
-Feburary 23, 2024
+March 31, 2024
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=200&t=n&d=QKBESDUECYuMO4wVvyyxv0RnNVfEA5Yqu4tFWeSgm7c'></script>
