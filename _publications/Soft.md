@@ -19,8 +19,8 @@ In this project, we propose a novel and rigorous human-centered framework for a 
 
 <figure>
     <img 
-         align="Center" width="650" height="150"
-         src="/images/Concept.pdf"
+         align="Center" width="60" height="60"
+         src="/images/Concept.png"
          alt="appendage">
     <figcaption> Continuum robots based assistive appendage for lifting patients.</figcaption>
 </figure>
@@ -28,7 +28,7 @@ In this project, we propose a novel and rigorous human-centered framework for a 
 
 <figure>
     <img 
-         align="Center" width="650" height="150"
+         align="Center" width="60" height="60"
          src="/images/Backward Fall.png"
          alt="fall mitigation">
     <figcaption> Continuum robots based assistive device for fall mitigation.</figcaption>
@@ -36,7 +36,7 @@ In this project, we propose a novel and rigorous human-centered framework for a 
 
 <figure>
     <img 
-         align="Center" width="250" height="250"
+         align="Center" width="60" height="60"
          src="/images/MultiSectionArm.png"
          alt="arm section">
     <figcaption> Different views of continuum robots.</figcaption>
