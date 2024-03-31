@@ -19,14 +19,14 @@ In this project, we propose a novel and rigorous human-centered framework for a 
 </figure> -->
 
 <figure class="image image-style-side image_resized" style="width:60%; height:30%;">
-    <img align="Center" src="/images/Concept.png">
+    <img align="center" src="/images/Concept.png">
     <figcaption>
        Continuum robots based assistive appendage for lifting patients.
     </figcaption>
 </figure>
 
 <figure class="image image-style-side image_resized" style="width:60%; height:20%;">
-    <img align="Right" src="/images/Backward Fall.png">
+    <img align="right" src="/images/Backward Fall.png">
     <figcaption>
         Continuum robots based assistive device for fall mitigation. 
     </figcaption>
