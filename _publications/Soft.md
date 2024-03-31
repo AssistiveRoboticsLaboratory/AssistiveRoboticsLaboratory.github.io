@@ -26,7 +26,7 @@ In this project, we propose a novel and rigorous human-centered framework for a 
 </figure>
 
 <figure class="image image-style-side image_resized" style="width:60%; height:20%;">
-    <img style = "align: right;" src="/images/Backward Fall.png">
+    <img style = "float: right;" src="/images/Backward Fall.png">
     <figcaption>
         Continuum robots based assistive device for fall mitigation. 
     </figcaption>
