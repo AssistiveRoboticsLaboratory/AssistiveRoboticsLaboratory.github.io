@@ -30,7 +30,7 @@ In this project, we propose a novel and rigorous human-centered framework for a 
     <figcaption> Continuum robots based assistive device for fall mitigation.</figcaption>
 </figure>
 
-<figure class="image image-style-side image_resized" style="width:20%;">
+<figure class="image image-style-side image_resized" style="width:60%;">
     <img src="/images/Backward Fall.png">
     <figcaption>
         The Nintendo "flagship" - handheld Game Boy
