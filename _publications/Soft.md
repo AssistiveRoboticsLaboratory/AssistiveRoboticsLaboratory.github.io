@@ -18,9 +18,7 @@ In this project, we propose a novel and rigorous human-centered framework for a 
 <img align="Center" width="350" height="350" src="/images/MultiSectionArm.png"> -->
 
 <figure>
-    <img 
-         align="Center" width="20" height="20"
-         src="/images/Concept.png">
+    <img align="Center" width="20" height="20" src="/images/Concept.png">
     <figcaption> Continuum robots based assistive appendage for lifting patients.</figcaption>
 </figure>
 
@@ -32,11 +30,6 @@ In this project, we propose a novel and rigorous human-centered framework for a 
     <figcaption> Continuum robots based assistive device for fall mitigation.</figcaption>
 </figure>
 
-![Albuquerque, New Mexico](/assets/images/albuquerque.jpg)
-*A single track trail outside of Albuquerque, New Mexico.*
-
-
-
 <!-- <figure>
     <img 
          align="Center" width="15" height="15"
@@ -44,9 +37,6 @@ In this project, we propose a novel and rigorous human-centered framework for a 
          alt="arm section">
     <figcaption> Different views of continuum robots.</figcaption>
 </figure> -->
-
-<img align="Center" width="60" height="60" src="/images/MultiSectionArm.png"> 
-*SDFDS*
 
 
 Conference Proceedings
