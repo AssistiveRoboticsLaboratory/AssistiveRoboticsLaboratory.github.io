@@ -13,27 +13,22 @@ It has long been envisioned that robots will become embedded with humans to help
 
 In this project, we propose a novel and rigorous human-centered framework for a class of soft robots, specifically continuum robots, to assist humans during various daily activities. The proposed robots will function as compliant auxiliary limbs and appendages in a wearable system to help their human users. </div>
 
-<!-- <img align="Center" width="350" height="350" src="/images/Concept.png">
-<img align="Center" width="350" height="350" src="/images/Backward Fall.png">
-<img align="Center" width="350" height="350" src="/images/MultiSectionArm.png"> -->
-
-<figure>
+<!-- <figure>
     <img align="Center" width="20%" height="20%" src="/images/Concept.png">
     <figcaption> Continuum robots based assistive appendage for lifting patients.</figcaption>
-</figure>
+</figure> -->
 
-<figure>
-    <img 
-         align="Center" width="60" height="60"
-         src="/images/Backward Fall.png"
-         alt="fall mitigation">
-    <figcaption> Continuum robots based assistive device for fall mitigation.</figcaption>
+<figure class="image image-style-side image_resized" style="width:60%; height:30%;">
+    <img align="Center" src="/images/Concept.png">
+    <figcaption>
+       Continuum robots based assistive appendage for lifting patients.
+    </figcaption>
 </figure>
 
 <figure class="image image-style-side image_resized" style="width:60%; height:20%;">
-    <img src="/images/Backward Fall.png">
+    <img lign="Right" src="/images/Backward Fall.png">
     <figcaption>
-        The Nintendo "flagship" - handheld Game Boy
+        Continuum robots based assistive device for fall mitigation. 
     </figcaption>
 </figure>
 
