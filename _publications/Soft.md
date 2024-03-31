@@ -34,7 +34,7 @@ In this project, we propose a novel and rigorous human-centered framework for a 
 
 <figure>
     <img 
-         align="Center" width="60" height="60"
+         align="Center" width="15" height="15"
          src="/images/MultiSectionArm.png"
          alt="arm section">
     <figcaption> Different views of continuum robots.</figcaption>
