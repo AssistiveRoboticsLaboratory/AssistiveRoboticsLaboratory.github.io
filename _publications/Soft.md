@@ -12,9 +12,9 @@ It has long been envisioned that robots will become embedded with humans to help
 
 In this project, we propose a novel and rigorous human-centered framework for a class of soft robots, specifically continuum robots, to assist humans during various daily activities. The proposed robots will function as compliant auxiliary limbs and appendages in a wearable system to help their human users. 
 
-<img align="Center" width="350" height="350" src="/images/Concept.PNG">
-<img align="Center" width="350" height="350" src="/images/Backward Fall.PNG">
-<img align="Center" width="350" height="350" src="/images/MultiSectionArm.PNG">
+<img align="Center" width="350" height="350" src="/images/Concept.png">
+<img align="Center" width="350" height="350" src="/images/Backward Fall.png">
+<img align="Center" width="350" height="350" src="/images/MultiSectionArm.png">
 
 
 Conference Proceedings
@@ -35,7 +35,7 @@ Continuum robots, often inspired by cephalopods, leverage their compliant nature
 <figure>
     <img 
          align="Center" width="350" height="350"
-         src="/images/ClawFigure.PNG"
+         src="/images/ClawFigure.png"
          alt="Albuquerque, New Mexico">
     <figcaption>Just a test.</figcaption>
 </figure>
