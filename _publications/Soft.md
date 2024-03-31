@@ -20,8 +20,7 @@ In this project, we propose a novel and rigorous human-centered framework for a 
 <figure>
     <img 
          align="Center" width="20" height="20"
-         src="/images/Concept.png"
-         alt="appendage">
+         src="/images/Concept.png">
     <figcaption> Continuum robots based assistive appendage for lifting patients.</figcaption>
 </figure>
 
@@ -71,7 +70,7 @@ Continuum robots, often inspired by cephalopods, leverage their compliant nature
 
 Journal Articles 
 ---
- * <div style="text-align: justify"> M. Stokes, J. Mohrmann, C. Frazelle, I. Walker, and G. Lv, "The Claw: An Avian-Inspired, Large Scale, Hybrid Rigid-Continuum Gripper", [PDF](https://www.mdpi.com/2218-6581/13/3/52), **Cover Article** of Speicial Issue "Intelligent Bionic Robots" of Robotics (MDPI). </div>
+ * M. Stokes, J. Mohrmann, C. Frazelle, I. Walker, and G. Lv, "The Claw: An Avian-Inspired, Large Scale, Hybrid Rigid-Continuum Gripper", [PDF](https://www.mdpi.com/2218-6581/13/3/52), **Cover Article** of Speicial Issue "Intelligent Bionic Robots" of Robotics (MDPI).
 
 
 <!-- This paper is about the number 1. The number 2 is left for future work. -->
