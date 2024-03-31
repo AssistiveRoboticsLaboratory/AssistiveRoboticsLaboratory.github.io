@@ -19,7 +19,7 @@ In this project, we propose a novel and rigorous human-centered framework for a 
 
 <figure>
     <img 
-         align="Center" width="60" height="60"
+         align="Center" width="20" height="20"
          src="/images/Concept.png"
          alt="appendage">
     <figcaption> Continuum robots based assistive appendage for lifting patients.</figcaption>
