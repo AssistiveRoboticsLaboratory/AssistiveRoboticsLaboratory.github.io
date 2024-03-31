@@ -38,6 +38,9 @@ Funded PhD positions are available at the Department of Mechanical Engineering a
 
 NEWS
 ------
+-04/2024:
+   * Our paper entitled "Soft Robotics for Fall Mitigation: Preliminary Design and Evaluation of a Wearable System using Continuum Robots" was accepted to 2024 6th International Conference on Reconfigurable Mechanisms and Robots (ReMAR), Chicago, IL. 
+
 - 03/2024: 
    * Our lab receives the [CAREER Award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2340261&HistoricalAwards=false) from the National Science Foundation! Many thanks to NSF for supporting our research. 
 
