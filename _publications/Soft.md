@@ -25,6 +25,13 @@ In this project, we propose a novel and rigorous human-centered framework for a 
     </figcaption>
 </figure>
 
+<figure class="image image-style-side image_resized" style="float: left; width:60%; height:30%;">
+    <img src="/images/MultiSectionArm.png">
+    <figcaption>
+       Multi-section arm based on continuum robots. 
+    </figcaption>
+</figure>
+
 <figure class="image image-style-side image_resized" style="float: right; width:60%; height:30%;">
     <img src="/images/Backward Fall.png">
     <figcaption>
