@@ -22,12 +22,13 @@ Conference Proceedings
 * P. Malhotra, N. Kumar, C. Frazelle, I. Walker, and G. Lv,  “Soft Robotics for Fall Mitigation: Preliminary Design and Evaluation of a Wearable System using Continuum Robots”, 2024 6th International Conference on Reconfigurable Mechanisms and Robots (ReMAR). [PDF]
 
 
-
+---
+<div style="text-align: justify"> 
 The robotics community has long sought to replicate the dexterity and versatility of human hands through compliant mechanisms. Soft robotic grippers, while highly dexterous, sacrifice repeatability and strength for versatility in various environments. Our paper introduces the Claw, a novel compliant robot gripper that stands out for its large size, bird-inspired design, and unique blend of continuum and rigid elements. By combining actuated rigid parts for strong grasps with compliant components for structural flexibility, the Claw achieves powerful grasping abilities across a wide range of objects, surpassing the limitations of current robotic hands.
 
 Unlike biomimetic designs, the Claw draws inspiration from bird feet without directly copying their anatomy. Instead, it aims to emulate the adaptability of avian limbs in a hybrid rigid/compliant structure. This approach, influenced by studies on avian anatomy for robotic grippers, particularly benefits applications like perching for unmanned aerial vehicles and climbing on vertical surfaces. The Claw's design, featuring three digits and an opposable digit, aligns with traditional robotic hand configurations.
 
-Continuum robots, often inspired by cephalopods, leverage their compliant nature for whole-body grasping and manipulation. Taking cues from these concepts, we prototype the Claw using continuum, compliant segments actuated through a combination of direct motor and pneumatic methods. Through experiments, we demonstrate the Claw's adaptability and gentle grasping of large objects beyond typical robot gripper capabilities, while also identifying areas for further improvement in its hybrid design.
+Continuum robots, often inspired by cephalopods, leverage their compliant nature for whole-body grasping and manipulation. Taking cues from these concepts, we prototype the Claw using continuum, compliant segments actuated through a combination of direct motor and pneumatic methods. Through experiments, we demonstrate the Claw's adaptability and gentle grasping of large objects beyond typical robot gripper capabilities, while also identifying areas for further improvement in its hybrid design. </div>
 
 <!-- <img align="Center" width="350" height="350" src="/images/ClawFigure.PNG"> -->
 
@@ -36,7 +37,7 @@ Continuum robots, often inspired by cephalopods, leverage their compliant nature
          align="Center" width="350" height="350"
          src="/images/ClawFigure.PNG"
          alt="Albuquerque, New Mexico">
-    <figcaption>Just a test .</figcaption>
+    <figcaption>Just a test.</figcaption>
 </figure>
 
 Journal Articles 
