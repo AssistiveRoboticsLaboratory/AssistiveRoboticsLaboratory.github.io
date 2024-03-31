@@ -32,6 +32,11 @@ In this project, we propose a novel and rigorous human-centered framework for a 
     <figcaption> Continuum robots based assistive device for fall mitigation.</figcaption>
 </figure>
 
+![Albuquerque, New Mexico](/assets/images/albuquerque.jpg)
+*A single track trail outside of Albuquerque, New Mexico.*
+
+
+
 <!-- <figure>
     <img 
          align="Center" width="15" height="15"
@@ -40,7 +45,9 @@ In this project, we propose a novel and rigorous human-centered framework for a 
     <figcaption> Different views of continuum robots.</figcaption>
 </figure> -->
 
-<img align="Center" width="60" height="60" src="/images/MultiSectionArm.png"> -->
+<img align="Center" width="60" height="60" src="/images/MultiSectionArm.png"> 
+*SDFDS*
+
 
 Conference Proceedings
 ---
