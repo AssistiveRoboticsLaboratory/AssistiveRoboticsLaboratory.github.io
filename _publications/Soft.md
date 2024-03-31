@@ -19,26 +19,26 @@ In this project, we propose a novel and rigorous human-centered framework for a 
 
 <figure>
     <img 
-         align="Center" width="650" height="350"
+         align="Center" width="650" height="150"
          src="/images/Concept.png"
-         alt="Albuquerque, New Mexico">
+         alt="appendage">
     <figcaption> Continuum robots based assistive appendage for lifting patients.</figcaption>
 </figure>
 
 
 <figure>
     <img 
-         align="Center" width="650" height="350"
+         align="Center" width="650" height="150"
          src="/images/Backward Fall.png"
-         alt="Albuquerque, New Mexico">
+         alt="fall mitigation">
     <figcaption> Continuum robots based assistive device for fall mitigation.</figcaption>
 </figure>
 
 <figure>
     <img 
          align="Center" width="250" height="250"
-         src="/images/Concept.png"
-         alt="Albuquerque, New Mexico">
+         src="/images/MultiSectionArm.png"
+         alt="arm section">
     <figcaption> Different views of continuum robots.</figcaption>
 </figure>
 
@@ -60,10 +60,11 @@ Continuum robots, often inspired by cephalopods, leverage their compliant nature
 
 <figure>
     <img 
-         align="Center" width="350" height="350"
+         align="Center" width="150" height="150"
          src="/images/ClawFigure.png"
+          alt="Claw Diagram">
     <img
-          align="Center" width="350" height="350"
+          align="Center" width="150" height="150"
          src="/images/claw_hand.jpeg"
          alt="Claw Hands">
     <figcaption>The Claw, a hybrid rigid-continuum gripper, features three forward-facing digits (a) and one backward facing digit (b). The digits have rigid proximal structures, with their distal tips compliant pneumatically actuated continuum elements. The backward facing digit (b) has its  proximal rigid element directly actuated by a motor. The digits (a) are coupled in abduction/adduction (perpendicular to plane of image) by additional compliant continuum elements.</figcaption>
