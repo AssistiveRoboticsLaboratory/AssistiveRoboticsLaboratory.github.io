@@ -10,10 +10,19 @@ excerpt: 'Publications on length-adjustable prosthesis'
 ---
 Current prosthetic knee designs are based on replicating normal anatomy with a revolute knee joint. Many prosthesis users have issues with optimizing leg length for balance during stance, push-off during late stance, and toe clearance during swing. There exists a major clinical opportunity to develop a prosthetic device that actively linearly shortens and lengthens during ambulation with a prismatic component. This research project focuses on designing the adjustable length profile and a prosthesis that lengthens and shortens throughout the gait cycle. We evaluated the performance of the prosthetic leg through amputee experiments to demonstrate the benefits in improving gait symmetry with user perferences incorporated. 
 
-<figure>
+<!-- <figure>
     <img align="center" width="50" height="50" src="/images/Amputee.png">
     <img align="center" width="50" height="50" src="/images/MachineDesign.png">
     <figcaption> An amputee wearing the length-adjustable prosthesis for walking experiments.</figcaption>
+</figure> -->
+
+
+<figure class="image image-style-side image_resized" style="width:60%; height:40%;">
+    <img src="/images/Amputee.png">
+    <img src="/img/MachineDesign.png">
+    <figcaption>
+       n amputee wearing the length-adjustable prosthesis for walking experiments.
+    </figcaption>
 </figure>
 
 <!-- 
