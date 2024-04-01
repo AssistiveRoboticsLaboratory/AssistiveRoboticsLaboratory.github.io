@@ -20,7 +20,7 @@ In this project, we propose a novel and rigorous human-centered framework for a 
     <figcaption> Continuum robots based assistive appendage for lifting patients.</figcaption>
 </figure> -->
 
-<figure class="image image-style-side image_resized" style="width:60%; height:20%;">
+<figure class="image image-style-side image_resized" style="height:20%;">
     <img align="center" src="/images/Concept.png">
     <figcaption>
        Continuum robots based assistive appendage for lifting patients.
@@ -57,9 +57,18 @@ Unlike biomimetic designs, the Claw draws inspiration from bird feet without dir
 <div style="text-align: justify"> 
 Continuum robots, often inspired by cephalopods, leverage their compliant nature for whole-body grasping and manipulation. Taking cues from these concepts, we prototype the Claw using continuum, compliant segments actuated through a combination of direct motor and pneumatic methods. Through experiments, we demonstrate the Claw's adaptability and gentle grasping of large objects beyond typical robot gripper capabilities, while also identifying areas for further improvement in its hybrid design. </div>
 
+<figure class="image image-style-side image_resized" style="width:40%;">
+    <img src="/images/ClawFigure.png">
+    <img src="/images/claw_hand.jpeg">
+    <figcaption>
+       The Claw, a hybrid rigid-continuum gripper, features three forward-facing digits (a) and one backward facing digit (b). The digits have rigid proximal structures, with their distal tips compliant pneumatically actuated continuum elements. The backward facing digit (b) has its  proximal rigid element directly actuated by a motor. The digits (a) are coupled in abduction/adduction (perpendicular to plane of image) by additional compliant continuum elements.
+    </figcaption>
+</figure>
+
+<!-- 
 <figure>
     <img 
-         align="Center" width="50" height="50"
+         align="Center" width="" height="50"
          src="/images/ClawFigure.png"
           alt="Claw Diagram">
     <img
@@ -67,7 +76,7 @@ Continuum robots, often inspired by cephalopods, leverage their compliant nature
          src="/images/claw_hand.jpeg"
          alt="Claw Hands">
     <figcaption>The Claw, a hybrid rigid-continuum gripper, features three forward-facing digits (a) and one backward facing digit (b). The digits have rigid proximal structures, with their distal tips compliant pneumatically actuated continuum elements. The backward facing digit (b) has its  proximal rigid element directly actuated by a motor. The digits (a) are coupled in abduction/adduction (perpendicular to plane of image) by additional compliant continuum elements.</figcaption>
-</figure>
+</figure> -->
 
 Journal Articles 
 ---
