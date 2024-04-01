@@ -20,7 +20,7 @@ In this project, we propose a novel and rigorous human-centered framework for a 
     <figcaption> Continuum robots based assistive appendage for lifting patients.</figcaption>
 </figure> -->
 
-<figure class="image image-style-side image_resized" style="height:20%;">
+<figure class="image image-style-side image_resized" style="width:40%;">
     <img align="center" src="/images/Concept.png">
     <figcaption>
        Continuum robots based assistive appendage for lifting patients.
@@ -57,7 +57,7 @@ Unlike biomimetic designs, the Claw draws inspiration from bird feet without dir
 <div style="text-align: justify"> 
 Continuum robots, often inspired by cephalopods, leverage their compliant nature for whole-body grasping and manipulation. Taking cues from these concepts, we prototype the Claw using continuum, compliant segments actuated through a combination of direct motor and pneumatic methods. Through experiments, we demonstrate the Claw's adaptability and gentle grasping of large objects beyond typical robot gripper capabilities, while also identifying areas for further improvement in its hybrid design. </div>
 
-<figure class="image image-style-side image_resized" style="width:40%;">
+<figure class="image image-style-side image_resized" style="width:60%;">
     <img src="/images/ClawFigure.png">
     <img src="/images/claw_hand.jpeg">
     <figcaption>
