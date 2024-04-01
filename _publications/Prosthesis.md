@@ -27,7 +27,10 @@ Current prosthetic knee designs are based on replicating normal anatomy with a r
 
 <p float="left">
   <img src="/images/Amputee.png" width="100" />
-  <img src="/images/MachineDesign.png.png" width="100" /> 
+  <img src="/images/MachineDesign.png" width="100" /> 
+      <figcaption>
+       An amputee wearing the length-adjustable prosthesis for walking experiments.
+    </figcaption>
 </p>
 
 <!-- 
