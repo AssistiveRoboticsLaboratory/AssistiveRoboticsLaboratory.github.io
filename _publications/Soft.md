@@ -32,14 +32,6 @@ In this project, we propose a novel and rigorous human-centered framework for a 
     </figcaption>
 </figure> -->
 
-<!-- =======
-<figure class="image image-style-side image_resized" style="height:1%;">
-    <img src="/images/MultiSectionArm.png">
-    <figcaption>
-       Multi-section arm based on continuum robots. 
-    </figcaption>
-</figure> -->
-
 <figure class="image image-style-side image_resized" style="width:60%; height:30%;">
     <img src="/images/Backward Fall.png">
     <figcaption>
@@ -59,8 +51,6 @@ The robotics community has long sought to replicate the dexterity and versatilit
 Unlike biomimetic designs, the Claw draws inspiration from bird feet without directly copying their anatomy. Instead, it aims to emulate the adaptability of avian limbs in a hybrid rigid/compliant structure. This approach, influenced by studies on avian anatomy for robotic grippers, particularly benefits applications like perching for unmanned aerial vehicles and climbing on vertical surfaces. The Claw's design, featuring three digits and an opposable digit, aligns with traditional robotic hand configurations.
 
 Continuum robots, often inspired by cephalopods, leverage their compliant nature for whole-body grasping and manipulation. Taking cues from these concepts, we prototype the Claw using continuum, compliant segments actuated through a combination of direct motor and pneumatic methods. Through experiments, we demonstrate the Claw's adaptability and gentle grasping of large objects beyond typical robot gripper capabilities, while also identifying areas for further improvement in its hybrid design. </div>
-
-<!-- <img align="Center" width="350" height="350" src="/images/ClawFigure.PNG"> -->
 
 <figure>
     <img 
