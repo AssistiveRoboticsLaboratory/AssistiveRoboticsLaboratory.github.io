@@ -45,7 +45,7 @@ Conference Proceedings
 ---
 * P. Malhotra, N. Kumar, C. Frazelle, I. Walker, and G. Lv,  “Soft Robotics for Fall Mitigation: Preliminary Design and Evaluation of a Wearable System using Continuum Robots”, 2024 6th International Conference on Reconfigurable Mechanisms and Robots (ReMAR). [PDF]
 
----
+===
 <div style="text-align: justify"> 
 The robotics community has long sought to replicate the dexterity and versatility of human hands through compliant mechanisms. Soft robotic grippers, while highly dexterous, sacrifice repeatability and strength for versatility in various environments. Our paper introduces the Claw, a novel compliant robot gripper that stands out for its large size, bird-inspired design, and unique blend of continuum and rigid elements. By combining actuated rigid parts for strong grasps with compliant components for structural flexibility, the Claw achieves powerful grasping abilities across a wide range of objects, surpassing the limitations of current robotic hands.  </div>
 
