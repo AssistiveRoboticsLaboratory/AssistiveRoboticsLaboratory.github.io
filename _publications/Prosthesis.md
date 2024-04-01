@@ -1,5 +1,5 @@
 ---
-title: "Length-Adjustable Prosthesis"
+title: "Length-Adjustable Prosthesis based on Dynamic Leg Length"
 collection: publications
 permalink: /publication/Prosthesis
 excerpt: 'Publications on length-adjustable prosthesis'
