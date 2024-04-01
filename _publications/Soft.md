@@ -1,5 +1,5 @@
 ---
-title: "Continuum Components based Robotics Systems"
+title: "Continuum Components based Robotic Systems"
 collection: publications
 permalink: /publication/Continuum and Soft Robots 
 excerpt: 'Publications on Continuum and Soft Robots.'
@@ -60,7 +60,7 @@ Continuum robots, often inspired by cephalopods, leverage their compliant nature
 
 <figure>
     <img 
-         align="Center" width="50" height="50"
+         align="center" width="50" height="50"
          src="/images/ClawFigcombined.png"
           alt="Claw Diagram">
     <figcaption>The Claw, a hybrid rigid-continuum gripper, features three forward-facing digits (a) and one backward facing digit (b). The digits have rigid proximal structures, with their distal tips compliant pneumatically actuated continuum elements. The backward facing digit (b) has its  proximal rigid element directly actuated by a motor. The digits (a) are coupled in abduction/adduction (perpendicular to plane of image) by additional compliant continuum elements.</figcaption>
