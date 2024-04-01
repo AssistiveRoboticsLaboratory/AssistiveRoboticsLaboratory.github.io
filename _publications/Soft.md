@@ -32,16 +32,14 @@ In this project, we propose a novel and rigorous human-centered framework for a 
     </figcaption>
 </figure> -->
 
-<<<<<<< HEAD
-=======
+<!-- =======
 <figure class="image image-style-side image_resized" style="height:1%;">
     <img src="/images/MultiSectionArm.png">
     <figcaption>
        Multi-section arm based on continuum robots. 
     </figcaption>
-</figure>
+</figure> -->
 
->>>>>>> 46db7a728abc34cfe03a5a9d82381a3a27171464
 <figure class="image image-style-side image_resized" style="width:60%; height:30%;">
     <img src="/images/Backward Fall.png">
     <figcaption>
