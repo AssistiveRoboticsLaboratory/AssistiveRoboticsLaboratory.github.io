@@ -42,9 +42,9 @@ NEWS
    * Our Creative Inquiry team presented at the 19th Annual Focus on Creative Inquiry Poster Forum!
 
    <figure class="image image-style-side image_resized" style="width:60%; height:40%;">
-    <img src="/images/FOCI2024.png">
+    <img src="/images/FOCI2024.jpg">
     <figcaption>
-        Continuum robots based assistive device for fall mitigation. 
+        . 
     </figcaption>
 </figure>
 
