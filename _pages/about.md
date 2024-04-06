@@ -43,7 +43,9 @@ NEWS
 
    <figure class="image image-style-side image_resized" style="width:60%; height:40%;">
     <img src="/images/FOCI2024.jpg">
+<figcaption>
 
+</figcaption>
 
    * Our paper entitled "Soft Robotics for Fall Mitigation: Preliminary Design and Evaluation of a Wearable System using Continuum Robots" was accepted to 2024 6th International Conference on Reconfigurable Mechanisms and Robots, Chicago, IL. 
 
