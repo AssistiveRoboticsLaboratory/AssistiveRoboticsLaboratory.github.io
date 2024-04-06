@@ -61,11 +61,11 @@ NEWS
 - 01/2022: ARL welcomes PhD students Miao Yu and Yalun Jiang.
 - 04/2021: Dr. Lv receives the South Carolina Translational Research Improving Musculoskeletal Health (SC TRIMH) targeted junior faculty award.
 - 01/2020: Dr. Lv joined the Mechanical Engineering department at Clemson University as an Assistant Professor.
-- 11/2018: Our recent publication: [On the Design and Control of Highly Backdrivable Lower-Limb Exoskeletons](https://ieeexplore.ieee.org/abstract/document/8536572) is the cover article of the latest issue of IEEE Control Systems Magazine! Special thanks to my PhD mentor and co-author Robert D. Gregg.  
-- 10/2018: Dr. Lv joined the Robotics Institute at Carnegie Mellon University as a postdoctoral fellow at the Robotics Institute, Carnegie
+<!-- - 11/2018: Our recent publication: [On the Design and Control of Highly Backdrivable Lower-Limb Exoskeletons](https://ieeexplore.ieee.org/abstract/document/8536572) is the cover article of the latest issue of IEEE Control Systems Magazine! Special thanks to my PhD mentor and co-author Robert D. Gregg.  
+- 10/2018: Dr. Lv joined the Robotics Institute at Carnegie Mellon University as a Postdoctoral Fellow at the Robotics Institute. 
 - 04/2018: Dr. Lv successfully defended his PhD dissertation. 
 - 08/2017: Dr. Lv received the Louis Beecherl, Jr. Graduate Fellowship from UT Dallas.
-- 12/2015: Dr. Lv received the Best Student Paper Award of the 54th IEEE Conference on Decision and Control!
+- 12/2015: Dr. Lv received the Best Student Paper Award of the 54th IEEE Conference on Decision and Control! -->
 
 <!-- Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge. -->
 
