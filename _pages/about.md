@@ -39,16 +39,12 @@ Funded PhD positions are available at the Department of Mechanical Engineering a
 NEWS
 ------
 - 04/2024: 
-* Our Creative Inquiry team presented at the 19th Annual Focus on Creative Inquiry Poster Forum!
-   
-   <figure class="image image-style-side image_resized" style="width:60%; height:40%;">
-    <img src="/images/FOCI2024.jpg">
-     <figcaption>
-
-    </figcaption>
+   * Our Creative Inquiry team presented at the 19th Annual Focus on Creative Inquiry Poster Forum!
+      <figure class="image image-style-side image_resized" style="width:60%; height:40%;"><img src="/images/FOCI2024.jpg">
+     <figcaption> </figcaption>
 
 
-* Our paper entitled "Soft Robotics for Fall Mitigation: Preliminary Design and Evaluation of a Wearable System using Continuum Robots" was accepted to 2024 6th International Conference on Reconfigurable Mechanisms and Robots, Chicago, IL. 
+   * Our paper entitled "Soft Robotics for Fall Mitigation: Preliminary Design and Evaluation of a Wearable System using Continuum Robots" was accepted to 2024 6th International Conference on Reconfigurable Mechanisms and Robots, Chicago, IL. 
 
 - 03/2024: 
    * Our lab receives the [CAREER Award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2340261&HistoricalAwards=false) from the National Science Foundation! Many thanks to NSF for supporting our research. 
