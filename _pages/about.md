@@ -39,6 +39,9 @@ Funded PhD positions are available at the Department of Mechanical Engineering a
 NEWS
 ------
 - 04/2024: 
+   * Dr. Lv was awarded the ME Excellence Award (Junior Rank Faculty)!
+
+
    * Our Creative Inquiry team presented at the 19th Annual Focus on Creative Inquiry Poster Forum!
       <figure class="image image-style-side image_resized" style="width:60%; height:40%;"><img src="/images/FOCI2024.jpg">
      <figcaption> </figcaption>
@@ -108,6 +111,6 @@ Example: editing a markdown file for a talk
 Last Updated:
 ------
 <!-- More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
-March 31, 2024
+April 25, 2024
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=200&t=n&d=QKBESDUECYuMO4wVvyyxv0RnNVfEA5Yqu4tFWeSgm7c'></script>
