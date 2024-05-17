@@ -38,6 +38,10 @@ Funded PhD positions are available at the Department of Mechanical Engineering a
 
 NEWS
 ------
+- 05/2024: 
+   * Our paper entitled "Safety Augmentation for Volitional Human Locomotion via Lower-Limb Exoskeletons: A Case Study" was accepted to IEEE Control Systems Letters! 
+
+
 - 04/2024: 
    * Dr. Lv was awarded the ME Excellence Award (Junior Rank Faculty)!
 
@@ -45,7 +49,6 @@ NEWS
    * Our Creative Inquiry team presented at the 19th Annual Focus on Creative Inquiry Poster Forum!
       <figure class="image image-style-side image_resized" style="width:60%; height:40%;"><img src="/images/FOCI2024.jpg">
      <figcaption> </figcaption>
-
 
    * Our paper entitled "Soft Robotics for Fall Mitigation: Preliminary Design and Evaluation of a Wearable System using Continuum Robots" was accepted to 2024 6th International Conference on Reconfigurable Mechanisms and Robots, Chicago, IL. 
 

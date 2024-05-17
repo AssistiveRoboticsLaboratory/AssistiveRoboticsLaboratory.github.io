@@ -14,5 +14,6 @@ of enforcing reference trajectories, we incorporate human inputs and preferences
 
 Journal Articles
 ---
-* M. Yu, Q. Lin, and G. Lv, “Safety Augmentation for Volitional Human Locomotion via Lower-Limb Exoskeletons: A Case Study on Balance Control“, IEEE Control Systems Letters, 2024, under review. 
+* M. Yu, Q. Lin, and G. Lv, “Safety Augmentation for Volitional Human Locomotion via Lower-Limb Exoskeletons: A Case Study on Balance Control“, IEEE Control Systems Letters, 2024. [PDF](http://assistiveroboticslaboratory.github.io/files/L-CSS - YuLinLv.pdf) 
+
 

@@ -34,11 +34,15 @@ PhD students
    
    * MS, Electrical Engineering, University of Maryland, College Park, 2021
 
-* Yalun Jiang, Mechanical Engineering, Spring 2022 - present
-   * BS, Power Engineering of Aircaft, Nanjing Univerity of Aeronautics & Astronautics, 2015
+* Tingrui (Angelos) Guan, Mechanical Engineering, Fall 2024 - present
+   * BS, University of Illinois Urbana-Champaign, Computer Science & Electrical Engeering (Dual major), 2021
    
-   * MS, Automotive Engineering, University of Bath, 2017
+   * MS, University of Southern California, Computer Science, 2023
 
+* Zhenyuan Yu, Mechanical Engineering, Fall 2024 - present
+   * BS, MS, Xi'an Jiaotong University, Mechanical Engineering, 2019, 2022
+   
+   * MS, University of North Carolin - Chapel Hill /North Carolina State University, Biomedical Engineering, 2024
 
 
 
