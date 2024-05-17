@@ -42,7 +42,7 @@ PhD students
 * Zhenyuan Yu, Mechanical Engineering, Fall 2024 - present
    * BS, MS, Xi'an Jiaotong University, Mechanical Engineering, 2019, 2022
    
-   * MS, University of North Carolin - Chapel Hill /North Carolina State University, Biomedical Engineering, 2024
+   * MS, University of North Carolina - Chapel Hill /North Carolina State University, Biomedical Engineering, 2024
 
 
 
