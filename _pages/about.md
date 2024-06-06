@@ -38,6 +38,10 @@ Funded PhD positions are available at the Department of Mechanical Engineering a
 
 NEWS
 ------
+- 06/2024: 
+   * Our paper (in collobration with Prof. Qin Lin, UH) entitled "Disturbance Rejection-Guarded Learning for Vibration Suppression of Two-Inertia Systems" was accepted to the 2024 International Conference on Automation Science and Engineering (CASE).
+
+
 - 05/2024: 
    * Our paper entitled "Safety Augmentation for Volitional Human Locomotion via Lower-Limb Exoskeletons: A Case Study" was accepted to IEEE Control Systems Letters! 
 
