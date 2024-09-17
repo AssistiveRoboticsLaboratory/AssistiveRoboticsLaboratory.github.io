@@ -56,7 +56,8 @@ MS students
 
 * Cassie Hoffman, Bioengineering
 
-* Timothy Brodsky, Mechanical Engineering 
+* Nikhila Krishnan, Mechanical Engineering 
+
 
 
 
@@ -64,17 +65,16 @@ Undergraduate students
 ---
 * James Rhoads (Creative Inquiry), Mechanical Engineering
 
-* Ryan Rutolo (Creative Inquiry), Mechanical Engineering 
+* Jack Schuver (Creative Inquiry), Mechanical/Electrical Engineering 
 
 * Anh Doan (Creative Inquiry), Mechanical Engineering 
 
 * Thomas Holliday (Creative Inquiry), Mechanical Engineering 
 
-* Andrew Parent, Mechanical Engineering 
+* Thomas Temple (Creative Inquiry), Mechanical Engineering 
 
-* James Farrell, Mechanical Engineering 
+* Jules Slevensky (Creative Inquiry), Mechanical Engineering 
 
-* Sean Lee, Mechanical Engineering 
 
 <!-- 
 Alumni 

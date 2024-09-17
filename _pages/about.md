@@ -18,26 +18,13 @@ The mission of the Assistive Robotics Laboratory is to develop agile, versatile 
 
 <!-- #This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
 
-WE ARE HIRING! (updated Feb 24, 2024):
-------
-Funded PhD positions are available at the Department of Mechanical Engineering at Clemson University starting Fall 2024. Qualified candidates will receive a tution waiver and stipend to conduct research on customizing exoskeleton assistance for volitional human motion via online, human-in-the-loop optimizaion. 
-
-*  Required Qualification:  
-   - A BS and/or MS degree in Mechanical, Electrical, Computer Engineering, or related areas.
-   - Proficient programming skills in C/C++, Python, and Matlab.
-   - Good communication, presentation, and writing skills.  
-
-*  Preferred Qualification:  
-   - Knowledge in control systems design and analysis, robot dynamics, and optimization/machine learning.
-   - Experiences with using inertial measurement units, joint encoders, actuators, and motor drivers. 
-   - Experiences with using motion capture systems and electromyography sensors for gait analysis. 
-   - Experiences in mechatronics design 
-
-*  Application Process:  
-   - After submitting the official application to the PhD program of Mechanical Engineeirng, please notify Prof. Lv your application ID and fill out this [survey](https://forms.gle/YtPErmCJAitATLG98). 
 
 NEWS
 ------
+- 07/2024: 
+   * Dr. Lv's was awared the Dean's Professorship at the College of Engineering, Computing and Applied Sciences.
+
+
 - 06/2024: 
    * Our paper (in collobration with Prof. Qin Lin, UH) entitled "Disturbance Rejection-Guarded Learning for Vibration Suppression of Two-Inertia Systems" was accepted to the 2024 International Conference on Automation Science and Engineering (CASE).
 
@@ -75,6 +62,29 @@ NEWS
 - 01/2022: ARL welcomes PhD students Miao Yu and Yalun Jiang.
 - 04/2021: Dr. Lv receives the South Carolina Translational Research Improving Musculoskeletal Health (SC TRIMH) targeted junior faculty award.
 - 01/2020: Dr. Lv joined the Mechanical Engineering department at Clemson University as an Assistant Professor.
+
+
+WE ARE HIRING! (updated Sep 17, 2024):
+------
+The ARL is constantly looking for PhD students to join the lab. Interested applicants should send an email to Prof. Ge Lv (glv@clemson.edu) with their CV, transcripts, a one-page cover letter, and any relevant publications. 
+
+*  Required Qualification:  
+   - A BS and MS degree in Mechanical, Electrical, Computer Engineering, or related areas.
+   - Proficient programming skills in C/C++, Python, and Matlab.
+   - Good communication, presentation, and writing skills.  
+
+*  Preferred Qualification:  
+   - Knowledge in control systems design and analysis, robot dynamics, and optimization/machine learning.
+   - Experiences with using inertial measurement units, joint encoders, actuators, and motor drivers. 
+   - Experiences with using motion capture systems and electromyography sensors for gait analysis. 
+   - Experiences in mechatronics design 
+
+<!-- 
+*  Application Process:  
+   - After submitting the official application to the PhD program of Mechanical Engineeirng, please notify Prof. Lv your application ID and fill out this [survey](https://forms.gle/YtPErmCJAitATLG98).  -->
+
+
+
 
 <!-- - 11/2018: Our recent publication: [On the Design and Control of Highly Backdrivable Lower-Limb Exoskeletons](https://ieeexplore.ieee.org/abstract/document/8536572) is the cover article of the latest issue of IEEE Control Systems Magazine! Special thanks to my PhD mentor and co-author Robert D. Gregg.  
 - 10/2018: Dr. Lv joined the Robotics Institute at Carnegie Mellon University as a Postdoctoral Fellow at the Robotics Institute. 
