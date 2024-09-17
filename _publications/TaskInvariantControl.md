@@ -39,6 +39,8 @@ Conference Proceedings
 
 * M. Yu and G. Lv, "Task-Invariant Centroidal Momentum Shaping Control for Lower-Limb Exoskeletons”, IEEE Conference on Decision & Control, Cacun, Mexico, 2022. [PDF](http://assistiveroboticslaboratory.github.io/files/GeCDC22.pdf)
 
+* M. Yu, N. Krishnan, J. Dean, and G. Lv, "Centroidal Momentum Shaping for Task-Invariant Assistance: Preliminary Validation on a Bilateral Hip Exoskeleton", IEEE Conference on Robotics and Automation, Atlanta GA, 2025, under review. [PDF](http://assistiveroboticslaboratory.github.io/files/ICRA25.pdf)
+
 <!-- This paper is about the number 1. The number 2 is left for future work. -->
 
 <!-- [Download paper here](http://academicpages.github.io/files/paper1.pdf) -->
