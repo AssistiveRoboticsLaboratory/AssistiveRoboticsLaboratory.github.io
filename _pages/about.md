@@ -64,7 +64,7 @@ NEWS
 - 01/2020: Dr. Lv joined the Mechanical Engineering department at Clemson University as an Assistant Professor.
 
 
-WE ARE HIRING! (updated Sep 17, 2024):
+To Prospective Students: (updated Sep 17, 2024):
 ------
 The ARL is constantly looking for PhD students to join the lab. Interested applicants should send an email to Prof. Ge Lv (glv@clemson.edu) with their CV, transcripts, a one-page cover letter, and any relevant publications. 
 
