@@ -22,7 +22,7 @@ The mission of the Assistive Robotics Laboratory is to develop agile, versatile 
 NEWS
 ------
 - 11/2024: 
-   * Our research is featured at the College of Engineering, Computing, and Applied Sciences: [interreview link](https://www.youtube.com/watch?v=f7eOtTFhRDs) and [Clemson News] (https://news.clemson.edu/paralympics-helps-shine-a-light-on-exoskeleton-research-at-clemson-university/)
+   * Our research is featured at the College of Engineering, Computing, and Applied Sciences: [interreview link](https://www.youtube.com/watch?v=f7eOtTFhRDs) and Clemson News: [article link](https://news.clemson.edu/paralympics-helps-shine-a-light-on-exoskeleton-research-at-clemson-university/)
 
 
 - 07/2024: 
