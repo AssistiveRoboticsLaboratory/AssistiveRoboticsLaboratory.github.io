@@ -19,6 +19,23 @@ The mission of the Assistive Robotics Laboratory is to develop agile, versatile 
 <!-- #This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
 
 
+WE ARE HIRING: (updated Jan 20, 2025):
+------
+The ARL has a PhD opening in the development of modular, highly backdrivable lower-limb exoskeletons. Interested applicants should email to Prof. Ge Lv (glv@clemson.edu) with a CV, transcripts, an one-page cover letter, and any relevant publications. 
+
+*  Required Qualification:  
+   - Self-motivated with passion for research. 
+   - BS and MS degrees in Mechanical Engineering, Electrical Engineering, or related areas.
+   - Proficient programming skills in C/C++, Python, and Matlab.
+   - Proficient in using joint encoders, inertial measurement units, BLDC motors, and their drivers.
+   - Prior experiences in mechatronics design.  
+
+*  Preferred Qualification:  
+   - Knowledge in control systems design and analysis, robot dynamics, and optimization/machine learning.
+   - Experiences with using motion capture systems and electromyography sensors for gait analyses. 
+   - Good communication, presentation, and writing skills.  
+
+
 NEWS
 ------
 - 11/2024: 
@@ -68,20 +85,6 @@ NEWS
 - 01/2020: Dr. Lv joined the Mechanical Engineering department at Clemson University as an Assistant Professor.
 
 
-To Prospective Students: (updated Sep 17, 2024):
-------
-The ARL is constantly looking for PhD students to join the lab. Interested applicants should send an email to Prof. Ge Lv (glv@clemson.edu) with their CV, transcripts, a one-page cover letter, and any relevant publications. 
-
-*  Required Qualification:  
-   - A BS and MS degree in Mechanical, Electrical, Computer Engineering, or related areas.
-   - Proficient programming skills in C/C++, Python, and Matlab.
-   - Good communication, presentation, and writing skills.  
-
-*  Preferred Qualification:  
-   - Knowledge in control systems design and analysis, robot dynamics, and optimization/machine learning.
-   - Experiences with using inertial measurement units, joint encoders, actuators, and motor drivers. 
-   - Experiences with using motion capture systems and electromyography sensors for gait analysis. 
-   - Experiences in mechatronics design 
 
 <!-- 
 *  Application Process:  
