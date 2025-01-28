@@ -63,7 +63,7 @@ MS students
 
 Undergraduate students 
 ---
-* Jack Schuver, Undergraduate Research Assistant, Electrical \& Computer Engineering 
+* Jack Schuver, Undergraduate Research Assistant, Electrical & Computer Engineering 
 
 * Nick Hale, Undergraduate Research Assistant, Mechanical Engineering 
 
@@ -112,4 +112,5 @@ Alumni
 * Param Malhotra, MS, Mechanical Engineering, 2022
 
 * Yash Srivastava, MS, Electrical & Computer Engineering, 2022
+ * Current Position: Engineer, Caterpillar Inc 
 
