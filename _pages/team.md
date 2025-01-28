@@ -63,6 +63,10 @@ MS students
 
 Undergraduate students 
 ---
+* Jack Schuver, Undergraduate Research Assistant, Electrical \& Computer Engineering 
+
+* Nick Hale, Undergraduate Research Assistant, Mechanical Engineering 
+
 * James Rhoads (Creative Inquiry), Mechanical Engineering
 
 * Jack Schuver (Creative Inquiry), Mechanical/Electrical Engineering 
@@ -73,7 +77,7 @@ Undergraduate students
 
 * Thomas Temple (Creative Inquiry), Mechanical Engineering 
 
-* Jules Slevensky (Creative Inquiry), Mechanical Engineering 
+* Harrison Pinkston (Creative Inquiry), Mechanical Engineering 
 
 
 <!-- 
