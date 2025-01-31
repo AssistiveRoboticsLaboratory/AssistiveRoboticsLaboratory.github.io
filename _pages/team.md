@@ -102,6 +102,8 @@ Teaching
 
 
 Alumni
+
+Graduate Students 
 ---
 * Therese Parr, PhD, Bioengineering, 2023
   * Current Position: Research Biomedical Engineer & Fellow, Air Force Research Laboratory 
@@ -112,5 +114,24 @@ Alumni
 * Param Malhotra, MS, Mechanical Engineering, 2022
 
 * Yash Srivastava, MS, Electrical & Computer Engineering, 2022
- * Current Position: Engineer, Caterpillar Inc 
+  * Current Position: Engineer, Caterpillar Inc 
 
+Undergraduate Students
+---
+* Ryan Rutolo, BS, Mechanical Engineering, Creative Inquiry
+
+* Timothy Nguyen, BS, Mechanical Engineering
+
+* Charles Marmo, BS, Bioengineering, Creative Inquiry
+
+* Kevin Dai, BS, Mechanical Engineering, Creative Inquiry
+
+* Zachary Nemphos, BS, Mechanical Engineering
+
+* Hunter Meier, EUREKA!
+
+* Hayden Cagle, EUREKA!
+
+* Andrew O'Rourke, EUREKA!
+
+* Brook Schmid, BS, Mechanical Engineering
