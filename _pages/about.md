@@ -38,9 +38,9 @@ The ARL has a PhD opening in the development of modular, highly backdrivable low
 
 NEWS
 ------
--01/2025: 
-   * Our research is featured at Clemson World: [story link](https://clemson.world)
-      <figure class="image image-style-side image_resized" style="width:60%; height:40%;"><img src="/images/Clemson Interview.jpg">
+- 01/2025: 
+   * Our research is featured at Clemson World!: [story link](https://clemson.world)
+      <figure class="image image-style-side image_resized" style="width:80%; height:60%;"><img src="/images/Clemson Interview.jpg">
      <figcaption> </figcaption>
 
 - 11/2024: 
