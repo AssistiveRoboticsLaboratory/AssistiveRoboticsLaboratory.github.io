@@ -104,8 +104,7 @@ Teaching
 Alumni
 ---
 
-Graduate Students 
----
+Graduate Students:
 * Therese Parr, PhD, Bioengineering, 2023
   * Current Position: Research Biomedical Engineer & Fellow, Air Force Research Laboratory 
 
@@ -117,8 +116,7 @@ Graduate Students
 * Yash Srivastava, MS, Electrical & Computer Engineering, 2022
   * Current Position: Engineer, Caterpillar Inc 
 
-Undergraduate Students
----
+Undergraduate Students:
 * Ryan Rutolo, BS, Mechanical Engineering, Creative Inquiry
 
 * Timothy Nguyen, BS, Mechanical Engineering
