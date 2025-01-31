@@ -69,8 +69,6 @@ Undergraduate students
 
 * James Rhoads (Creative Inquiry), Mechanical Engineering
 
-* Jack Schuver (Creative Inquiry), Mechanical/Electrical Engineering 
-
 * Anh Doan (Creative Inquiry), Mechanical Engineering 
 
 * Thomas Holliday (Creative Inquiry), Mechanical Engineering 
