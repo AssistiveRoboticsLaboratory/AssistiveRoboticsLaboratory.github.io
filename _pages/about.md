@@ -85,7 +85,6 @@ NEWS
   * Dr. Lv was recognized as Faculty Scholar at the School of Health Research, Clemson University. 
 - 05/2023: Congratulations to Dr. Therese Parr for successfully defending her dissertation. 
 - 12/2022: Our paper entitled "[Task-Invariant Centroidal Momentum Shaping for Lower-Limb Exoskeletons](https://ieeexplore.ieee.org/abstract/document/9993080)" was published at the 61st Conference on Decision and Control. 
-- 01/2022: ARL welcomes PhD students Miao Yu and Yalun Jiang.
 - 04/2021: Dr. Lv receives the South Carolina Translational Research Improving Musculoskeletal Health (SC TRIMH) targeted junior faculty award.
 - 01/2020: Dr. Lv joined the Mechanical Engineering department at Clemson University as an Assistant Professor.
 
