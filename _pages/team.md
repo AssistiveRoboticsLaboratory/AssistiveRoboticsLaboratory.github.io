@@ -27,12 +27,18 @@ Principal Investigator
 
 PhD students 
 ---
+<p style="line-height: 1.5;">
+<img src="/images/MY.jpeg" width = "150" height="150" style="vertical-align: top; margin-right: 10px; ">
 * Miao Yu, Mechanical Engineering, Fall 2021 - present 
-<img align = "right" width = "150" height="150" style="vertical-align: top; margin-right: 10px; src="/images/MY.jpeg">
-
+</p>
+<!-- 
+<p style="line-height: 1.5;">
+  <img src="/images/alice_smith.jpg" width="100" style="vertical-align: top; margin-right: 10px;">
+  Alice Smith is a Ph.D. student working on gait analysis and human-robot interaction.
+</p> -->
    * BS, Electrical Engineering & Its Automation, North China Electric Power University, 2015
    
-   * MS, Electrical & Syhstems Engineering, Washington University at St. Louis, 2017
+   * MS, Electrical & Systems Engineering, Washington University at St. Louis, 2017
    
    * MS, Electrical Engineering, University of Maryland, College Park, 2021
 
