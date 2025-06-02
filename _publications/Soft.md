@@ -43,7 +43,7 @@ In this project, we propose a novel and rigorous human-centered framework for a 
 
 Conference Proceedings
 ---
-* P. Malhotra, N. Kumar, C. Frazelle, I. Walker, and G. Lv,  “Soft Robotics for Fall Mitigation: Preliminary Design and Evaluation of a Wearable System using Continuum Robots”, 2024 6th International Conference on Reconfigurable Mechanisms and Robots (ReMAR). [PDF]
+* P. Malhotra, N. Kumar, C. Frazelle, I. Walker, and G. Lv,  “Soft Robotics for Fall Mitigation: Preliminary Design and Evaluation of a Wearable System using Continuum Robots”, 2024 6th International Conference on Reconfigurable Mechanisms and Robots (ReMAR). [PDF](http://assistiveroboticslaboratory.github.io/files/REMAR.pdf)
 
 ---
 <div style="text-align: justify"> 
