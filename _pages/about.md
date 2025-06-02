@@ -19,7 +19,7 @@ The mission of the Assistive Robotics Laboratory is to develop agile, versatile 
 <!-- #This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
 
 
-WE ARE HIRING: (updated Jan 20, 2025):
+WE ARE HIRING:
 ------
 The ARL has a PhD opening in the development of modular, highly backdrivable lower-limb exoskeletons. Interested applicants should email to Prof. Ge Lv (glv@clemson.edu) with a CV, transcripts, an one-page cover letter, and any relevant publications. 
 
@@ -143,6 +143,6 @@ Example: editing a markdown file for a talk
 Last Updated:
 ------
 <!-- More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
-January 31, 2025
+June 1, 2025
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=200&t=n&d=QKBESDUECYuMO4wVvyyxv0RnNVfEA5Yqu4tFWeSgm7c'></script>
