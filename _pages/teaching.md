@@ -15,7 +15,7 @@ Spring 2022, 2024
 
 ME 4030: Control & Integration of Multidomain Dynamic Systems
 ---
-Spring 2025
+Spring 2025, Fall 2025
 
 ME 8200: Modern Control Engineering
 ---

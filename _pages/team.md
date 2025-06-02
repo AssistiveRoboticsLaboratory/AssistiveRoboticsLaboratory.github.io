@@ -46,37 +46,18 @@ PhD students
 
 
 
-MS students 
+MS students (thesis-track)
 ---
 * Hamdan Khan Sarvathullah, Mechanical Engineering 
 
-* Nicolas Daly, Mechanical Engineering 
-
 * Gavin Platt, Mechanical Engineering 
 
-* Cassie Hoffman, Bioengineering
-
 * Nikhila Krishnan, Mechanical Engineering 
-
-
 
 
 Undergraduate students 
 ---
 * Jack Schuver, Undergraduate Research Assistant, Electrical & Computer Engineering 
-
-* Nick Hale, Undergraduate Research Assistant, Mechanical Engineering 
-
-* James Rhoads (Creative Inquiry), Mechanical Engineering
-
-* Anh Doan (Creative Inquiry), Mechanical Engineering 
-
-* Thomas Holliday (Creative Inquiry), Mechanical Engineering 
-
-* Thomas Temple (Creative Inquiry), Mechanical Engineering 
-
-* Harrison Pinkston (Creative Inquiry), Mechanical Engineering 
-
 
 <!-- 
 Alumni 
@@ -106,6 +87,8 @@ Graduate Students:
 * Therese Parr, PhD, Bioengineering, 2023
   * Current Position: Research Biomedical Engineer & Fellow, Air Force Research Laboratory 
 
+* Cassie Hoffman, MS, Bioengineering, 2025
+
 * Timothy Driscoll, MS, Computer Engineering, 2023
   * Current Position: Software Engineer, DEKA Research & Development 
 
@@ -115,6 +98,21 @@ Graduate Students:
   * Current Position: Engineer, Caterpillar Inc 
 
 Undergraduate Students:
+
+* Nick Hale, BS, Mechanical Engineering 
+
+* James Rhoads (Creative Inquiry), BS, Mechanical Engineering
+
+* Anh Doan (Creative Inquiry), BS, Mechanical Engineering 
+
+* Thomas Holliday (Creative Inquiry), BS, Mechanical Engineering 
+
+* Thomas Temple (Creative Inquiry), BS, Mechanical Engineering 
+
+* Harrison Pinkston (Creative Inquiry), BS, Mechanical Engineering 
+
+* Nick Daly, BS, Mechanical Engineering 
+
 * Ryan Rutolo, BS, Mechanical Engineering, Creative Inquiry
 
 * Timothy Nguyen, BS, Mechanical Engineering
