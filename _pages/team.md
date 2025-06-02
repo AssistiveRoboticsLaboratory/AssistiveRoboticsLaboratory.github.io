@@ -28,7 +28,7 @@ Principal Investigator
 PhD students 
 ---
 * Miao Yu, Mechanical Engineering, Fall 2021 - present 
-<img align = "right" width = "150" height="150" src="/images/MY.jpeg">
+<img align = "right" width = "150" height="150" style="vertical-align: top; margin-right: 10px; src="/images/MY.jpeg">
 
    * BS, Electrical Engineering & Its Automation, North China Electric Power University, 2015
    
