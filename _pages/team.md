@@ -8,7 +8,7 @@ author_profile: true
 Principal Investigator 
 ---
 <!-- ![picture of PI](/images/Genew.jpg align = "right")  -->
-<img align="right" width="150" height="150" src="/images/Ge.jpg">
+<img align="right" width="100" height="100" src="/images/Ge.jpg">
 
 *  **Ge Lv (吕阁), PhD**
     
@@ -27,31 +27,36 @@ Principal Investigator
 
 PhD students 
 ---
-<p style="line-height: 1.5;">
-<img src="/images/MY.jpeg" width = "150" height="150" style="vertical-align: top; margin-right: 10px; ">
 * Miao Yu, Mechanical Engineering, Fall 2021 - present 
-</p>
-<!-- 
-<p style="line-height: 1.5;">
-  <img src="/images/alice_smith.jpg" width="100" style="vertical-align: top; margin-right: 10px;">
-  Alice Smith is a Ph.D. student working on gait analysis and human-robot interaction.
-</p> -->
-   * BS, Electrical Engineering & Its Automation, North China Electric Power University, 2015
+   <!-- * BS, Electrical Engineering & Its Automation, North China Electric Power University, 2015
    
    * MS, Electrical & Systems Engineering, Washington University at St. Louis, 2017
    
-   * MS, Electrical Engineering, University of Maryland, College Park, 2021
+   * MS, Electrical Engineering, University of Maryland, College Park, 2021 -->
+
+   * BS, North China Electric Power University, 2015
+   
+   * MS, Washington University at St. Louis, 2017
+   
+   * MS, University of Maryland, College Park, 2021
 
 * Tingrui (Angelos) Guan, Mechanical Engineering, Fall 2024 - present
-<img align = "right" width = "150" height = "150" src="/images/AG.png">
-   * BS, University of Illinois Urbana-Champaign, Computer Science & Electrical Engeering (Dual major), 2021
+
+   <!-- * BS, University of Illinois Urbana-Champaign, Computer Science & Electrical Engeering (Dual major), 2021
    
-   * MS, University of Southern California, Computer Science, 2023
+   * MS, University of Southern California, Computer Science, 2023 -->
+
+   * BS, University of Illinois Urbana-Champaign, 2021
+   
+   * MS, University of Southern California, 2023
 
 * Zhenyuan Yu, Mechanical Engineering, Fall 2024 - present
-   * BS, MS, Xi'an Jiaotong University, Mechanical Engineering, 2019, 2022
+   <!-- * BS, MS, Xi'an Jiaotong University, Mechanical Engineering, 2019, 2022
    
-   * MS, University of North Carolina - Chapel Hill /North Carolina State University, Biomedical Engineering, 2024
+   * MS, University of North Carolina - Chapel Hill /North Carolina State University, Biomedical Engineering, 2024 -->
+   * BS, MS, Xi'an Jiaotong University, 2019, 2022
+   
+   * MS, University of North Carolina - Chapel Hill /North Carolina State University, 2024
 
 
 
@@ -93,10 +98,11 @@ Alumni
 ---
 
 Graduate Students:
+
+* Cassandra Hoffman, MS, Bioengineering, 2025
+
 * Therese Parr, PhD, Bioengineering, 2023
   * Current Position: Research Biomedical Engineer & Fellow, Air Force Research Laboratory 
-
-* Cassie Hoffman, MS, Bioengineering, 2025
 
 * Timothy Driscoll, MS, Computer Engineering, 2023
   * Current Position: Software Engineer, DEKA Research & Development 
