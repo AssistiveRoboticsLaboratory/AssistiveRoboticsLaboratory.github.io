@@ -79,6 +79,9 @@ Continuum robots, often inspired by cephalopods, leverage their compliant nature
     </figcaption>
 </figure> -->
 
+Conference Articles 
+---
+ * J. Mohrmann, J. Schuver, M. Yu, I. Walker, and G. Lv, "Teleoperation of a Compliant Avian-Inspired Robot Claw with Continuum Digits", IEEE International Conference on Automation Science and Engineering, to appear, Los Angeles, CA, 2025. [PDF](http://assistiveroboticslaboratory.github.io/files/CASE2025.pdf)
 
 Journal Articles 
 ---
