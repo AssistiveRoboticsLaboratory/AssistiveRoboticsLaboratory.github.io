@@ -28,7 +28,7 @@ Principal Investigator
 PhD students 
 ---
 * Miao Yu, Mechanical Engineering, Fall 2021 - present 
-<img src="/images/Miao Yu - Headshot.jpg" width="150"/>
+<img align = "right" width = "250" height="250" src="/images/Miao Yu - Headshot.jpeg">
 
    * BS, Electrical Engineering & Its Automation, North China Electric Power University, 2015
    
@@ -37,7 +37,7 @@ PhD students
    * MS, Electrical Engineering, University of Maryland, College Park, 2021
 
 * Tingrui (Angelos) Guan, Mechanical Engineering, Fall 2024 - present
-<img src="/images/Angelos Headshot.jpg" width="150"/>
+<img align = "right" width = "250" height = "250" src="/images/Angelos Headshot.png">
    * BS, University of Illinois Urbana-Champaign, Computer Science & Electrical Engeering (Dual major), 2021
    
    * MS, University of Southern California, Computer Science, 2023
