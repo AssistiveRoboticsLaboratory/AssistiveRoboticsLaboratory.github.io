@@ -48,7 +48,7 @@ NEWS
      <figcaption> </figcaption>
 
 - 11/2024: 
-   * Our research is featured at the College of Engineering, Computing, and Applied Sciences: [interview link](https://www.youtube.com/watch?v=f7eOtTFhRDs) and Clemson News: [article link](https://news.clemson.edu/paralympics-helps-shine-a-light-on-exoskeleton-research-at-clemson-university/)
+   * Our exoskeleton research is featured at the College of Engineering, Computing, and Applied Sciences: [interview link](https://www.youtube.com/watch?v=f7eOtTFhRDs) and Clemson News: [article link](https://news.clemson.edu/paralympics-helps-shine-a-light-on-exoskeleton-research-at-clemson-university/)
 
 
 - 07/2024: 
@@ -81,7 +81,7 @@ NEWS
 - 07/2023: Our paper entitled "[A Two-Layer Human-in-the-Loop Optimization Framework for Customizing Lower-Limb Exoskeleton Assistance](https://ieeexplore.ieee.org/document/10155858)" was published at the invited session "Recent Advancement of Human Autonomy Interaction & Integration" of the 2023 American Control Conference, San Diego, CA. 
 
 - 04/2023: 
-  * Tapp Rhoads received the Carl Donner nelson, Jr. Meomrial Award. Congrats Tapp.
+  * Tapp Rhoads received the Carl Donner Nelson, Jr. Meomrial Award. Congrats Tapp.
       <figure class="image image-style-side image_resized" style="width:60%; height:40%;"><img src="/images/TappAward.jpg">
      <figcaption> </figcaption>
 
