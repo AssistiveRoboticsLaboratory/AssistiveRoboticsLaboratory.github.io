@@ -39,11 +39,11 @@ The ARL has a PhD opening in the development of modular, highly backdrivable low
 NEWS
 ------
 - 05/2025:
-   * Dr. Lv delivered a talk at the ICRA 2025 workshop titled "State of the Art in Lower-Limb Exoskeletons: Exploring Specificity vs. Generalizability Across Users and Activities." [workshop link](https://sites.google.com/umich.edu/icra-2025-exoskeleton-workshop/home)
+   * Dr. Lv delivered a talk at the ICRA 2025 workshop titled "State of the Art in Lower-Limb Exoskeletons: Exploring Specificity vs. Generalizability Across Users and Activities." [workshop link](https://sites.google.com/umich.edu/icra-2025-exoskeleton-workshop/home/)
 
 
 - 01/2025: 
-   * Our research is featured at Clemson World!: [story link](https://clemson.world/one-step-at-a-time/)
+   * Our research is featured at Clemson World! [story link](https://clemson.world/one-step-at-a-time/)
       <figure class="image image-style-side image_resized" style="width:80%; height:60%;"><img src="/images/Clemson Interview.jpg">
      <figcaption> </figcaption>
 
