@@ -12,7 +12,7 @@ Kinematic control approaches for exoskeletons follow specified trajectories, whi
 
 Conference Proceedings
 ---
-* A. Guan and G. Lv, "A PINN-Based Approach to Solving the Matching Condition for Energy Shaping Control in Bipedal Locomotion", The 2025 Modeling, Estimation, and Control Conference, under review, Pittsburgh, PA, 2025.
+* A. Guan and G. Lv, "A PINN-Based Approach to Solving the Matching Condition for Energy Shaping Control in Bipedal Locomotion", The 2025 Modeling, Estimation, and Control Conference, Pittsburgh, PA, 2025. [PDF](http://assistiveroboticslaboratory.github.io/files/MECC_2025.pdf)
 
 * G. Lv, H. Xing, J. Lin, R. Gregg and C. Atkeson, “A Task-Invariant Learning Framework of Lower-Limb Exoskeletons for Assisting Human Locomotion”,  American Control Conference, Denver, 2020. [PDF](http://assistiveroboticslaboratory.github.io/files/GeACC20.pdf)
 

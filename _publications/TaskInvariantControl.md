@@ -1,5 +1,5 @@
 ---
-title: "Task-Invariant Control Paradigms for Volitional Motion"
+title: "Task-Agnostic Control Paradigms for Assisting Voluntary Human Motion"
 collection: publications
 permalink: /publication/TaskInvariantControl
 excerpt: 'Publications on Energy Shaping Control and Centroidal Momentum Shaping Control for Lower-Limb Exoskeletons.'
@@ -23,6 +23,10 @@ Journal Articles
 
 * J. Lin, D. Nikhil, G. Lv, and R. Gregg, “Optimal Task-Invariant Energetic Control for a Knee-Ankle Exoskeleton“, IEEE Control Systems Letters, 5(5): pp, 1711 – 1716, 2021. [PDF](http://assistiveroboticslaboratory.github.io/files/GeCSS.pdf)
 
+
+* M. Yu, J. Dean, and G. Lv, “Task-Agnostic Assistance via Centroidal Momentum Shaping: Preliminary Validations on a Hip Exoskeleton“, IEEE Robotics and Automation Letters, to appear, 2026. [PDF](http://assistiveroboticslaboratory.github.io/files/RAL_2026.pdf)
+
+
 Conference Proceedings
 ---
 * G. Lv and R. Gregg, “Orthotic Body-Weight Support through Underactuated Potential Energy Shaping with Contact Constraints,” IEEE Conference on Decision and Control, Osaka, Japan, 2015. **Best Student Paper Award**. [PDF](http://assistiveroboticslaboratory.github.io/files/GeCDC15.pdf)
@@ -39,7 +43,7 @@ Conference Proceedings
 
 * M. Yu and G. Lv, "Task-Invariant Centroidal Momentum Shaping Control for Lower-Limb Exoskeletons”, IEEE Conference on Decision & Control, Cacun, Mexico, 2022. [PDF](http://assistiveroboticslaboratory.github.io/files/GeCDC22.pdf)
 
-* M. Yu, N. Krishnan, T. Holliday, J. Dean, and G. Lv, "Centroidal Momentum Shaping for Task-Invariant Assistance: Preliminary Validation on a Bilateral Hip Exoskeleton", IEEE/RSJ International Conference on Intelligent Robots and Systems, Hangzhou, China, 2025, under review. [PDF](http://assistiveroboticslaboratory.github.io/files/IROS2025.pdf)
+<!-- * M. Yu, N. Krishnan, T. Holliday, J. Dean, and G. Lv, "Centroidal Momentum Shaping for Task-Invariant Assistance: Preliminary Validation on a Bilateral Hip Exoskeleton", IEEE/RSJ International Conference on Intelligent Robots and Systems, Hangzhou, China, 2025, under review. [PDF](http://assistiveroboticslaboratory.github.io/files/IROS2025.pdf) -->
 
 <!-- This paper is about the number 1. The number 2 is left for future work. -->
 

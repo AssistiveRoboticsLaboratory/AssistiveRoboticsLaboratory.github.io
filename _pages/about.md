@@ -18,7 +18,7 @@ The mission of the Assistive Robotics Laboratory is to develop agile, versatile 
 
 <!-- #This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
 
-
+<!-- 
 WE ARE HIRING:
 ------
 The ARL has a PhD opening in the development of modular, highly backdrivable lower-limb exoskeletons. Interested applicants should email to Prof. Ge Lv (glv@clemson.edu) with a CV, transcripts, an one-page cover letter, and any relevant publications. 
@@ -33,11 +33,19 @@ The ARL has a PhD opening in the development of modular, highly backdrivable low
 *  Preferred Qualification:  
    - Knowledge in control systems design and analysis, robot dynamics, and optimization/machine learning.
    - Experiences with using motion capture systems and electromyography sensors for gait analyses. 
-   - Good communication, presentation, and writing skills.  
+   - Good communication, presentation, and writing skills.   -->
 
 
 NEWS
 ------
+- 05/2026: 
+  * Congrats to Dr. Miao Yu on successfully defending his dissertation.
+
+
+- 10/2025:
+   * Dr. Lv received the Rising Stars of Mechanical Egninering Award from the American Society of Mechanical Engineers (ASME) at the 2025 International Mechanical Engineering Congress & Exposition (IMECE) [link](https://event.asme.org/IMECE-2025/Program/Rising-Stars-of-Mechanical-Engineering)
+
+
 - 05/2025:
    * Dr. Lv delivered a talk at the ICRA 2025 workshop titled "State of the Art in Lower-Limb Exoskeletons: Exploring Specificity vs. Generalizability Across Users and Activities." [workshop link](https://sites.google.com/umich.edu/icra-2025-exoskeleton-workshop/home/)
 
@@ -54,9 +62,9 @@ NEWS
 - 07/2024: 
    * Dr. Lv's was awarded the Dean's Professorship at the College of Engineering, Computing and Applied Sciences.
 
-
+<!-- 
 - 06/2024: 
-   * Our paper (in collobration with Prof. Qin Lin, UH) entitled "Disturbance Rejection-Guarded Learning for Vibration Suppression of Two-Inertia Systems" was accepted to the 2024 International Conference on Automation Science and Engineering (CASE).
+   * Our paper (in collobration with Prof. Qin Lin, UH) entitled "Disturbance Rejection-Guarded Learning for Vibration Suppression of Two-Inertia Systems" was accepted to the 2024 International Conference on Automation Science and Engineering (CASE). -->
 
 
 - 05/2024: 
@@ -71,12 +79,12 @@ NEWS
       <figure class="image image-style-side image_resized" style="width:60%; height:40%;"><img src="/images/FOCI2024.jpg">
      <figcaption> </figcaption>
 
-   * Our paper entitled "Soft Robotics for Fall Mitigation: Preliminary Design and Evaluation of a Wearable System using Continuum Robots" was accepted to 2024 6th International Conference on Reconfigurable Mechanisms and Robots, Chicago, IL. 
+   <!-- * Our paper entitled "Soft Robotics for Fall Mitigation: Preliminary Design and Evaluation of a Wearable System using Continuum Robots" was accepted to 2024 6th International Conference on Reconfigurable Mechanisms and Robots, Chicago, IL.  -->
 
 - 03/2024: 
    * Our lab receives the [CAREER Award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2340261&HistoricalAwards=false) from the National Science Foundation! Many thanks to NSF for supporting our research. 
 
-   * Our paper enetitiled "[The Claw: An Avian-Inspired, Large Scale, Hybrid Rigid-Continuum Gripper](https://www.mdpi.com/2218-6581/13/3/52)]" was accepted into the speicial issue "Intelligent Bionic Robots" of Robotics (MDPI) as **cover article**! This is a collobration work with [Prof. Ian Walker](https://iwalker.people.clemson.edu) at the Department of Electrical and Computer Engineering, Clemson University. 
+   * Our paper enetitiled "[The Claw: An Avian-Inspired, Large Scale, Hybrid Rigid-Continuum Gripper](https://www.mdpi.com/2218-6581/13/3/52)" was accepted into the speicial issue "Intelligent Bionic Robots" of Robotics (MDPI) as **cover article**! This is a collobration work with [Prof. Ian Walker](https://iwalker.people.clemson.edu) at the Department of Electrical and Computer Engineering, Clemson University. 
 
 - 07/2023: Our paper entitled "[A Two-Layer Human-in-the-Loop Optimization Framework for Customizing Lower-Limb Exoskeleton Assistance](https://ieeexplore.ieee.org/document/10155858)" was published at the invited session "Recent Advancement of Human Autonomy Interaction & Integration" of the 2023 American Control Conference, San Diego, CA. 
 
@@ -143,6 +151,6 @@ Example: editing a markdown file for a talk
 Last Updated:
 ------
 <!-- More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
-June 1, 2025
+May 15, 2026
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=200&t=n&d=QKBESDUECYuMO4wVvyyxv0RnNVfEA5Yqu4tFWeSgm7c'></script>

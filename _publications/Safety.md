@@ -14,6 +14,14 @@ of enforcing reference trajectories, we incorporate human inputs and preferences
 
 Journal Articles
 ---
+
+* M. Yu, W. Bailey, N. Krishnan, and G. Lv, “Proactive Stability Augmentation for Voluntary Human Motion: Validations on a Hip Exoskeleton in Leaning and Slip Perturbations“, IEEE Transactions on Medical Robotics and Bionics, under review, 2026. [PDF](http://assistiveroboticslaboratory.github.io/files/TMRB_2026.pdf) 
+
 * M. Yu, Q. Lin, and G. Lv, “Safety Augmentation for Volitional Human Locomotion via Lower-Limb Exoskeletons: A Case Study on Balance Control“, IEEE Control Systems Letters, 2024. [PDF](http://assistiveroboticslaboratory.github.io/files/L-CSS - YuLinLv.pdf) 
 
+
+Conference Articles
+---
+
+* M. Yu, W. Bailey, N. Krishnan, and G. Lv, “Human-Centered Stability Augmentation Control for  Hip Exoskeleton Under Leaning and Slip Perturbations“, IEEE/RSJ International Conference on Intelligent Robots & Systems, Pittsburgh, under review, 2026. [PDF](http://assistiveroboticslaboratory.github.io/files/IROS_Perturbation_2026.pdf) 
 
