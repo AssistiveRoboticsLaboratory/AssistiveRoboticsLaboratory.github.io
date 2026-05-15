@@ -1,5 +1,5 @@
 ---
-title: "Continuum Components based Robotic Systems"
+title: "Continuum Components Based Robotic Systems"
 collection: publications
 permalink: /publication/Continuum and Soft Robots 
 excerpt: 'Publications on Continuum and Soft Robots.'

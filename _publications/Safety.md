@@ -1,5 +1,5 @@
 ---
-title: "Safety Augmentation for Volitional Human Motion"
+title: "Safety Augmentation for Voluntary Human Motion"
 collection: publications
 permalink: /publication/Safety
 excerpt: 'Publications on Safety Augmentation for Volitional Human Motion via Exoskeletons'
