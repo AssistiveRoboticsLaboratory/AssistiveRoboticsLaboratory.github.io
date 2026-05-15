@@ -22,18 +22,11 @@ Principal Investigator
 
      Email: glv AT clemson DOT edu
 
-     [Personal Website](https://sites.google.com/view/lyuge)/[Google Scholar](https://scholar.google.com/citations?user%253DnDnV2LkAAAAJ%2526hl%253Den)
+     [Google Scholar](https://scholar.google.com/citations?user%253DnDnV2LkAAAAJ%2526hl%253Den)
 
 
 PhD students 
 ---
-* Miao Yu, Mechanical Engineering, Fall 2021 - present 
-
-   * BS, North China Electric Power University, 2015
-   
-   * MS, Washington University at St. Louis, 2017
-   
-   * MS, University of Maryland, College Park, 2021
 
 * Tingrui (Angelos) Guan, Mechanical Engineering, Fall 2024 - present
 
@@ -41,91 +34,102 @@ PhD students
    
    * MS, University of Southern California, 2023
 
-* Zhenyuan Yu, Mechanical Engineering, Fall 2024 - present
+* Jiawen Wu, Mechanical Engineering, Fall 2026 - present
 
-   * BS, MS, Xi'an Jiaotong University, 2019, 2022
+   * BS, University of Nottingham (Ningbo), 2023 
    
-   * MS, University of North Carolina - Chapel Hill /North Carolina State University, 2024
+   * MS, University of Michigan, 2025
 
+* Xiaohang (Shawn) Ding, Mechanical Engineering, Fall 2026 - present
+
+   * BS, Sichuan University, 2024 
+   
+   * MS, Columbia University, 2026
 
 
 MS students (thesis-track)
 ---
-* Hamdan Khan Sarvathullah, Mechanical Engineering 
 
-* Gavin Platt, Mechanical Engineering 
+* Nicholas Hale, Mechanical Engineering 
 
 * Nikhila Krishnan, Mechanical Engineering 
 
 
 Undergraduate students 
 ---
-* Jack Schuver, Undergraduate Research Assistant, Electrical & Computer Engineering 
 
-<!-- 
-Alumni 
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Creative Inquiry 
+  * Johnathan Harrison, Mechanical Engineering
+  * Michael Anderson, Mechanical Engineering 
+  * Jules Slevensky, Mechanical Engineering 
+  * Vaibhav Ravibiruthoji, Mechanical Engineering
+  * Colby Santarelli, Mechancial Engineering 
+  * Clement Susanto, Computer Engineering
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
-  
-
+* Harrison Curtis (Honor's College), Mechanical Engineering 
+* Julio Pimentel, Mechanical Engineering 
+* Sierra Beerer (Honor's College), Mechanical Engineering
 
 Alumni
 ---
 
 Graduate Students:
 
+* Miao Yu (advisor), PhD, Mechancial Engineering, 2026
+
+* Nithesh Kumar, PhD, Elecrical & Computer Engineering, 2025
+  * Current Position: Postdoctgoral Fellow, Department of Mechanical Engineering, Vanderbilt University  
+
+* Hamdan Khan Sarvathullah (thesis-track), MS, Mechanical Engineering, 2026  
+
+* Gavin Platt (thesis-track), MS, Mechanical Engineering, 2025
+
 * Cassandra Hoffman, MS, Bioengineering, 2025
 
 * Therese Parr, PhD, Bioengineering, 2023
   * Current Position: Research Biomedical Engineer & Fellow, Air Force Research Laboratory 
 
-* Timothy Driscoll, MS, Computer Engineering, 2023
+* Timothy Driscoll (thesis-track), MS, Computer Engineering, 2023
   * Current Position: Software Engineer, DEKA Research & Development 
 
-* Param Malhotra, MS, Mechanical Engineering, 2022
+* Param Malhotra (thesis-track), MS, Mechanical Engineering, 2022
 
 * Yash Srivastava, MS, Electrical & Computer Engineering, 2022
   * Current Position: Engineer, Caterpillar Inc 
 
 Undergraduate Students:
 
-* Nick Hale, BS, Mechanical Engineering 
+* Walker Bailey, Automotive Engineering
 
-* James Rhoads (Creative Inquiry), BS, Mechanical Engineering
+* John Mohrmann, Electrical & Computer Engineering
 
-* Anh Doan (Creative Inquiry), BS, Mechanical Engineering 
+* Jack Carter (Creative Inquiry), Mechanical Engineering
 
-* Thomas Holliday (Creative Inquiry), BS, Mechanical Engineering 
+* Jack Schuver, Electrical & Computer Engineering/Mechanical Engineering
 
-* Thomas Temple (Creative Inquiry), BS, Mechanical Engineering 
+* Nick Hale, Mechanical Engineering 
 
-* Harrison Pinkston (Creative Inquiry), BS, Mechanical Engineering 
+* James Rhoads (Creative Inquiry), Mechanical Engineering
 
-* Nick Daly, BS, Mechanical Engineering 
+* Anh Doan (Creative Inquiry), Mechanical Engineering 
 
-* Ryan Rutolo (Creative Inquiry), BS, Mechanical Engineering
+* Thomas Holliday (Creative Inquiry), Mechanical Engineering 
 
-* Timothy Nguyen, BS, Mechanical Engineering
+* Thomas Temple (Creative Inquiry), Mechanical Engineering 
 
-* Charles Marmo (Creative Inquiry), BS, Bioengineering
+* Harrison Pinkston (Creative Inquiry), Mechanical Engineering 
 
-* Kevin Dai (Creative Inquiry), BS, Mechanical Engineering
+* Nick Daly, Mechanical Engineering 
 
-* Zachary Nemphos, BS, Mechanical Engineering
+* Ryan Rutolo (Creative Inquiry), Mechanical Engineering
+
+* Timothy Nguyen, Mechanical Engineering
+
+* Charles Marmo (Creative Inquiry), Bioengineering
+
+* Kevin Dai (Creative Inquiry), Mechanical Engineering
+
+* Zachary Nemphos, Mechanical Engineering
 
 * Hunter Meier, EUREKA!, Mechanical Engineering 
 
@@ -133,4 +137,4 @@ Undergraduate Students:
 
 * Andrew O'Rourke, EUREKA!, Electrical and Computer Engineering 
 
-* Brook Schmid, BS, Mechanical Engineering
+* Brook Schmid, Mechanical Engineering
