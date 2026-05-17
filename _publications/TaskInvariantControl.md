@@ -43,7 +43,7 @@ Conference Proceedings
 
 * M. Yu and G. Lv, "Task-Invariant Centroidal Momentum Shaping Control for Lower-Limb Exoskeletons”, IEEE Conference on Decision & Control, Cacun, Mexico, 2022. [PDF](http://assistiveroboticslaboratory.github.io/files/GeCDC22.pdf)
 
-* N. Hale, M. Yu, R. Gurchiek, and G. Lv, "Whole-Body Angular Momentum Estimation Using Reduced-Ordered Models”, 48th Annual International COnference of the IEEE Engineering in Medicine and Biology Society, Toronto, Canada, 2026. [PDF](http://assistiveroboticslaboratory.github.io/files/EMBC_2026.pdf)
+* N. Hale, M. Yu, R. Gurchiek, and G. Lv, "Whole-Body Angular Momentum Estimation Using Reduced-Ordered Models”, 48th Annual International Conference of the IEEE Engineering in Medicine and Biology Society, Toronto, Canada, 2026. [PDF](http://assistiveroboticslaboratory.github.io/files/EMBC_2026.pdf)
 
 <!-- * M. Yu, N. Krishnan, T. Holliday, J. Dean, and G. Lv, "Centroidal Momentum Shaping for Task-Invariant Assistance: Preliminary Validation on a Bilateral Hip Exoskeleton", IEEE/RSJ International Conference on Intelligent Robots and Systems, Hangzhou, China, 2025, under review. [PDF](http://assistiveroboticslaboratory.github.io/files/IROS2025.pdf) -->
 
