@@ -24,7 +24,7 @@ Journal Articles
 * J. Lin, D. Nikhil, G. Lv, and R. Gregg, “Optimal Task-Invariant Energetic Control for a Knee-Ankle Exoskeleton“, IEEE Control Systems Letters, 5(5): pp, 1711 – 1716, 2021. [PDF](http://assistiveroboticslaboratory.github.io/files/GeCSS.pdf)
 
 
-* M. Yu, J. Dean, and G. Lv, “Task-Agnostic Assistance via Centroidal Momentum Shaping: Preliminary Validations on a Hip Exoskeleton“, IEEE Robotics and Automation Letters, to appear, 2026. [PDF](http://assistiveroboticslaboratory.github.io/files/RAL_2026.pdf)
+* M. Yu, J. Dean, and G. Lv, “Task-Agnostic Assistance via Centroidal Momentum Shaping: Preliminary Validations on a Hip Exoskeleton“, IEEE Robotics and Automation Letters, to appear, 2026. [PDF](http://assistiveroboticslaboratory.github.io/files/RAL26_Final.pdf)
 
 
 Conference Proceedings
