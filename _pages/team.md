@@ -78,7 +78,7 @@ Graduate Students:
 * Miao Yu (advisor), PhD, Mechancial Engineering, 2026
 
 * Nithesh Kumar, PhD, Elecrical & Computer Engineering, 2025
-  * Current Position: Postdoctgoral Fellow, Department of Mechanical Engineering, Vanderbilt University  
+  * Current Position: Postdoctoral Fellow, Department of Mechanical Engineering, Vanderbilt University  
 
 * Hamdan Khan Sarvathullah (thesis-track), MS, Mechanical Engineering, 2026  
 
