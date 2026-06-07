@@ -154,26 +154,6 @@ Last Updated:
 May 15, 2026
 
 <div style="margin-top: 1rem; padding: 0.9rem 1rem; border: 1px solid #d0d7de; border-radius: 10px; background: linear-gradient(135deg, #f6f8fa 0%, #eef5ff 100%); font-size: 0.97rem; box-shadow: 0 2px 8px rgba(15, 23, 42, 0.06);">
-  <strong>Local browser view counter:</strong> this home page tracks only views in the current browser. It does not show how many different people visit the site.
-  <div style="margin-top: 0.45rem; font-weight: 600; color: #1f2937;">Home page views in this browser: <span id="home-visitor-count">0</span></div>
+  <strong>Visitor location map:</strong> this site can show visitor locations only when an external analytics or visitor-map service is configured. GitHub Pages cannot create a global visitor map by itself.
+  <div style="margin-top: 0.45rem; font-weight: 600; color: #1f2937;">To enable a world map of visitor locations, add a third-party visitor-map widget or analytics integration.</div>
 </div>
-
-<script>
-  (function () {
-    const updateVisitorCount = () => {
-      const key = 'arl-homepage-views';
-      const current = Number(localStorage.getItem(key) || 0) + 1;
-      localStorage.setItem(key, String(current));
-      const el = document.getElementById('home-visitor-count');
-      if (el) {
-        el.textContent = current;
-      }
-    };
-
-    if (document.readyState !== 'loading') {
-      updateVisitorCount();
-    } else {
-      document.addEventListener('DOMContentLoaded', updateVisitorCount);
-    }
-  })();
-</script>
