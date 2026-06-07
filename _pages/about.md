@@ -154,6 +154,49 @@ Last Updated:
 May 15, 2026
 
 <div style="margin-top: 1rem; padding: 0.9rem 1rem; border: 1px solid #d0d7de; border-radius: 10px; background: linear-gradient(135deg, #f6f8fa 0%, #eef5ff 100%); font-size: 0.97rem; box-shadow: 0 2px 8px rgba(15, 23, 42, 0.06);">
-  <strong>Visitor location map:</strong> this site can show visitor locations only when an external analytics or visitor-map service is configured. GitHub Pages cannot create a global visitor map by itself.
-  <div style="margin-top: 0.45rem; font-weight: 600; color: #1f2937;">To enable a world map of visitor locations, add a third-party visitor-map widget or analytics integration.</div>
+  <strong>Visitor location preview:</strong> this block uses a third-party geolocation service to show the current visitor's approximate location on a world map. It does not aggregate past visitors; a full visitor-history map still requires a dedicated analytics service.
+  <div id="visitor-map" style="margin-top: 1rem; width: 100%; height: 360px; border: 1px solid #d0d7de; border-radius: 10px; overflow: hidden;"></div>
+  <div id="visitor-map-status" style="margin-top: 0.75rem; font-weight: 600; color: #1f2937;">Loading visitor location...</div>
 </div>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha512-sA+eV8sYBjozWG3FOsYBzvR5BA0VZzFTk7ZsS4oIq9yZgoRXZ0D9l7V8vp/OaFQxAjKzL5aqPRa0cP1mE8c+7A==" crossorigin="" />
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha512-8t8FYRDm5rjO7F7EEVqv60lpJ4E3pAYqpvi0lo/4U6Rl9ymhQ7F4QJ4KxyU+F2sF0G9D0I4AGeK1T3HeSwFUwA==" crossorigin=""></script>
+<script>
+  (function () {
+    const status = document.getElementById('visitor-map-status');
+    const mapEl = document.getElementById('visitor-map');
+    if (!mapEl || !status || typeof L === 'undefined') {
+      if (status) {
+        status.textContent = 'Visitor map could not be loaded at this time.';
+      }
+      return;
+    }
+
+    const map = L.map(mapEl).setView([20, 0], 2);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      attribution: '&copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors',
+      maxZoom: 18,
+    }).addTo(map);
+
+    fetch('https://ipinfo.io/json')
+      .then(response => response.json())
+      .then(data => {
+        const loc = (data.loc || '').split(',');
+        if (loc.length !== 2) {
+          throw new Error('Location data is unavailable');
+        }
+        const lat = Number(loc[0]);
+        const lon = Number(loc[1]);
+        const label = [data.city, data.region, data.country].filter(Boolean).join(', ');
+        L.marker([lat, lon]).addTo(map)
+          .bindPopup(label || 'Visitor location')
+          .openPopup();
+        map.setView([lat, lon], 4);
+        status.textContent = label
+          ? `Estimated visitor location: ${label}.`
+          : 'Estimated visitor location found.';
+      })
+      .catch(() => {
+        status.textContent = 'Unable to determine the visitor location right now.';
+      });
+  })();
+</script>
