@@ -153,4 +153,27 @@ Last Updated:
 <!-- More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
 May 15, 2026
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=200&t=n&d=QKBESDUECYuMO4wVvyyxv0RnNVfEA5Yqu4tFWeSgm7c'></script>
+<div style="margin-top: 1rem; padding: 0.9rem 1rem; border: 1px solid #d0d7de; border-radius: 10px; background: linear-gradient(135deg, #f6f8fa 0%, #eef5ff 100%); font-size: 0.97rem; box-shadow: 0 2px 8px rgba(15, 23, 42, 0.06);">
+  <strong>Local browser view counter:</strong> this home page tracks only views in the current browser. It does not show how many different people visit the site.
+  <div style="margin-top: 0.45rem; font-weight: 600; color: #1f2937;">Home page views in this browser: <span id="home-visitor-count">0</span></div>
+</div>
+
+<script>
+  (function () {
+    const updateVisitorCount = () => {
+      const key = 'arl-homepage-views';
+      const current = Number(localStorage.getItem(key) || 0) + 1;
+      localStorage.setItem(key, String(current));
+      const el = document.getElementById('home-visitor-count');
+      if (el) {
+        el.textContent = current;
+      }
+    };
+
+    if (document.readyState !== 'loading') {
+      updateVisitorCount();
+    } else {
+      document.addEventListener('DOMContentLoaded', updateVisitorCount);
+    }
+  })();
+</script>
