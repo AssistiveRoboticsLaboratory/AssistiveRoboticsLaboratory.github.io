@@ -213,3 +213,8 @@
 @media(max-width:900px){.research-opening h1,.program-heading h2,.research-topic .project-title,#overview h2,.research-foundations h2,.research-outro h2{white-space:normal}}
 .research-outro>.wrap{display:block}
 .research-outro .actions{margin-top:24px}
+
+.video-external{display:block;overflow:hidden;color:#fff;text-decoration:none}
+.video-external img{width:100%;height:100%;object-fit:contain;display:block}
+.video-external span{position:absolute;bottom:0;left:0;right:0;padding:14px 18px;background:rgba(0,0,0,.8);font-size:15px;text-align:center}
+.video-external:hover span,.video-external:focus-visible span{text-decoration:underline}

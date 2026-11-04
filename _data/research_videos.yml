@@ -34,3 +34,10 @@
   title: "Teleoperation of a compliant avian-inspired robot gripper"
   context: "IEEE CASE · 2025"
   description: "Demonstration of teleoperation of a compliant gripper with continuum digits."
+
+- topic: continuum
+  video_url: "https://www.mdpi.com/article/10.3390/robotics13030052/s1"
+  poster: "/images/ClawFigure.png"
+  title: "The Claw: An Avian-Inspired, Large Scale, Hybrid Rigid-Continuum Gripper"
+  context: "Robotics · 2024 · Supplementary Video S1"
+  description: "Supplementary video accompanying the Robotics paper, showing experiments with the avian-inspired hybrid rigid-continuum gripper."
