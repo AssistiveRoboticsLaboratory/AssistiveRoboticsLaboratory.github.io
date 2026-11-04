@@ -1,4 +1,5 @@
 ---
+layout: lab
 permalink: /markdown/
 title: "Contact"
 author_profile: true

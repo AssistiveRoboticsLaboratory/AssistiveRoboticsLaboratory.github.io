@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Assistive Robotics Laboratory"
 title_separator          : "-"
 name                     : &name "Copyright (c) Ge Lv 2020 - 2024 All rights reserved"
-description              : &description "where robots improve human lives"
+description              : &description "Control, customization, design, and evaluation of human-centered robotic systems for assistance and augmentation across daily activities."
 url                      : https://AssistiveRoboticsLaboratory.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "AssistiveRoboticsLaboratory/AssistiveRoboticsLaboratory.github.io"
@@ -246,7 +246,7 @@ defaults:
       path: ""
       type: publications
     values:
-      layout: single
+      layout: lab
       author_profile: true
       share: true
       comments: true

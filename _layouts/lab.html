@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title }} | {{ site.title }}</title>
+  <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | escape }}">
+  <link rel="icon" href="{{ site.baseurl }}/images/favicon.ico">
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/lab.css">
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="lab-header">
+    <div class="wrap header-inner">
+      <a class="brand" href="{{ site.baseurl }}/"><img class="brand-logo" src="{{ site.baseurl }}/images/ARL.png" alt="ARL logo" width="92" height="80"><span>Assistive Robotics<br>Laboratory<small>Clemson University</small></span></a>
+      <nav aria-label="Main navigation">
+        <a href="{{ site.baseurl }}/Research/"{% if page.url == "/Research/" %} aria-current="page"{% endif %}>Research</a>
+        {% for link in site.data.navigation.main %}<a href="{{ site.baseurl }}{{ link.url }}"{% if page.url == link.url %} aria-current="page"{% endif %}>{{ link.title }}</a>{% endfor %}
+        <a href="{{ site.baseurl }}/funding/"{% if page.url == "/funding/" %} aria-current="page"{% endif %}>Funding</a>
+        <a href="{{ site.baseurl }}/outreach/"{% if page.url == "/outreach/" %} aria-current="page"{% endif %}>Outreach</a>
+        <a href="{{ site.baseurl }}/#news">News</a>
+      </nav>
+    </div>
+  </header>
+  <main id="main" tabindex="-1">
+    {% if page.lab_home or page.full_width %}{{ content }}{% else %}<div class="wrap interior"><p class="eyebrow">Assistive Robotics Laboratory</p><h1>{{ page.title }}</h1><div class="page-content">{{ content }}</div></div>{% endif %}
+  </main>
+  <footer class="lab-footer">
+    <div class="wrap footer-grid">
+      <div><h2>Assistive Robotics Laboratory</h2><p>Clemson University<br>225 A, Fluor Daniel Engineering Innovation Building<br>216 S Palmetto Blvd · Clemson, SC 29634</p></div>
+      <div><h3>Explore</h3><a href="{{ site.baseurl }}/Team/">Our team</a><a href="{{ site.baseurl }}/publications/">Publications</a><a href="{{ site.baseurl }}/funding/">Funding</a><a href="{{ site.baseurl }}/outreach/">Outreach</a><a href="{{ site.baseurl }}/markdown/">Contact &amp; directions</a></div>
+      <div><h3>Connect</h3><a href="mailto:glv@clemson.edu">glv@clemson.edu</a><a href="{{ site.author.googlescholar }}">Google Scholar</a><a href="https://www.youtube.com/@arl-clemson4130">YouTube</a></div>
+    </div>
+    <div class="wrap footer-bottom">© {{ site.time | date: '%Y' }} Assistive Robotics Laboratory · Clemson University</div>
+  </footer>
+</body>
+</html>

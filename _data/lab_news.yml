@@ -1,0 +1,63 @@
+- date: "2026-05"
+  label: "May 2026"
+  text: 'Congratulations to Dr. Miao Yu on successfully defending his dissertation.'
+
+- date: "2025-10"
+  label: "October 2025"
+  text: 'Dr. Lv received the <a href="https://event.asme.org/IMECE-2025/Program/Rising-Stars-of-Mechanical-Engineering">ASME Rising Stars of Mechanical Engineering Award</a> at IMECE 2025.'
+
+- date: "2025-05"
+  label: "May 2025"
+  text: 'Dr. Lv delivered a talk at the <a href="https://sites.google.com/umich.edu/icra-2025-exoskeleton-workshop/home/">ICRA 2025 lower-limb exoskeleton workshop</a>.'
+
+- date: "2025-01"
+  label: "January 2025"
+  text: 'Our research was featured in <a href="https://clemson.world/one-step-at-a-time/">Clemson World</a>.'
+
+- date: "2024-11"
+  label: "November 2024"
+  text: 'Our exoskeleton research was featured by the College of Engineering, Computing and Applied Sciences and <a href="https://news.clemson.edu/paralympics-helps-shine-a-light-on-exoskeleton-research-at-clemson-university/">Clemson News</a>. <a href="https://www.youtube.com/watch?v=f7eOtTFhRDs">Watch the interview</a>.'
+
+- date: "2024-07"
+  label: "July 2024"
+  text: 'Dr. Lv was awarded the Dean’s Professorship in the College of Engineering, Computing and Applied Sciences.'
+
+- date: "2024-05"
+  label: "May 2024"
+  text: 'Our paper, “Safety Augmentation for Volitional Human Locomotion via Lower-Limb Exoskeletons: A Case Study,” was accepted to IEEE Control Systems Letters.'
+
+- date: "2024-04"
+  label: "April 2024"
+  text: 'Dr. Lv received the Mechanical Engineering Excellence Award (Junior Rank Faculty). Our Creative Inquiry team also presented at the 19th Annual Focus on Creative Inquiry Poster Forum.'
+  image: "/images/FOCI2024.jpg"
+  image_alt: "Creative Inquiry team at the 2024 poster forum"
+
+- date: "2024-03"
+  label: "March 2024"
+  text: 'Our lab received an <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2340261">NSF CAREER Award</a>. “<a href="https://www.mdpi.com/2218-6581/13/3/52">The Claw: An Avian-Inspired, Large Scale, Hybrid Rigid-Continuum Gripper</a>,” a collaboration with <a href="https://iwalker.people.clemson.edu">Prof. Ian Walker</a>, was also accepted as a cover article in the Robotics special issue “Intelligent Bionic Robots.”'
+
+- date: "2023-07"
+  label: "July 2023"
+  text: 'Our paper, “<a href="https://ieeexplore.ieee.org/document/10155858">A Two-Layer Human-in-the-Loop Optimization Framework for Customizing Lower-Limb Exoskeleton Assistance</a>,” was published in the invited session “Recent Advancement of Human Autonomy Interaction &amp; Integration” at the American Control Conference in San Diego.'
+
+- date: "2023-05"
+  label: "May 2023"
+  text: 'Congratulations to Dr. Therese Parr on successfully defending her dissertation.'
+
+- date: "2023-04"
+  label: "April 2023"
+  text: 'Tapp Rhoads received the Carl Donner Nelson, Jr. Memorial Award. Dr. Lv was also recognized as a Faculty Scholar in Clemson University’s School of Health Research.'
+  image: "/images/TappAward.jpg"
+  image_alt: "Tapp Rhoads receiving an award"
+
+- date: "2022-12"
+  label: "December 2022"
+  text: 'Our paper, “<a href="https://ieeexplore.ieee.org/abstract/document/9993080">Task-Invariant Centroidal Momentum Shaping for Lower-Limb Exoskeletons</a>,” was published at the 61st Conference on Decision and Control.'
+
+- date: "2021-04"
+  label: "April 2021"
+  text: 'Dr. Lv received the South Carolina Translational Research Improving Musculoskeletal Health (SC-TRIMH) targeted junior faculty award.'
+
+- date: "2020-01"
+  label: "January 2020"
+  text: 'Dr. Lv joined Clemson University’s Department of Mechanical Engineering as an Assistant Professor.'

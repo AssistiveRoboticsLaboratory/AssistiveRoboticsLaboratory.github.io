@@ -1,107 +1,85 @@
 ---
-layout: archive
+layout: lab
 title: "Research"
 permalink: /Research/
-author_profile: true
+full_width: true
+excerpt: "Task-agnostic exoskeleton control, personalized assistance, stability augmentation, robotic prostheses, and continuum robotics at Clemson University."
 ---
-
-Principal Investigator 
----
-<!-- ![picture of PI](/images/Genew.jpg align = "right")  -->
-<img align="right" width="250" height="250" src="/images/Ge.jpg">
-
-*  **Ge Lv (吕阁), PhD**
-    
-     Director, Assistive Robotics Laboratory 
-
-     Assistant Professor, Departments of Mechanical Engineering and Bioengineering
-
-     Faculty Scholar, School of Health Research
-
-     Clemson University 
-
-     Email: glv AT clemson DOT edu
-
-     [Personal Website](https://sites.google.com/view/lyuge)/[Google Scholar](https://scholar.google.com/citations?user%253DnDnV2LkAAAAJ%2526hl%253Den)
-
-
-PhD students 
----
-* Miao Yu, Mechanical Engineering
-   * BS, Electrical Engineering & Its Automation, North China Electric Power University, 2015
-   
-   * MS, Electrical & Syhstems Engineering, Washington University at St. Louis, 2017
-   
-   * MS, Electrical Engineering, University of Maryland, College Park, 2021
-
-* Yalun Jiang, Mechanical Engineering
-   * BS, Power Engineering of Aircaft, Nanjing Univerity of Aeronautics & Astronautics, 2015
-   
-   * MS, Automotive Engineering, University of Bath, 2017
-
-
-
-
-MS students 
----
-* Hamdan Khan Sarvathullah, Mechanical Engineering 
-
-* Nicolas Daly, Mechanical Engineering 
-
-* Gavin Platt, Mechanical Engineering 
-
-* Cassie Hoffman, Bioengineering
-
-* Timothy Brodsky, Mechanical Engineering 
-
-
-
-Undergraduate students 
----
-* James Rhoads (Creative Inquiry), Mechanical Engineering
-
-* Ryan Rutolo (Creative Inquiry), Mechanical Engineering 
-
-* Anh Doan (Creative Inquiry), Mechanical Engineering 
-
-* Thomas Holliday (Creative Inquiry), Mechanical Engineering 
-
-* Andrew Parent, Mechanical Engineering 
-
-* James Farrell, Mechanical Engineering 
-
-* Sean Lee, Mechanical Engineering 
-
-<!-- 
-Alumni 
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
-  
-
-
-Alumni
----
-* Therese Parr, PhD, Bioengineering, 2023
-  * Current Position: Research Biomedical Engineer & Fellow, Air Force Research Laboratory 
-
-* Timothy Driscoll, MS, Computer Engineering, 2023
-  * Current Position: Software Engineer, DEKA Research & Development 
-
-* Param Malhotra, MS, Mechanical Engineering, 2022
-
-* Yash Srivastava, MS, Electrical & Computer Engineering, 2022
-
+<header class="research-intro">
+  <div class="wrap">
+    <p class="eyebrow">Research · Assistive Robotics Laboratory</p>
+    <h1>Control and optimization<br>for wearable robotics.</h1>
+    <p class="lede">Our research investigates task-agnostic control paradigms and human-in-the-loop customization frameworks for wearable robots. The objective is to provide assistance across daily activities while preserving voluntary human motion.</p>
+  </div>
+</header>
+<nav class="research-jump" aria-label="Research topics">
+  <div class="wrap"><a href="#overview">Overview</a><a href="#exoskeletons">01 · Exoskeletons</a><a href="#personalization">02 · Personalization</a><a href="#safety">03 · Stability</a><a href="#prosthetics">04 · Prosthetics</a><a href="#continuum">05 · Continuum robots</a><a href="#funding">Funding</a></div>
+</nav>
+<section class="section" id="overview">
+  <div class="wrap section-grid"><div><p class="eyebrow">Our approach</p><h2>Task-agnostic control<br>and user-specific assistance.</h2></div><div><p class="large-copy">Conventional control methodologies for lower-limb exoskeletons often rely on pre-defined reference kinematics or task-specific torque profiles. These approaches can constrain voluntary motion and require parameter adjustment across users and locomotor tasks.</p><p>We investigate reference kinematics-free control strategies based on energy shaping, centroidal momentum regulation, and control barrier functions. Related research addresses length-actuated prostheses, continuum robotic systems, and passivity-based bipedal locomotion. Mathematical analysis, simulation, and human-subject experiments are used to characterize controller performance and human–robot interaction.</p><div class="research-principles"><div><h3>Control and Customization</h3><p>Develop task-agnostic control strategies and customize robotic assistance through human-in-the-loop optimization.</p></div><div><h3>Design</h3><p>Develop and prototype user-friendly wearable devices and compliant mechanisms for physical interaction with human users.</p></div><div id="evaluations"><h3>Evaluations</h3><p>Conduct biomechanics studies to characterize human movement and evaluate assistance through muscle activity, joint mechanics, and stability-related outcomes.</p></div></div></div></div>
+</section>
+<section class="section research-topic shaded" id="exoskeletons">
+  <div class="wrap">
+    <p class="eyebrow">01 · Exoskeletons</p><h2>Task-agnostic assistance through energy and momentum shaping</h2>
+    <p class="topic-lede">Task-specific reference trajectories can restrict the adaptability of lower-limb exoskeletons to continuously varying human activities. We investigate control paradigms that regulate human body energetics and centroidal momentum without prescribing reference joint kinematics.</p>
+    <div class="topic-grid"><div>
+      <h3>The challenge</h3><p>Kinematic control approaches depend on pre-defined reference trajectories that can be difficult to adjust across locomotor tasks and human subjects. For individuals with partial or full voluntary control of their lower limbs, such references may overly constrain self-selected motion.</p>
+      <h3>How it works</h3><p>Energy shaping modifies the closed-loop mechanical energy of the coupled human–exoskeleton system. Potential energy shaping can provide body-weight support, whereas kinetic energy shaping modifies effective mass and inertia. Highly backdrivable actuation facilitates voluntary movement while enabling the commanded assistive torques.</p><p>Our centroidal momentum shaping paradigm regulates the sum of limb momenta projected onto the human center of mass. A virtual reference model is constructed from each user’s real-time gait with scaled limb inertial parameters. A nonlinear disturbance observer estimates voluntary human joint torques, and these estimates are incorporated into the control design.</p>
+      <div class="evidence-note"><h3>Research to date</h3><p>Our 2026 IEEE Robotics and Automation Letters study reports preliminary experiments with six non-disabled participants wearing a bilateral hip exoskeleton during treadmill walking, ground–stair transitions, and sit-to-stand tasks. Ensemble-averaged muscle efforts decreased by 22% with assistance. These findings are specific to the preliminary study conditions.</p></div>
+    </div><figure class="topic-figure"><img src="{{ site.baseurl }}/images/MoveX.png" alt="Front and side views of a person wearing a lower-limb exoskeleton" loading="lazy"><figcaption>Wearable lower-limb hardware used to study assistance that supports voluntary movement.</figcaption></figure></div>
+    <div class="key-papers"><h3>Key papers</h3><ul>
+      <li><a href="{{ site.baseurl }}/files/GeIEEEAccess.pdf">Trajectory-Free Control of Lower-Limb Exoskeletons Through Underactuated Total Energy Shaping</a><span>Lv, Lin &amp; Gregg · IEEE Access · 2021</span></li>
+      <li><a href="{{ site.baseurl }}/files/GeCDC22.pdf">Task-Invariant Centroidal Momentum Shaping Control for Lower-Limb Exoskeletons</a><span>Yu &amp; Lv · IEEE CDC · 2022</span></li>
+      <li><a href="{{ site.baseurl }}/files/RAL26_Final.pdf">Task-Agnostic Assistance via Centroidal Momentum Shaping: Preliminary Validations on a Hip Exoskeleton</a><span>Yu, Dean &amp; Lv · IEEE Robotics and Automation Letters · 11(8): 9691–9698, 2026</span></li>
+    </ul><a class="text-link" href="{{ site.baseurl }}/publication/TaskInvariantControl">All papers in this research area →</a></div>
+    {% assign research_video_topic = "exoskeletons" %}{% include research-videos.html %}
+  </div>
+</section>
+<section class="section research-topic" id="personalization">
+  <div class="wrap"><p class="eyebrow">02 · Personalization</p><h2>Human-in-the-loop customization of assistance</h2><p class="topic-lede">The relationship between control parameters and human effort varies across individuals and locomotor activities. We combine task-agnostic assistive strategies with sample-efficient optimization to customize lower-limb exoskeleton assistance.</p>
+    <div class="topic-grid text-pair"><div><h3>The challenge</h3><p>Although energy-shaping strategies can provide task-agnostic assistance, their parameters influence the resulting human joint torques and energetic demands. A systematic customization framework is needed to identify appropriate parameters across users and tasks.</p><h3>How it works</h3><p>We investigate derivative-free, sample-efficient optimization in conjunction with energy-shaping control. The framework searches for assistive parameters using human performance-based objectives while retaining a task-agnostic controller structure.</p></div><div><div class="method-panel"><p class="eyebrow">The customization loop</p><ol><li><strong>Set the assistance.</strong> Choose parameters within an energy-shaping strategy.</li><li><strong>Evaluate the response.</strong> Assess the resulting movement and effort objective.</li><li><strong>Update the parameters.</strong> Use optimization to search for improved assistance.</li></ol></div><div class="evidence-note"><h3>Evidence and next questions</h3><p>Simulation studies of the learning framework demonstrate reductions in modeled human joint torque and metabolic cost. Related work investigates a two-layer human-in-the-loop optimization structure and physics-informed neural networks for solving the energy-shaping matching condition. Simulation findings are distinguished from experimental validation.</p></div></div></div>
+    <div class="key-papers"><h3>Key papers</h3><ul>
+      <li><a href="{{ site.baseurl }}/files/GeACC20.pdf">A Task-Invariant Learning Framework of Lower-Limb Exoskeletons for Assisting Human Locomotion</a><span>Lv, Xing, Lin, Gregg &amp; Atkeson · American Control Conference · 2020</span></li>
+      <li><a href="{{ site.baseurl }}/files/GeACC23.pdf">A Two-Layer Human-in-the-Loop Optimization Framework for Customizing Lower-Limb Exoskeleton Assistance</a><span>Zheng &amp; Lv · American Control Conference · 2023</span></li>
+      <li><a href="{{ site.baseurl }}/files/MECC_2025.pdf">A PINN-Based Approach to Solving the Matching Condition for Energy Shaping Control in Bipedal Locomotion</a><span>Guan &amp; Lv · Modeling, Estimation, and Control Conference · 2025</span></li>
+    </ul><a class="text-link" href="{{ site.baseurl }}/publication/TaskInvariantCustomization">All papers in this research area →</a></div>
+  </div>
+</section>
+<section class="section research-topic shaded" id="safety">
+  <div class="wrap"><p class="eyebrow">03 · Stability augmentation</p><h2>Human-centered stability augmentation control</h2><p class="topic-lede">The vast majority of lower-limb exoskeleton controllers are developed and validated under steady-state locomotor conditions. We investigate proactive stability augmentation under leaning and slip perturbations while preserving voluntary human motion.</p>
+    <div class="topic-grid text-pair"><div><h3>The challenge</h3><p>Control paradigms validated under nominal walking may not generalize to unstable conditions or external perturbations. In addition, task-specific recovery trajectories can constrain the user’s voluntary responses.</p><h3>How it works</h3><p>The proposed paradigm defines a center of mass-based stability indicator and enforces its dynamics within a user-specific safe range through control barrier functions. Corrective assistance is generated as the system state approaches the safety-set boundary. A nonlinear disturbance observer estimates a lumped input comprising voluntary human joint torque and external perturbations; this estimate is incorporated into the control design.</p></div><div><div class="method-panel"><p class="eyebrow">The research question</p><p class="large-copy">Proactive stability assistance without pre-defined reference kinematics.</p><p>The controller accounts for user-specific stability constraints, voluntary joint torques, and external perturbations within a common control formulation.</p></div><div class="evidence-note"><h3>Published and ongoing work</h3><p>The final Humanoids 2026 manuscript reports preliminary experiments with two non-disabled participants wearing a bilateral hip exoskeleton. Ensemble-averaged muscle efforts decreased by 41% during leaning and 12% during slip perturbations, with lower peak-to-peak whole-body angular momentum and faster recovery. These preliminary results do not establish efficacy outside the tested participants and conditions.</p></div></div></div>
+    <div class="key-papers"><h3>Key papers</h3><ul>
+      <li><a href="{{ site.baseurl }}/files/L-CSS%20-%20YuLinLv.pdf">Safety Augmentation for Volitional Human Locomotion via Lower-Limb Exoskeletons: A Case Study on Balance Control</a><span>Yu, Lin &amp; Lv · IEEE Control Systems Letters · 2024</span></li>
+      <li><a href="{{ site.baseurl }}/files/Humanoids2026_final.pdf">Human-Centered Stability Augmentation Control: Preliminary Validations on a Hip Exoskeleton Under Leaning and Slip Perturbations</a><span>Yu, Bailey, Krishnan &amp; Lv · IEEE-RAS Humanoids · To appear, 2026</span></li>
+      <li><a href="{{ site.baseurl }}/files/TMRB_2026.pdf">Proactive Stability Augmentation for Voluntary Human Motion: Validations on a Hip Exoskeleton in Leaning and Slip Perturbations</a><span>Yu, Bailey, Krishnan &amp; Lv · Manuscript listed as under review · 2026</span></li>
+    </ul><a class="text-link" href="{{ site.baseurl }}/publication/Safety">All papers in this research area →</a></div>
+    {% assign research_video_topic = "safety" %}{% include research-videos.html %}
+  </div>
+</section>
+<section class="section research-topic" id="prosthetics">
+  <div class="wrap"><p class="eyebrow">04 · Prosthetics</p><h2>Length-actuated transfemoral prostheses</h2><p class="topic-lede">We investigate dynamic leg-length actuation as an alternative prosthetic design methodology. The objective is to coordinate stance support and swing-phase clearance through active shortening and lengthening of a transfemoral prosthesis.</p>
+    <div class="topic-grid"><div><h3>The challenge</h3><p>Transfemoral prosthesis users may experience challenges in stance stability, push-off, and swing-phase toe clearance. These requirements motivate prosthetic mechanisms that actively modify leg length during ambulation.</p><h3>How it works</h3><p>The proposed device employs a prismatic mechanism to modify leg length during the gait cycle. Dynamic leg-length modeling informs the desired actuation profile, and experimental evaluation incorporates user preferences and gait biomechanics.</p><div class="evidence-note"><h3>Experimental evaluation</h3><p>Experiments with participants with amputation investigate gait symmetry, stability, and mobility with the length-actuated device. The design and preliminary evaluation are reported in IEEE Access (2024), with a subsequent case study in Prosthetics and Orthotics International (2026).</p></div></div><figure class="topic-figure prosthesis-figure"><div class="prosthesis-images"><img src="{{ site.baseurl }}/images/Amputee.png" alt="A participant wearing the length-actuated transfemoral prosthesis" loading="lazy"><img src="{{ site.baseurl }}/images/MachineDesign.png" alt="Mechanical design of the length-actuated prosthesis" loading="lazy"></div><figcaption>The length-actuated prosthesis and its mechanical design. Participant evaluation connects hardware development to gait biomechanics.</figcaption></figure></div>
+    <div class="key-papers"><h3>Key papers</h3><ul>
+      <li><a href="{{ site.baseurl }}/files/IEEE%20Access%20-%20.pdf">Transfemoral Prosthesis with Ambulatory Length-Actuation: Design and Preliminary Evaluation</a><span>Parr, DesJardins, Hippensteal, Harvey &amp; Lv · IEEE Access · 2024</span></li>
+      <li>Case study evaluation of stability and mobility in a length-actuated transfemoral prosthesis<span>Parr et al. · Prosthetics and Orthotics International · 2026 · DOI: 10.1097/PXR.0000000000000557</span></li>
+    </ul><a class="text-link" href="{{ site.baseurl }}/publication/Prosthesis">All papers in this research area →</a></div>
+    {% assign research_video_topic = "prosthetics" %}{% include research-videos.html %}
+  </div>
+</section>
+<section class="section research-topic shaded" id="continuum">
+  <div class="wrap"><p class="eyebrow">05 · Continuum and soft robotics</p><h2>Compliant robots for physical interaction</h2><p class="topic-lede">We investigate continuum and hybrid rigid–compliant robotic systems for physical interaction with human users and unstructured environments. Structural compliance provides a means of accommodating contact and geometric variation during assistance and manipulation.</p>
+    <div class="topic-grid"><div><h3>Wearable assistance and fall mitigation</h3><p>Continuum robots achieve distributed bending through compliant structures. We investigate their use as auxiliary limbs and wearable appendages for daily assistance, including the preliminary design and evaluation of a continuum robot-based fall-mitigation system.</p><p>Related work explores a continuum-legged biped with a kangaroo-inspired tail for tripedal locomotion, extending compliant mechanisms to new robot architectures.</p><h3>Hybrid rigid–continuum grasping</h3><p>In collaboration with Prof. Ian Walker’s group, we investigate an avian-inspired gripper that integrates actuated rigid structures with compliant continuum digits. The hybrid architecture combines load-bearing capability with adaptability during grasping. Related work develops a teleoperation framework for the compliant gripper.</p></div><div class="topic-gallery"><figure class="topic-figure"><img src="{{ site.baseurl }}/images/ClawFigure.png" alt="The Claw prototype with three compliant forward digits and an opposing digit" loading="lazy"><figcaption>The Claw combines rigid elements with compliant continuum digits for adaptable grasping.</figcaption></figure><figure class="topic-figure"><img src="{{ site.baseurl }}/images/Backward%20Fall.png" alt="A sequence showing a mannequin and wearable continuum robot during a fall-mitigation experiment" loading="lazy"><figcaption>Preliminary evaluation of a continuum-robot wearable system for fall mitigation.</figcaption></figure></div></div>
+    <div class="key-papers"><h3>Key papers</h3><ul>
+      <li><a href="{{ site.baseurl }}/files/ReMAR.pdf">Soft Robotics for Fall Mitigation: Preliminary Design and Evaluation of a Wearable System using Continuum Robots</a><span>Malhotra, Kumar, Frazelle, Walker &amp; Lv · ReMAR · 2024</span></li>
+      <li><a href="https://www.mdpi.com/2218-6581/13/3/52">The Claw: An Avian-Inspired, Large Scale, Hybrid Rigid-Continuum Gripper</a><span>Stokes, Mohrmann, Frazelle, Walker &amp; Lv · Robotics · 2024 · Cover article</span></li>
+      <li><a href="{{ site.baseurl }}/files/CASE2025.pdf">Teleoperation of a Compliant Avian-Inspired Robot Claw with Continuum Digits</a><span>Mohrmann, Schuver, Yu, Walker &amp; Lv · IEEE CASE · 2025</span></li>
+      <li><a href="{{ site.baseurl }}/files/CBS_2026.pdf">Continuum-Legged Biped with a Kangaroo-Inspired Tail for Tripedal Locomotion: Preliminary Design and Validations</a><span>Platt, Walker &amp; Lv · International Conference on Cyborg and Bionic Systems · 2026</span></li>
+    </ul><a class="text-link" href="{{ site.baseurl }}/publication/Continuum%20and%20Soft%20Robots">All papers in this research area →</a></div>
+    {% assign research_video_topic = "continuum" %}{% include research-videos.html %}
+  </div>
+</section>
+<section class="section research-foundations" id="foundations">
+  <div class="wrap section-grid"><div><p class="eyebrow">Control foundations</p><h2>Robust bipedal locomotion</h2></div><div><p class="large-copy">Passivity-based control provides a foundation for reasoning about energy, stability, and interaction in legged systems.</p><p>Our bipedal locomotion work introduces a generalized energy storage function that accounts for energy stored and dissipated by an inner-loop controller. An outer-loop passivity-based controller is designed to enlarge the basin of attraction, improve robustness to ground slope, and accelerate convergence to a stable walking cycle.</p><p><a href="{{ site.baseurl }}/files/GeASME.pdf">Decentralized Passivity-Based Control with a Generalized Energy Storage Function for Robust Biped Locomotion</a><br><span class="paper-meta">Yeatman, Lv &amp; Gregg · ASME Journal of Dynamic Systems, Measurement, and Control · 2019</span></p><a class="text-link" href="{{ site.baseurl }}/publication/Passivity">Explore the foundational work →</a></div></div>
+</section>
+<section class="section research-funding" id="funding"><div class="wrap"><p class="eyebrow">Research support</p><h2>Funding</h2><p>Awarded research support includes National Science Foundation projects and a faculty development award through the NIH-supported SC-TRIMH program.</p>{% include lab-funding.html %}<p class="funding-disclaimer">Any opinions, findings, conclusions, or recommendations expressed in NSF-supported work are those of the authors and do not necessarily reflect the views of the National Science Foundation.</p></div></section>
+<section class="research-outro"><div class="wrap"><div><p class="eyebrow">Explore further</p><h2>Research collaboration and training</h2><p>Our research integrates control theory, robotic hardware development, and experimental evaluation. Related publications and research personnel are available below.</p></div><div class="actions"><a class="button primary" href="{{ site.baseurl }}/Team/">Meet our team →</a><a class="button" href="{{ site.baseurl }}/publications/">All publications</a></div></div></section>

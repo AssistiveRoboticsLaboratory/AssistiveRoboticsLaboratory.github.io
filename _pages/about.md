@@ -1,156 +1,46 @@
 ---
+layout: lab
+title: "Human-centered robotics for assistance and augmentation"
+lab_home: true
 permalink: /
-title: "Welcome!"
-author_profile: true
-redirect_from: 
+excerpt: "The Assistive Robotics Laboratory at Clemson University investigates control, customization, design, and evaluation of human-centered robotic systems for assistance across daily activities."
+redirect_from:
   - /about/
   - /about.html
 ---
-![Editing a markdown file for a talk](/images/Labview.jpg) 
-
-MISSON
-------
-The mission of the Assistive Robotics Laboratory is to develop agile, versatile wearable robots to assist humans across daily activities. The overall research themes can be classified into the following aims:
-
-- Human-in-the-Loop Control and Optimization Frameworks for Task-Invariant Assistance 
-- Development of User-Friendly Wearable Devices 
-- Experimetanl Validation and Biomechanics Study 
-
-<!-- #This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
-
-<!-- 
-WE ARE HIRING:
-------
-The ARL has a PhD opening in the development of modular, highly backdrivable lower-limb exoskeletons. Interested applicants should email to Prof. Ge Lv (glv@clemson.edu) with a CV, transcripts, an one-page cover letter, and any relevant publications. 
-
-*  Required Qualification:  
-   - Self-motivated with passion for research. 
-   - BS and MS degrees in Mechanical Engineering, Electrical Engineering, or related areas.
-   - Proficient programming skills in C/C++, Python, and Matlab.
-   - Proficient in using joint encoders, inertial measurement units, BLDC motors, and their drivers.
-   - Prior experiences in mechatronics design.  
-
-*  Preferred Qualification:  
-   - Knowledge in control systems design and analysis, robot dynamics, and optimization/machine learning.
-   - Experiences with using motion capture systems and electromyography sensors for gait analyses. 
-   - Good communication, presentation, and writing skills.   -->
-
-
-NEWS
-------
-- 05/2026: 
-  * Congrats to Dr. Miao Yu on successfully defending his dissertation.
-
-
-- 10/2025:
-   * Dr. Lv received the Rising Stars of Mechanical Egninering Award from the American Society of Mechanical Engineers (ASME) at the 2025 International Mechanical Engineering Congress & Exposition (IMECE) [link](https://event.asme.org/IMECE-2025/Program/Rising-Stars-of-Mechanical-Engineering)
-
-
-- 05/2025:
-   * Dr. Lv delivered a talk at the ICRA 2025 workshop titled "State of the Art in Lower-Limb Exoskeletons: Exploring Specificity vs. Generalizability Across Users and Activities." [workshop link](https://sites.google.com/umich.edu/icra-2025-exoskeleton-workshop/home/)
-
-
-- 01/2025: 
-   * Our research is featured at Clemson World! [story link](https://clemson.world/one-step-at-a-time/)
-      <figure class="image image-style-side image_resized" style="width:80%; height:60%;"><img src="/images/Clemson Interview.jpg">
-     <figcaption> </figcaption>
-
-- 11/2024: 
-   * Our exoskeleton research is featured at the College of Engineering, Computing, and Applied Sciences: [interview link](https://www.youtube.com/watch?v=f7eOtTFhRDs) and Clemson News: [article link](https://news.clemson.edu/paralympics-helps-shine-a-light-on-exoskeleton-research-at-clemson-university/)
-
-
-- 07/2024: 
-   * Dr. Lv's was awarded the Dean's Professorship at the College of Engineering, Computing and Applied Sciences.
-
-<!-- 
-- 06/2024: 
-   * Our paper (in collobration with Prof. Qin Lin, UH) entitled "Disturbance Rejection-Guarded Learning for Vibration Suppression of Two-Inertia Systems" was accepted to the 2024 International Conference on Automation Science and Engineering (CASE). -->
-
-
-- 05/2024: 
-   * Our paper entitled "Safety Augmentation for Volitional Human Locomotion via Lower-Limb Exoskeletons: A Case Study" was accepted to IEEE Control Systems Letters! 
-
-
-- 04/2024: 
-   * Dr. Lv was awarded the ME Excellence Award (Junior Rank Faculty)!
-
-
-   * Our Creative Inquiry team presented at the 19th Annual Focus on Creative Inquiry Poster Forum!
-      <figure class="image image-style-side image_resized" style="width:60%; height:40%;"><img src="/images/FOCI2024.jpg">
-     <figcaption> </figcaption>
-
-   <!-- * Our paper entitled "Soft Robotics for Fall Mitigation: Preliminary Design and Evaluation of a Wearable System using Continuum Robots" was accepted to 2024 6th International Conference on Reconfigurable Mechanisms and Robots, Chicago, IL.  -->
-
-- 03/2024: 
-   * Our lab receives the [CAREER Award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2340261&HistoricalAwards=false) from the National Science Foundation! Many thanks to NSF for supporting our research. 
-
-   * Our paper enetitiled "[The Claw: An Avian-Inspired, Large Scale, Hybrid Rigid-Continuum Gripper](https://www.mdpi.com/2218-6581/13/3/52)" was accepted into the speicial issue "Intelligent Bionic Robots" of Robotics (MDPI) as **cover article**! This is a collobration work with [Prof. Ian Walker](https://iwalker.people.clemson.edu) at the Department of Electrical and Computer Engineering, Clemson University. 
-
-- 07/2023: Our paper entitled "[A Two-Layer Human-in-the-Loop Optimization Framework for Customizing Lower-Limb Exoskeleton Assistance](https://ieeexplore.ieee.org/document/10155858)" was published at the invited session "Recent Advancement of Human Autonomy Interaction & Integration" of the 2023 American Control Conference, San Diego, CA. 
-
-- 04/2023: 
-  * Tapp Rhoads received the Carl Donner Nelson, Jr. Meomrial Award. Congrats Tapp.
-      <figure class="image image-style-side image_resized" style="width:60%; height:40%;"><img src="/images/TappAward.jpg">
-     <figcaption> </figcaption>
-
-
-  * Dr. Lv was recognized as Faculty Scholar at the School of Health Research, Clemson University. 
-- 05/2023: Congratulations to Dr. Therese Parr for successfully defending her dissertation. 
-- 12/2022: Our paper entitled "[Task-Invariant Centroidal Momentum Shaping for Lower-Limb Exoskeletons](https://ieeexplore.ieee.org/abstract/document/9993080)" was published at the 61st Conference on Decision and Control. 
-- 04/2021: Dr. Lv receives the South Carolina Translational Research Improving Musculoskeletal Health (SC TRIMH) targeted junior faculty award.
-- 01/2020: Dr. Lv joined the Mechanical Engineering department at Clemson University as an Assistant Professor.
-
-
-
-<!-- 
-*  Application Process:  
-   - After submitting the official application to the PhD program of Mechanical Engineeirng, please notify Prof. Lv your application ID and fill out this [survey](https://forms.gle/YtPErmCJAitATLG98).  -->
-
-
-
-
-<!-- - 11/2018: Our recent publication: [On the Design and Control of Highly Backdrivable Lower-Limb Exoskeletons](https://ieeexplore.ieee.org/abstract/document/8536572) is the cover article of the latest issue of IEEE Control Systems Magazine! Special thanks to my PhD mentor and co-author Robert D. Gregg.  
-- 10/2018: Dr. Lv joined the Robotics Institute at Carnegie Mellon University as a Postdoctoral Fellow at the Robotics Institute. 
-- 04/2018: Dr. Lv successfully defended his PhD dissertation. 
-- 08/2017: Dr. Lv received the Louis Beecherl, Jr. Graduate Fellowship from UT Dallas.
-- 12/2015: Dr. Lv received the Best Student Paper Award of the 54th IEEE Conference on Decision and Control! -->
-
-<!-- Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge. -->
-
-<!-- Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html). -->
-
-<!-- Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section -->
-
-<!-- Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header.  -->
-
-<!-- Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory). -->
-
-<!-- **Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png) -->
-
-Last Updated:
-------
-<!-- More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
-May 15, 2026
-
-<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=1n1TOxLTGeUnZbECz2JJ4_kBrKkwqfImijZuFfSdIdQ&cl=ffffff&w=320"></script>
+<section class="hero">
+  <div class="hero-copy">
+    <p class="eyebrow">Clemson University · Assistive Robotics Laboratory</p>
+    <h1>Human-centered robotics<br>for assistance and augmentation.</h1>
+    <p class="lede">We investigate control, customization, design, and evaluation methodologies for robotic systems that assist humans across daily activities.</p>
+    <div class="actions"><a class="button primary" href="{{ site.baseurl }}/Research/">Explore our research <span aria-hidden="true">↗</span></a><a class="button" href="{{ site.baseurl }}/publications/">Publications</a></div>
+  </div>
+  <figure class="hero-image"><img src="{{ site.baseurl }}/images/Labview.jpg" alt="A panoramic view of the Assistive Robotics Laboratory at Clemson University"><figcaption>Assistive Robotics Laboratory · Clemson University</figcaption></figure>
+</section>
+<section class="section mission">
+  <div class="wrap section-grid"><p class="eyebrow">Our mission</p><div><h2>Robotic assistance<br>across daily activities.</h2><p class="large-copy">The mission of the Assistive Robotics Laboratory is to develop agile, versatile robotic systems to assist humans across daily activities.</p><p>Our research focuses on task-agnostic control and customization, wearable device development and prototyping, and biomechanics studies. These directions integrate mathematical analysis, simulation, robotic hardware development, and experimental evaluation.</p><a class="text-link" href="{{ site.baseurl }}/Team/">Research team <span aria-hidden="true">→</span></a></div></div>
+</section>
+<section class="section research" id="research">
+  <div class="wrap"><p class="eyebrow">Three research directions</p><h2>Research directions</h2>
+    <div class="research-grid">
+      <article><span class="index">01 / Control and Customization</span><h3>Task-Agnostic Control and Customization</h3><p>Development of task-agnostic control paradigms and human-in-the-loop customization frameworks for robotic assistance across users and daily activities.</p><a class="text-link" href="{{ site.baseurl }}/Research/#personalization">Explore control and customization →</a></article>
+      <article><span class="index">02 / Design</span><h3>Wearable Device Development and Prototyping</h3><p>Design, development, and prototyping of user-friendly wearable robotic devices for assistance of human motion.</p><a class="text-link" href="{{ site.baseurl }}/Research/#prosthetics">Explore device development →</a></article>
+      <article><span class="index">03 / Evaluations</span><h3>Biomechanics Study</h3><p>Experimental validation and biomechanical studies to characterize human movement, physical human–robot interaction, and the effects of robotic assistance.</p><a class="text-link" href="{{ site.baseurl }}/Research/#evaluations">Explore biomechanical evaluation →</a></article>
+    </div>
+  </div>
+</section>
+<section class="section feature">
+  <div class="wrap feature-grid"><img src="{{ site.baseurl }}/images/Clemson%20Interview.jpg" alt="Clemson World feature on the laboratory’s wearable robotics research" loading="lazy"><div><p class="eyebrow">In the spotlight · Clemson World</p><h2>One step at a time.</h2><p>Clemson World features our research on wearable robotic systems for assistance of human locomotion.</p><a class="text-link" href="https://clemson.world/one-step-at-a-time/">Read the story →</a></div></div>
+</section>
+<section class="section" id="news">
+  <div class="wrap section-grid"><div><p class="eyebrow">From the laboratory</p><h2>Recent news</h2></div><div>
+    {% assign news_items = site.data.lab_news | slice: 0, 8 %}{% include lab-news.html %}
+    <details class="news-archive"><summary>More laboratory news · 2020–2024</summary><div class="archive-content">{% assign news_items = site.data.lab_news | slice: 8, 1000 %}{% include lab-news.html %}</div></details>
+  </div></div>
+</section>
+<section class="section home-outreach">
+  <div class="wrap section-grid"><div><p class="eyebrow">Education and outreach</p><h2>Research training and engineering education</h2></div><div><p class="large-copy">Our educational activities include faculty instruction, student design advising, and undergraduate research mentorship.</p><p>Dr. Lv has participated in Clemson’s Emerging Scholars and EUREKA! programs and serves as faculty advisor to the Clemson Baja Team. Undergraduate researchers also contribute to the laboratory through Creative Inquiry.</p><a class="text-link" href="{{ site.baseurl }}/outreach/">Outreach and educational activities →</a></div></div>
+</section>
+<section class="section investigator">
+  <div class="wrap pi-grid"><img src="{{ site.baseurl }}/images/Ge.jpg" alt="Ge Lv, principal investigator" loading="lazy"><div><p class="eyebrow">Principal investigator</p><h2>Ge Lv <span class="pi-name">(吕阁), PhD</span></h2><p class="large-copy">Director, Assistive Robotics Laboratory</p><p>Assistant Professor, Departments of Mechanical Engineering and Bioengineering<br>Faculty Scholar, School of Health Research<br>Clemson University</p><div class="actions"><a class="button primary" href="{{ site.baseurl }}/Team/">Meet our team →</a><a class="text-link" href="mailto:glv@clemson.edu">Contact Dr. Lv</a></div></div></div>
+</section>

@@ -2,7 +2,7 @@
 title: "Continuum Components Based Robotic Systems"
 collection: publications
 permalink: /publication/Continuum and Soft Robots 
-excerpt: 'Publications on Continuum and Soft Robots.'
+excerpt: 'Continuum and hybrid rigid–compliant robotic systems for physical assistance, fall mitigation, and manipulation.'
 # date: 2024-02-18
 # venue: 'Journal 1'
 #  paperurl: 'http://academicpages.github.io/files/paper1.pdf'
@@ -43,10 +43,10 @@ In this project, we propose a novel and rigorous human-centered framework for a 
 
 Conference Proceedings
 ---
-* P. Malhotra, N. Kumar, C. Frazelle, I. Walker, and G. Lv,  “Soft Robotics for Fall Mitigation: Preliminary Design and Evaluation of a Wearable System using Continuum Robots”, 2024 6th International Conference on Reconfigurable Mechanisms and Robots (ReMAR). [PDF](http://assistiveroboticslaboratory.github.io/files/REMAR.pdf)
+* P. Malhotra, N. Kumar, C. Frazelle, I. Walker, and G. Lv,  “Soft Robotics for Fall Mitigation: Preliminary Design and Evaluation of a Wearable System using Continuum Robots”, 2024 6th International Conference on Reconfigurable Mechanisms and Robots (ReMAR). [PDF]({{ site.baseurl }}/files/ReMAR.pdf)
 
 
-* G. Platt, I. Walker, and G. Lv,  “Continuum-Legged Biped with a Kangaroo-Inspired Tail for Tripedal Locomotion: Preliminary Design and Validations”, 2026 International Conference on Cyborg and Bionic Systems (CBS). [PDF](http://assistiveroboticslaboratory.github.io/files/CBS_2026.pdf)
+* G. Platt, I. Walker, and G. Lv,  “Continuum-Legged Biped with a Kangaroo-Inspired Tail for Tripedal Locomotion: Preliminary Design and Validations”, 2026 International Conference on Cyborg and Bionic Systems (CBS). [PDF]({{ site.baseurl }}/files/CBS_2026.pdf)
 
 ---
 <div style="text-align: justify"> 
@@ -70,7 +70,7 @@ Continuum robots, often inspired by cephalopods, leverage their compliant nature
 </figure> -->
 
 <figure>
-    <img align="center" width="20%" height="20%" src="/images/claw_hand.png">
+    <img align="center" width="20%" height="20%" src="/images/claw_hand.jpeg">
     <img align="center" width="20%" height="20%" src="/images/ClawFigure.png">
     <figcaption>  The Claw, a hybrid rigid-continuum gripper, features three forward-facing digits (a) and one backward facing digit (b). The digits have rigid proximal structures, with their distal tips compliant pneumatically actuated continuum elements. The backward facing digit (b) has its  proximal rigid element directly actuated by a motor. The digits (a) are coupled in abduction/adduction (perpendicular to plane of image) by additional compliant continuum elements.</figcaption>
 </figure>
@@ -84,7 +84,7 @@ Continuum robots, often inspired by cephalopods, leverage their compliant nature
 
 Conference Articles 
 ---
- * J. Mohrmann, J. Schuver, M. Yu, I. Walker, and G. Lv, "Teleoperation of a Compliant Avian-Inspired Robot Claw with Continuum Digits", IEEE International Conference on Automation Science and Engineering, Los Angeles, CA, 2025. [PDF](http://assistiveroboticslaboratory.github.io/files/CASE2025.pdf)
+ * J. Mohrmann, J. Schuver, M. Yu, I. Walker, and G. Lv, "Teleoperation of a Compliant Avian-Inspired Robot Claw with Continuum Digits", IEEE International Conference on Automation Science and Engineering, Los Angeles, CA, 2025. [PDF]({{ site.baseurl }}/files/CASE2025.pdf)
 
 Journal Articles 
 ---

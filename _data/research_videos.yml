@@ -1,0 +1,36 @@
+- topic: exoskeletons
+  youtube_id: YrzPSW6lUrU
+  title: "Task-Agnostic Assistance via Centroidal Momentum Shaping"
+  context: "IEEE Robotics and Automation Letters · 2026"
+  description: "Preliminary validation of centroidal momentum shaping on a hip exoskeleton."
+
+- topic: exoskeletons
+  youtube_id: xFP96waRsWM
+  title: "Centroidal momentum shaping on a bilateral hip exoskeleton"
+  context: "IEEE ICRA · 2025"
+  description: "Conference video presenting preliminary validation of task-agnostic assistance on a bilateral hip exoskeleton."
+
+- topic: safety
+  youtube_id: EYHOL8s6rPg
+  paper: "/files/Humanoids2026_final.pdf"
+  title: "Human-centered stability augmentation under leaning and slip perturbations"
+  context: "IEEE-RAS Humanoids · 2026"
+  description: "Preliminary experimental validation of a control barrier function-based stability augmentation paradigm on a bilateral hip exoskeleton."
+
+- topic: safety
+  youtube_id: rZyEZS74eD0
+  title: "Safety augmentation for volitional human locomotion"
+  context: "IEEE Control Systems Letters · Simulation"
+  description: "Simulation accompanying the balance-control case study by Miao Yu, Qin Lin, and Ge Lv."
+
+- topic: prosthetics
+  youtube_id: MLYyYeRjplA
+  title: "Transfemoral prosthesis with ambulatory length-actuation"
+  context: "IEEE Access · Design and preliminary evaluation"
+  description: "Research video accompanying the length-actuated prosthesis study by Parr, DesJardins, Hippensteal, Harvey, and Lv."
+
+- topic: continuum
+  youtube_id: 7zQJcauD0Qo
+  title: "Teleoperation of a compliant avian-inspired robot gripper"
+  context: "IEEE CASE · 2025"
+  description: "Demonstration of teleoperation of a compliant gripper with continuum digits."

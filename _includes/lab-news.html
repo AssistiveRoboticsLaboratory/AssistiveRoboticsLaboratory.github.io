@@ -1,0 +1,8 @@
+<ol class="news-list">
+  {% for item in news_items %}
+  <li>
+    <time datetime="{{ item.date }}">{{ item.label }}</time>
+    <div class="news-entry"><p>{{ item.text }}</p>{% if item.image %}<figure class="news-image"><img src="{{ site.baseurl }}{{ item.image }}" alt="{{ item.image_alt | escape }}" loading="lazy"></figure>{% endif %}</div>
+  </li>
+  {% endfor %}
+</ol>

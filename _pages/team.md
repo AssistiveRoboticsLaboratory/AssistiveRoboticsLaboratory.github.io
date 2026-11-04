@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: lab
 title: "Team"
 permalink: /Team/
 author_profile: true
@@ -8,7 +8,7 @@ author_profile: true
 Principal Investigator 
 ---
 <!-- ![picture of PI](/images/Genew.jpg align = "right")  -->
-<img align="right" width="100" height="100" src="/images/Ge.jpg">
+<img align="right" width="100" height="100" src="{{ site.baseurl }}/images/Ge.jpg" alt="Ge Lv, principal investigator">
 
 *  **Ge Lv (吕阁), PhD**
     
@@ -22,7 +22,7 @@ Principal Investigator
 
      Email: glv AT clemson DOT edu
 
-     [Google Scholar](https://scholar.google.com/citations?user%253DnDnV2LkAAAAJ%2526hl%253Den)
+     [Google Scholar](https://scholar.google.com/citations?user=nDnV2LkAAAAJ&hl=en)
 
 
 PhD students 
@@ -40,7 +40,7 @@ PhD students
    
    * MS, University of Michigan, 2025
 
-* Xiaohang (Shawn) Ding, Mechanical Engineering, Fall 2026 - present
+* Xiaohang (Shawn) Ding, Mechanical Engineering, Spring 2027 - present
 
    * BS, Sichuan University, 2024 
    
@@ -52,15 +52,12 @@ MS students (thesis-track)
 
 * Nicholas Hale, Mechanical Engineering 
 
-* Nikhila Krishnan, Mechanical Engineering 
-
 
 Undergraduate students 
 ---
 
 * Creative Inquiry 
   * Johnathan Harrison, Mechanical Engineering
-  * Michael Anderson, Mechanical Engineering 
   * Jules Slevensky, Mechanical Engineering 
   * Vaibhav Ravibiruthoji, Mechanical Engineering
   * Colby Santarelli, Mechancial Engineering 
@@ -75,16 +72,18 @@ Alumni
 
 Graduate Students:
 
-* Miao Yu (advisor), PhD, Mechancial Engineering, 2026
+* Nikhila Krishnan (thesis-track), MS, Mechanical Engineering, 2026
+
+* Miao Yu (advisor), PhD, Mechanical Engineering, 2026
+  * Current Position: Assistant Research Fellow, National Institute of Clean-and-Low-Carbon Energy (NICE), China.
 
 * Nithesh Kumar, PhD, Elecrical & Computer Engineering, 2025
   * Current Position: Postdoctoral Fellow, Department of Mechanical Engineering, Vanderbilt University  
 
-* Hamdan Khan Sarvathullah (thesis-track), MS, Mechanical Engineering, 2026  
+* Hamdan Khan Sarvathullah (thesis-track), MS, Mechanical Engineering, 2026
+  * Current Position: Green2Gold
 
 * Gavin Platt (thesis-track), MS, Mechanical Engineering, 2025
-
-* Cassandra Hoffman, MS, Bioengineering, 2025
 
 * Therese Parr, PhD, Bioengineering, 2023
   * Current Position: Research Biomedical Engineer & Fellow, Air Force Research Laboratory 

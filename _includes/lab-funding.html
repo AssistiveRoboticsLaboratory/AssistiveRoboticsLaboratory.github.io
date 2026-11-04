@@ -1,0 +1,17 @@
+<div class="funding-list">
+  {% for award in site.data.funding %}
+  <article class="funding-award">
+    <p class="eyebrow">{{ award.agency }}</p>
+    <h3>{{ award.title }}</h3>
+    <p class="funding-program">{{ award.program }}</p>
+    <dl>
+      <div><dt>Role</dt><dd>{{ award.role }}</dd></div>
+      <div><dt>Period</dt><dd>{{ award.period }}</dd></div>
+      <div><dt>Awarded amount</dt><dd>{{ award.amount }}</dd></div>
+      {% if award.award_number %}<div><dt>Award number</dt><dd>{{ award.award_number }}</dd></div>{% endif %}
+    </dl>
+    <p>{{ award.description }}</p>
+    {% if award.url %}<a class="text-link" href="{{ award.url }}">{{ award.link_label }} →</a>{% endif %}
+  </article>
+  {% endfor %}
+</div>
