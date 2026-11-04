@@ -76,8 +76,8 @@ Graduate Students:
 
 * Nikhila Krishnan (thesis-track), MS, Mechanical Engineering, 2026
 
-* Miao Yu (advisor), PhD, Mechanical Engineering, 2026
-  * Current Position: Assistant Research Fellow, National Institute of Clean-and-Low-Carbon Energy (NICE), China.
+* Miao Yu (advisor), PhD, Mechanical Engineering, 2021 - 2026
+  * Current Position: Research Fellow, National Institute of Clean-and-Low-Carbon Energy (NICE), China.
 
 * Nithesh Kumar, PhD, Elecrical & Computer Engineering, 2025
   * Current Position: Postdoctoral Fellow, Department of Mechanical Engineering, Vanderbilt University  
@@ -87,7 +87,7 @@ Graduate Students:
 
 * Gavin Platt (thesis-track), MS, Mechanical Engineering, 2025
 
-* Therese Parr, PhD, Bioengineering, 2023
+* Therese Parr (Co-Advisor), PhD, Bioengineering, 2019 - 2023
   * Current Position: Research Biomedical Engineer & Fellow, Air Force Research Laboratory 
 
 * Timothy Driscoll (thesis-track), MS, Computer Engineering, 2023

@@ -45,6 +45,10 @@ Conference Proceedings
 
 * N. Hale, M. Yu, R. Gurchiek, and G. Lv, "Whole-Body Angular Momentum Estimation Using Reduced-Ordered Models”, 48th Annual International Conference of the IEEE Engineering in Medicine and Biology Society, Toronto, Canada, 2026. [PDF]({{ site.baseurl }}/files/EMBC_2026.pdf)
 
+* T. Driscoll, I. Walker, and G. Lv, “Augmented Human Inspired Phase Variable Using a Canonical Dynamical System”, IEEE International Conference on Robotics & Biomimetics, Bangkok, Thailand, 2024.
+
+* H. Lew, N. Hale, G. Lv, and D. Quintero, “Preliminary Validation of an Energetic Control Approach on a Novel Cable-Driven Upper-Limb Exoskeleton”, IEEE International Conference on Systems, Man, & Cybernetics, Bellevue, WA, 2026.
+
 <!-- * M. Yu, N. Krishnan, T. Holliday, J. Dean, and G. Lv, "Centroidal Momentum Shaping for Task-Invariant Assistance: Preliminary Validation on a Bilateral Hip Exoskeleton", IEEE/RSJ International Conference on Intelligent Robots and Systems, Hangzhou, China, 2025, under review. [PDF]({{ site.baseurl }}/files/IROS2025.pdf) -->
 
 <!-- This paper is about the number 1. The number 2 is left for future work. -->

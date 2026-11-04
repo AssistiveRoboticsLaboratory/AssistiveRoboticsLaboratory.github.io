@@ -10,6 +10,10 @@ excerpt: 'Human-in-the-loop optimization and task-agnostic control customization
 ---
 Kinematic control approaches for exoskeletons follow specified trajectories, which overly constrain individuals who have partial or full volitional control of their lower-limbs. In our prior work, we proposed a general matching framework for underactuated energy shaping to provide task-agnostic, energetic assistance. While our prior shaping strategies have demonstrated gait benefits such as reduced human joint torques, it remains unclear how the parameters of these shaping strategies will affect the overall torque reduction. Meanwhile, research shows that rapid, customized assistance can substantially improve exoskeleton’s performance for each individual. Motivated by this fact, we combine derivative-free, sample efficient optimization algorithms with our energy shaping strategies to propose a task-agnostic learning framework for lower-limb exoskeletons. Through online optimization, exoskeletons can learn to adjust energy shaping parameters to minimize human joint torques across users and tasks. Simulation results show that the proposed framework finds the optimal parameters for given strategies that yield human torque and metabolic cost reduction. In addition, the optimal exoskeleton torques calculated using able-bodied subjects’ kinematic data closely match the real human joint torques.
 
+Journal Articles
+---
+* Q. Zhang, X. Bao, Z. Guo, G. Lv, and M. Kim, “Assistance personalization/customization for human locomotion tasks by using wearable lower-limb robotic devices”, Frontiers in Robotics & AI, vol. 11, 2024.
+
 Conference Proceedings
 ---
 * A. Guan and G. Lv, "A PINN-Based Approach to Solving the Matching Condition for Energy Shaping Control in Bipedal Locomotion", The 2025 Modeling, Estimation, and Control Conference, Pittsburgh, PA, 2025. [PDF]({{ site.baseurl }}/files/MECC_2025.pdf)
@@ -17,3 +21,5 @@ Conference Proceedings
 * G. Lv, H. Xing, J. Lin, R. Gregg and C. Atkeson, “A Task-Invariant Learning Framework of Lower-Limb Exoskeletons for Assisting Human Locomotion”,  American Control Conference, Denver, 2020. [PDF]({{ site.baseurl }}/files/GeACC20.pdf)
 
 * G. Lv et al., “A Two-Layer Human-in-the-Loop Optimization Framework for Customizing Lower-Limb Exoskeleton Assistance”, invited session on "Recent Advancement of Human Autonomy Interaction & Integration", American Control Conference, San Diego, 2023. [PDF]({{ site.baseurl }}/files/GeACC23.pdf)
+
+* A. Guan, J. Wu, and G. Lv, “Task-Agnostic Human-in-the-Loop Optimization of Fourier-Parameterized Control for Lower-Limb Exoskeletons”, IEEE International Conference on Robotics & Automation, Seoul, South Korea, under review, 2026.
