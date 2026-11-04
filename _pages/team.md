@@ -83,7 +83,7 @@ Graduate Students:
   * Current Position: Postdoctoral Fellow, Department of Mechanical Engineering, Vanderbilt University  
 
 * Hamdan Khan Sarvathullah (thesis-track), MS, Mechanical Engineering, 2026
-  * Current Position: Green2Gold
+  * Current Position: Mechanical and Control Engineer, Green2Gold
 
 * Gavin Platt (thesis-track), MS, Mechanical Engineering, 2025
 
