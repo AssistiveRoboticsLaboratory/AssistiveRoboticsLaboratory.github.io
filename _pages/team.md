@@ -1,7 +1,9 @@
 ---
 layout: lab
 title: "Team"
-permalink: /Team/
+permalink: /team/
+redirect_from:
+  - /Team/
 author_profile: true
 ---
 

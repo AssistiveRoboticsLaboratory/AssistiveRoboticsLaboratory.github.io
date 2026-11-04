@@ -11,14 +11,14 @@ redirect_from:
 <section class="hero">
   <div class="hero-copy">
     <p class="eyebrow">Clemson University · Assistive Robotics Laboratory</p>
-    <h1>Human-centered robotics<br>for assistance and augmentation.</h1>
+    <h1>Human-centered robotics for assistance and augmentation.</h1>
     <p class="lede">We investigate control, customization, design, and evaluation methodologies for robotic systems that assist humans across daily activities.</p>
     <div class="actions"><a class="button primary" href="{{ site.baseurl }}/Research/">Explore our research <span aria-hidden="true">↗</span></a><a class="button" href="{{ site.baseurl }}/publications/">Publications</a></div>
   </div>
   <figure class="hero-image"><img src="{{ site.baseurl }}/images/Labview.jpg" alt="A panoramic view of the Assistive Robotics Laboratory at Clemson University"><figcaption>Assistive Robotics Laboratory · Clemson University</figcaption></figure>
 </section>
 <section class="section mission">
-  <div class="wrap section-grid"><p class="eyebrow">Our mission</p><div><h2>Robotic assistance<br>across daily activities.</h2><p class="large-copy">The mission of the Assistive Robotics Laboratory is to develop agile, versatile robotic systems to assist humans across daily activities.</p><p>Our research focuses on task-agnostic control and customization, wearable device development and prototyping, and biomechanics studies. These directions integrate mathematical analysis, simulation, robotic hardware development, and experimental evaluation.</p><a class="text-link" href="{{ site.baseurl }}/Team/">Research team <span aria-hidden="true">→</span></a></div></div>
+  <div class="wrap section-grid"><p class="eyebrow">Our mission</p><div><h2>Robotic assistance<br>across daily activities.</h2><p class="large-copy">The mission of the Assistive Robotics Laboratory is to develop agile, versatile robotic systems to assist humans across daily activities.</p><p>Our research focuses on task-agnostic control and customization, wearable device development and prototyping, and biomechanics studies. These directions integrate mathematical analysis, simulation, robotic hardware development, and experimental evaluation.</p><a class="text-link" href="{{ site.baseurl }}/team/">Research team <span aria-hidden="true">→</span></a></div></div>
 </section>
 <section class="section research" id="research">
   <div class="wrap"><p class="eyebrow">Three research directions</p><h2>Research directions</h2>
@@ -42,5 +42,5 @@ redirect_from:
   <div class="wrap section-grid"><div><p class="eyebrow">Education and outreach</p><h2>Research training and engineering education</h2></div><div><p class="large-copy">Our educational activities include faculty instruction, student design advising, and undergraduate research mentorship.</p><p>Dr. Lv has participated in Clemson’s Emerging Scholars and EUREKA! programs and serves as faculty advisor to the Clemson Baja Team. Undergraduate researchers also contribute to the laboratory through Creative Inquiry.</p><a class="text-link" href="{{ site.baseurl }}/outreach/">Outreach and educational activities →</a></div></div>
 </section>
 <section class="section investigator">
-  <div class="wrap pi-grid"><img src="{{ site.baseurl }}/images/Ge.jpg" alt="Ge Lv, principal investigator" loading="lazy"><div><p class="eyebrow">Principal investigator</p><h2>Ge Lv <span class="pi-name">(吕阁), PhD</span></h2><p class="large-copy">Director, Assistive Robotics Laboratory</p><p>Assistant Professor, Departments of Mechanical Engineering and Bioengineering<br>Faculty Scholar, School of Health Research<br>Clemson University</p><div class="actions"><a class="button primary" href="{{ site.baseurl }}/Team/">Meet our team →</a><a class="text-link" href="mailto:glv@clemson.edu">Contact Dr. Lv</a></div></div></div>
+  <div class="wrap pi-grid"><img src="{{ site.baseurl }}/images/Ge.jpg" alt="Ge Lv, principal investigator" loading="lazy"><div><p class="eyebrow">Principal investigator</p><h2>Ge Lv <span class="pi-name">(吕阁), PhD</span></h2><p class="large-copy">Director, Assistive Robotics Laboratory</p><p>Assistant Professor, Departments of Mechanical Engineering and Bioengineering<br>Faculty Scholar, School of Health Research<br>Clemson University</p><div class="actions"><a class="button primary" href="{{ site.baseurl }}/team/">Meet our team →</a><a class="text-link" href="mailto:glv@clemson.edu">Contact Dr. Lv</a></div></div></div>
 </section>
