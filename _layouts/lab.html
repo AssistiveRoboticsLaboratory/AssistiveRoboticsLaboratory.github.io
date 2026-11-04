@@ -6,7 +6,8 @@
   <title>{{ page.title }} | {{ site.title }}</title>
   <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | escape }}">
   <link rel="icon" href="{{ site.baseurl }}/images/favicon.ico">
-  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/lab.css">
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/lab.css?v={{ site.time | date: '%Y%m%d%H%M%S' }}">
+  {% include lab-typography.html %}
 </head>
 <body>
   <a class="skip-link" href="#main">Skip to content</a>
