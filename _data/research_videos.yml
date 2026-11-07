@@ -36,7 +36,7 @@
   description: "Demonstration of teleoperation of a compliant gripper with continuum digits."
 
 - topic: continuum
-  video_url: "https://www.mdpi.com/article/10.3390/robotics13030052/s1"
+  video_file: "/videos/robotics-2892257-supplementary.mp4"
   poster: "/images/ClawFigure.png"
   title: "The Claw: An Avian-Inspired, Large Scale, Hybrid Rigid-Continuum Gripper"
   context: "Robotics · 2024 · Supplementary Video S1"

@@ -7,10 +7,10 @@
     <figure class="research-video">
       {% if video.youtube_id %}
       <div class="video-player"><iframe src="https://www.youtube-nocookie.com/embed/{{ video.youtube_id }}" title="{{ video.title | escape }}" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
-      {% else %}
-      <a class="video-player video-external" href="{{ video.video_url }}" aria-label="Watch {{ video.title | escape }} — supplementary video on MDPI"><img src="{{ site.baseurl }}{{ video.poster }}" alt="The Claw hybrid rigid-continuum gripper" loading="lazy"><span>Watch supplementary video on MDPI ↗</span></a>
+      {% elsif video.video_file %}
+      <div class="video-player"><video controls playsinline preload="none" poster="{{ site.baseurl }}{{ video.poster }}" aria-label="{{ video.title | escape }}"><source src="{{ site.baseurl }}{{ video.video_file }}" type="video/mp4">Your browser does not support embedded video. <a href="{{ site.baseurl }}{{ video.video_file }}">Watch the supplementary video</a>.</video></div>
       {% endif %}
-      <figcaption><p class="video-context">{{ video.context }}</p><h5>{{ video.title }}</h5><p>{{ video.description }}</p>{% if video.youtube_id %}<a class="text-link" href="https://www.youtube.com/watch?v={{ video.youtube_id }}">Watch on YouTube ↗</a>{% else %}<a class="text-link" href="{{ video.video_url }}">Supplementary Video S1 on MDPI ↗</a>{% endif %}{% if video.paper %}<a class="text-link video-paper-link" href="{{ site.baseurl }}{{ video.paper }}">Conference paper (PDF) →</a>{% endif %}</figcaption>
+      <figcaption><p class="video-context">{{ video.context }}</p><h5>{{ video.title }}</h5><p>{{ video.description }}</p>{% if video.youtube_id %}<a class="text-link" href="https://www.youtube.com/watch?v={{ video.youtube_id }}">Watch on YouTube ↗</a>{% endif %}{% if video.paper %}<a class="text-link video-paper-link" href="{{ site.baseurl }}{{ video.paper }}">Conference paper (PDF) →</a>{% endif %}</figcaption>
     </figure>
     {% endfor %}
   </div>
