@@ -213,3 +213,25 @@
 @media(max-width:900px){.research-opening h1,.program-heading h2,.research-topic .project-title,#overview h2,.research-foundations h2,.research-outro h2{white-space:normal}}
 .research-outro>.wrap{display:block}
 .research-outro .actions{margin-top:24px}
+
+/* Consistent portraits for all team members, including logo placeholders. */
+.page-content .team-portrait{float:left;width:120px;height:120px;max-width:none;object-fit:cover;object-position:center;border-radius:6px;margin:0 24px 0 0;background:#fff;border:1px solid var(--rule)}
+.page-content .team-portrait--logo{object-fit:contain;padding:12px}
+.page-content li:has(> .team-portrait),.page-content li:has(> p > .team-portrait){display:flow-root;min-height:120px;list-style:none;margin-block:24px}
+@media(max-width:700px){.page-content .team-portrait{width:96px;height:96px;margin-right:18px}.page-content li:has(> .team-portrait),.page-content li:has(> p > .team-portrait){min-height:96px}}
+
+/* Four PhD students share a row, with space to wrap on small screens. */
+.phd-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:24px;margin-block:24px}
+.phd-member{min-width:0}
+.page-content .phd-member .team-portrait{float:none;margin:0 0 16px}
+.phd-member p{font-size:16px;line-height:1.6;margin:0}
+@media(max-width:700px){.phd-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:24px 18px}}
+
+/* Each undergraduate category has its own portrait row. */
+.undergrad-grid{display:grid;grid-template-columns:repeat(var(--member-count),minmax(0,1fr));gap:24px;margin:24px 0 40px;max-width:calc(var(--member-count) * 240px)}
+.undergrad-member{min-width:0}
+.page-content .undergrad-member .team-portrait{float:none;margin:0 0 16px}
+.undergrad-member p{font-size:16px;line-height:1.6;margin:0;overflow-wrap:anywhere}
+@media(max-width:700px){.undergrad-grid{grid-template-columns:repeat(var(--member-count),minmax(140px,1fr));overflow-x:auto;padding-bottom:12px;gap:18px}}
+
+.page-content h3.alumni-subheading{color:var(--purple);font-size:22px;margin-top:28px;margin-bottom:18px}

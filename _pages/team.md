@@ -9,10 +9,8 @@ author_profile: true
 
 Principal Investigator 
 ---
-<!-- ![picture of PI](/images/Genew.jpg align = "right")  -->
-<img align="right" width="100" height="100" src="{{ site.baseurl }}/images/Ge.jpg" alt="Ge Lv, principal investigator">
 
-*  **Ge Lv (吕阁), PhD**
+* <img class="team-portrait" src="{{ site.baseurl }}/images/team/ge-lv.jpg" alt="Ge Lv (吕阁)" width="120" height="120" loading="lazy">  **Ge Lv (吕阁), PhD**
     
      Director, Assistive Robotics Laboratory 
 
@@ -27,78 +25,121 @@ Principal Investigator
      [Google Scholar](https://scholar.google.com/citations?user=nDnV2LkAAAAJ&hl=en)
 
 
-PhD students 
+PhD students
 ---
 
-* Tingrui (Angelos) Guan, Mechanical Engineering, Fall 2024 - present
-
-   * BS, University of Illinois Urbana-Champaign, 2021
-   
-   * MS, University of Southern California, 2023
-
-* Jiawen Wu, Mechanical Engineering, Fall 2026 - present
-
-   * BS, University of Nottingham (Ningbo), 2023 
-   
-   * MS, University of Michigan, 2025
-
-* Xiaohang (Shawn) Ding, Mechanical Engineering, Spring 2027 - present
-
-   * BS, Sichuan University, 2024 
-   
-   * MS, Columbia University, 2026
-
+<div class="phd-grid">
+  <div class="phd-member">
+    <img class="team-portrait" src="{{ site.baseurl }}/images/team/angelos-guan.jpg" alt="Tingrui (Angelos) Guan" width="120" height="120" loading="lazy">
+    <p><strong>Tingrui (Angelos) Guan</strong><br>ME<br>Fall 2024 – present</p>
+  </div>
+  <div class="phd-member">
+    <img class="team-portrait" src="{{ site.baseurl }}/images/team/jiawen-wu.jpg" alt="Jiawen Wu" width="120" height="120" loading="lazy">
+    <p><strong>Jiawen Wu</strong><br>ME<br>Fall 2026 – present</p>
+  </div>
+  <div class="phd-member">
+    <img class="team-portrait team-portrait--logo" src="{{ site.baseurl }}/images/ARL.png" alt="ARL logo — portrait unavailable for Xiaohang (Shawn) Ding" width="120" height="120" loading="lazy">
+    <p><strong>Xiaohang (Shawn) Ding</strong><br>ME<br>Spring 2027 - present</p>
+  </div>
+  <div class="phd-member">
+    <img class="team-portrait team-portrait--logo" src="{{ site.baseurl }}/images/ARL.png" alt="ARL logo — portrait unavailable for Yosemite Pinedo" width="120" height="120" loading="lazy">
+    <p><strong>Yosemite Pinedo</strong><br>ME<br>Spring 2027 - present</p>
+  </div>
+</div>
 
 MS students (thesis-track)
 ---
 
-* Nicholas Hale, Mechanical Engineering 
+* <img class="team-portrait" src="{{ site.baseurl }}/images/team/nicholas-hale.jpg" alt="Nicholas Hale" width="120" height="120" loading="lazy"> Nicholas Hale, Mechanical Engineering
 
 
-Undergraduate students 
+Undergraduate students
 ---
 
-* Creative Inquiry 
-  * Johnathan Harrison, Mechanical Engineering
-  * Jules Slevensky, Mechanical Engineering 
-  * Vaibhav Ravibiruthoji, Mechanical Engineering
-  * Colby Santarelli, Mechancial Engineering 
-  * Clement Susanto, Computer Engineering
-  
-* Harrison Curtis (Honor's College), Mechanical Engineering 
-* Julio Pimentel, Mechanical Engineering 
-* Sierra Beerer (Honor's College), Mechanical Engineering
+### Creative Inquiry (CI)
+
+<div class="undergrad-grid" style="--member-count:5">
+  <div class="undergrad-member">
+    <img class="team-portrait team-portrait--logo" src="{{ site.baseurl }}/images/ARL.png" alt="ARL logo — portrait unavailable for Johnathan Harrison" width="120" height="120" loading="lazy">
+    <p><strong>Johnathan Harrison</strong><br>ME</p>
+  </div>
+  <div class="undergrad-member">
+    <img class="team-portrait team-portrait--logo" src="{{ site.baseurl }}/images/ARL.png" alt="ARL logo — portrait unavailable for Jules Slevensky" width="120" height="120" loading="lazy">
+    <p><strong>Jules Slevensky</strong><br>ME</p>
+  </div>
+  <div class="undergrad-member">
+    <img class="team-portrait team-portrait--logo" src="{{ site.baseurl }}/images/ARL.png" alt="ARL logo — portrait unavailable for Vaibhav Ravibiruthoji" width="120" height="120" loading="lazy">
+    <p><strong>Vaibhav Ravibiruthoji</strong><br>ME</p>
+  </div>
+  <div class="undergrad-member">
+    <img class="team-portrait" src="{{ site.baseurl }}/images/team/colby-santarelli.jpg" alt="Colby Santarelli" width="120" height="120" loading="lazy">
+    <p><strong>Colby Santarelli</strong><br>ME</p>
+  </div>
+  <div class="undergrad-member">
+    <img class="team-portrait team-portrait--logo" src="{{ site.baseurl }}/images/ARL.png" alt="ARL logo — portrait unavailable for Clement Susanto" width="120" height="120" loading="lazy">
+    <p><strong>Clement Susanto</strong><br>CE</p>
+  </div>
+</div>
+
+### Honor's Program
+
+<div class="undergrad-grid" style="--member-count:2">
+  <div class="undergrad-member">
+    <img class="team-portrait team-portrait--logo" src="{{ site.baseurl }}/images/ARL.png" alt="ARL logo — portrait unavailable for Harrison Curtis" width="120" height="120" loading="lazy">
+    <p><strong>Harrison Curtis</strong><br>ME</p>
+  </div>
+  <div class="undergrad-member">
+    <img class="team-portrait" src="{{ site.baseurl }}/images/team/sierra-beerer.jpg" alt="Sierra Beerer" width="120" height="120" loading="lazy">
+    <p><strong>Sierra Beerer</strong><br>ME</p>
+  </div>
+</div>
+
+### Researchers
+
+<div class="undergrad-grid" style="--member-count:1">
+  <div class="undergrad-member">
+    <img class="team-portrait" src="{{ site.baseurl }}/images/team/julio-pimentel.jpg" alt="Julio Pimentel" width="120" height="120" loading="lazy">
+    <p><strong>Julio Pimentel</strong><br>ME</p>
+  </div>
+</div>
+
 
 Alumni
 ---
 
-Graduate Students:
+<h3 class="alumni-subheading">Graduate Students</h3>
 
 * Nikhila Krishnan (thesis-track), MS, Mechanical Engineering, 2026
 
 * Miao Yu (advisor), PhD, Mechanical Engineering, 2021 - 2026
-  * Current Position: Research Fellow, National Institute of Clean-and-Low-Carbon Energy (NICE), China.
+
+    <div class="alumni-position">Current Position: Research Fellow, National Institute of Clean-and-Low-Carbon Energy (NICE), China.</div>
 
 * Nithesh Kumar, PhD, Elecrical & Computer Engineering, 2025
-  * Current Position: Postdoctoral Fellow, Department of Mechanical Engineering, Vanderbilt University  
+
+    <div class="alumni-position">Current Position: Postdoctoral Fellow, Department of Mechanical Engineering, Vanderbilt University  </div>
 
 * Hamdan Khan Sarvathullah (thesis-track), MS, Mechanical Engineering, 2026
-  * Current Position: Mechanical and Control Engineer, Green2Gold
+
+    <div class="alumni-position">Current Position: Mechanical and Control Engineer, Green2Gold</div>
 
 * Gavin Platt (thesis-track), MS, Mechanical Engineering, 2025
 
 * Therese Parr (Co-Advisor), PhD, Bioengineering, 2019 - 2023
-  * Current Position: Research Biomedical Engineer & Fellow, Air Force Research Laboratory 
+
+    <div class="alumni-position">Current Position: Research Biomedical Engineer & Fellow, Air Force Research Laboratory </div>
 
 * Timothy Driscoll (thesis-track), MS, Computer Engineering, 2023
-  * Current Position: Software Engineer, DEKA Research & Development 
+
+    <div class="alumni-position">Current Position: Software Engineer, DEKA Research & Development </div>
 
 * Param Malhotra (thesis-track), MS, Mechanical Engineering, 2022
 
 * Yash Srivastava, MS, Electrical & Computer Engineering, 2022
-  * Current Position: Engineer, Caterpillar Inc 
 
-Undergraduate Students:
+    <div class="alumni-position">Current Position: Engineer, Caterpillar Inc </div>
+
+<h3 class="alumni-subheading">Undergraduate Students</h3>
 
 * Walker Bailey, Automotive Engineering
 
@@ -108,19 +149,19 @@ Undergraduate Students:
 
 * Jack Schuver, Electrical & Computer Engineering/Mechanical Engineering
 
-* Nick Hale, Mechanical Engineering 
+* Nick Hale, Mechanical Engineering
 
 * James Rhoads (Creative Inquiry), Mechanical Engineering
 
-* Anh Doan (Creative Inquiry), Mechanical Engineering 
+* Anh Doan (Creative Inquiry), Mechanical Engineering
 
-* Thomas Holliday (Creative Inquiry), Mechanical Engineering 
+* Thomas Holliday (Creative Inquiry), Mechanical Engineering
 
-* Thomas Temple (Creative Inquiry), Mechanical Engineering 
+* Thomas Temple (Creative Inquiry), Mechanical Engineering
 
-* Harrison Pinkston (Creative Inquiry), Mechanical Engineering 
+* Harrison Pinkston (Creative Inquiry), Mechanical Engineering
 
-* Nick Daly, Mechanical Engineering 
+* Nick Daly, Mechanical Engineering
 
 * Ryan Rutolo (Creative Inquiry), Mechanical Engineering
 
@@ -132,10 +173,10 @@ Undergraduate Students:
 
 * Zachary Nemphos, Mechanical Engineering
 
-* Hunter Meier, EUREKA!, Mechanical Engineering 
+* Hunter Meier, EUREKA!, Mechanical Engineering
 
-* Hayden Cagle, EUREKA!, Mechanical Engineering 
+* Hayden Cagle, EUREKA!, Mechanical Engineering
 
-* Andrew O'Rourke, EUREKA!, Electrical and Computer Engineering 
+* Andrew O'Rourke, EUREKA!, Electrical and Computer Engineering
 
 * Brook Schmid, Mechanical Engineering
