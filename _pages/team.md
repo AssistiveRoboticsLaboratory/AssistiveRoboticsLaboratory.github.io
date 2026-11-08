@@ -50,7 +50,12 @@ PhD students
 MS students (thesis-track)
 ---
 
-* <img class="team-portrait" src="{{ site.baseurl }}/images/team/nicholas-hale.jpg" alt="Nicholas Hale" width="120" height="120" loading="lazy"> Nicholas Hale, Mechanical Engineering
+<div class="phd-grid">
+  <div class="phd-member">
+    <img class="team-portrait" src="{{ site.baseurl }}/images/team/nicholas-hale.jpg" alt="Nicholas Hale" width="120" height="120" loading="lazy">
+    <p><strong>Nicholas Hale</strong><br>Mechanical Engineering</p>
+  </div>
+</div>
 
 
 Undergraduate students
@@ -58,7 +63,7 @@ Undergraduate students
 
 ### Creative Inquiry (CI)
 
-<div class="undergrad-grid" style="--member-count:5">
+<div class="undergrad-grid" style="--member-count:6">
   <div class="undergrad-member">
     <img class="team-portrait team-portrait--logo" src="{{ site.baseurl }}/images/ARL.png" alt="ARL logo — portrait unavailable for Johnathan Harrison" width="120" height="120" loading="lazy">
     <p><strong>Johnathan Harrison</strong><br>ME</p>
@@ -78,6 +83,10 @@ Undergraduate students
   <div class="undergrad-member">
     <img class="team-portrait team-portrait--logo" src="{{ site.baseurl }}/images/ARL.png" alt="ARL logo — portrait unavailable for Clement Susanto" width="120" height="120" loading="lazy">
     <p><strong>Clement Susanto</strong><br>CE</p>
+  </div>
+  <div class="undergrad-member">
+    <img class="team-portrait team-portrait--logo" src="{{ site.baseurl }}/images/ARL.png" alt="ARL logo — portrait unavailable for Dana Vesga" width="120" height="120" loading="lazy">
+    <p><strong>Dana Vesga</strong><br>ME</p>
   </div>
 </div>
 
@@ -109,7 +118,7 @@ Alumni
 
 <h3 class="alumni-subheading">Graduate Students</h3>
 
-* Nikhila Krishnan (thesis-track), MS, Mechanical Engineering, 2026
+<h4>PhD Graduates</h4>
 
 * Miao Yu (advisor), PhD, Mechanical Engineering, 2021 - 2026
 
@@ -119,15 +128,19 @@ Alumni
 
     <div class="alumni-position">Current Position: Postdoctoral Fellow, Department of Mechanical Engineering, Vanderbilt University  </div>
 
+* Therese Parr (Co-Advisor), PhD, Bioengineering, 2019 - 2023
+
+    <div class="alumni-position">Current Position: Research Biomedical Engineer & Fellow, Air Force Research Laboratory </div>
+
+<h4>MS Graduates</h4>
+
+* Nikhila Krishnan (thesis-track), MS, Mechanical Engineering, 2026
+
 * Hamdan Khan Sarvathullah (thesis-track), MS, Mechanical Engineering, 2026
 
     <div class="alumni-position">Current Position: Mechanical and Control Engineer, Green2Gold</div>
 
 * Gavin Platt (thesis-track), MS, Mechanical Engineering, 2025
-
-* Therese Parr (Co-Advisor), PhD, Bioengineering, 2019 - 2023
-
-    <div class="alumni-position">Current Position: Research Biomedical Engineer & Fellow, Air Force Research Laboratory </div>
 
 * Timothy Driscoll (thesis-track), MS, Computer Engineering, 2023
 
