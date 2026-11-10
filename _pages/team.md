@@ -94,7 +94,7 @@ Undergraduate students
 
 <div class="undergrad-grid" style="--member-count:2">
   <div class="undergrad-member">
-    <img class="team-portrait team-portrait--logo" src="{{ site.baseurl }}/images/ARL.png" alt="ARL logo — portrait unavailable for Harrison Curtis" width="120" height="120" loading="lazy">
+    <img class="team-portrait" src="{{ site.baseurl }}/images/team/harrison-curtis.png" alt="Harrison Curtis" width="120" height="120" loading="lazy">
     <p><strong>Harrison Curtis</strong><br>ME</p>
   </div>
   <div class="undergrad-member">
