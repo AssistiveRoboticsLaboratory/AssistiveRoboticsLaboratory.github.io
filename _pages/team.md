@@ -103,7 +103,7 @@ Undergraduate students
   </div>
 </div>
 
-### Researchers
+### ME 4150 Researchers
 
 <div class="undergrad-grid" style="--member-count:1">
   <div class="undergrad-member">
