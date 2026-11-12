@@ -82,7 +82,7 @@ Undergraduate students
   </div>
   <div class="undergrad-member">
     <img class="team-portrait team-portrait--logo" src="{{ site.baseurl }}/images/ARL.png" alt="ARL logo — portrait unavailable for Clement Susanto" width="120" height="120" loading="lazy">
-    <p><strong>Clement Susanto</strong><br>CE</p>
+    <p><strong>Clement Susanto</strong><br>Computer Engineering</p>
   </div>
   <div class="undergrad-member">
     <img class="team-portrait team-portrait--logo" src="{{ site.baseurl }}/images/ARL.png" alt="ARL logo — portrait unavailable for Dana Vesga" width="120" height="120" loading="lazy">
