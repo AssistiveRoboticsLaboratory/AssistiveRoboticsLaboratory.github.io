@@ -10,7 +10,7 @@ author_profile: true
 Principal Investigator 
 ---
 
-* <img class="team-portrait" src="{{ site.baseurl }}/images/team/ge-lv.jpg" alt="Ge Lv (吕阁)" width="120" height="120" loading="lazy">  **Ge Lv (吕阁), PhD**
+* <img class="team-portrait team-portrait--director" src="{{ site.baseurl }}/images/team/ge-lv.jpg" alt="Ge Lv (吕阁)" width="571" height="800" loading="lazy">  **Ge Lv (吕阁), PhD**
     
      Director, Assistive Robotics Laboratory 
 

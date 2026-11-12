@@ -144,7 +144,7 @@
 .lab-overview{display:grid;grid-template-columns:1.4fr 1fr;gap:60px;align-items:start}
 .lab-mission h2{max-width:22ch}
 .director-profile{display:grid;grid-template-columns:110px minmax(0,1fr);gap:24px;border-left:3px solid var(--orange);padding:26px 0 26px 28px}
-.director-profile>img{width:110px;aspect-ratio:1;object-fit:cover}
+.director-profile>img{width:110px;height:auto;aspect-ratio:auto;object-fit:contain}
 .director-profile .eyebrow{margin-bottom:13px}
 .director-profile h3{font-size:27px;margin-bottom:18px;letter-spacing:-.025em}
 .director-profile h3 span{display:block;font-size:18px;font-weight:500;margin-top:6px}
@@ -219,6 +219,7 @@
 .page-content .team-portrait--logo{object-fit:contain;padding:12px}
 .page-content li:has(> .team-portrait),.page-content li:has(> p > .team-portrait){display:flow-root;min-height:120px;list-style:none;margin-block:24px}
 @media(max-width:700px){.page-content .team-portrait{width:96px;height:96px;margin-right:18px}.page-content li:has(> .team-portrait),.page-content li:has(> p > .team-portrait){min-height:96px}}
+.page-content .team-portrait--director{height:auto;object-fit:contain}
 
 /* Four PhD students share a row, with space to wrap on small screens. */
 .phd-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:24px;margin-block:24px}
