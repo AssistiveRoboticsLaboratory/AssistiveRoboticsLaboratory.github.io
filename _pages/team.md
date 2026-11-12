@@ -31,19 +31,19 @@ PhD students
 <div class="phd-grid">
   <div class="phd-member">
     <img class="team-portrait" src="{{ site.baseurl }}/images/team/angelos-guan.jpg" alt="Tingrui (Angelos) Guan" width="120" height="120" loading="lazy">
-    <p><strong>Tingrui (Angelos) Guan</strong><br>ME<br>Fall 2024 – present</p>
+    <p><strong>Tingrui (Angelos) Guan</strong><br>Mechanical Engineering<br>Fall 2024 – present</p>
   </div>
   <div class="phd-member">
     <img class="team-portrait" src="{{ site.baseurl }}/images/team/jiawen-wu.jpg" alt="Jiawen Wu" width="120" height="120" loading="lazy">
-    <p><strong>Jiawen Wu</strong><br>ME<br>Fall 2026 – present</p>
+    <p><strong>Jiawen Wu</strong><br>Mechanical Engineering<br>Fall 2026 – present</p>
   </div>
   <div class="phd-member">
     <img class="team-portrait team-portrait--logo" src="{{ site.baseurl }}/images/ARL.png" alt="ARL logo — portrait unavailable for Xiaohang (Shawn) Ding" width="120" height="120" loading="lazy">
-    <p><strong>Xiaohang (Shawn) Ding</strong><br>ME<br>Spring 2027 - present</p>
+    <p><strong>Xiaohang (Shawn) Ding</strong><br>Mechanical Engineering<br>Spring 2027 - present</p>
   </div>
   <div class="phd-member">
     <img class="team-portrait team-portrait--logo" src="{{ site.baseurl }}/images/ARL.png" alt="ARL logo — portrait unavailable for Yosemite Pinedo" width="120" height="120" loading="lazy">
-    <p><strong>Yosemite Pinedo</strong><br>ME<br>Spring 2027 - present</p>
+    <p><strong>Yosemite Pinedo</strong><br>Mechanical Engineering<br>Spring 2027 - present</p>
   </div>
 </div>
 
@@ -66,19 +66,19 @@ Undergraduate students
 <div class="undergrad-grid" style="--member-count:6">
   <div class="undergrad-member">
     <img class="team-portrait team-portrait--logo" src="{{ site.baseurl }}/images/ARL.png" alt="ARL logo — portrait unavailable for Johnathan Harrison" width="120" height="120" loading="lazy">
-    <p><strong>Johnathan Harrison</strong><br>ME</p>
+    <p><strong>Johnathan Harrison</strong><br>Mechanical Engineering</p>
   </div>
   <div class="undergrad-member">
     <img class="team-portrait team-portrait--logo" src="{{ site.baseurl }}/images/ARL.png" alt="ARL logo — portrait unavailable for Jules Slevensky" width="120" height="120" loading="lazy">
-    <p><strong>Jules Slevensky</strong><br>ME</p>
+    <p><strong>Jules Slevensky</strong><br>Mechanical Engineering</p>
   </div>
   <div class="undergrad-member">
     <img class="team-portrait team-portrait--logo" src="{{ site.baseurl }}/images/ARL.png" alt="ARL logo — portrait unavailable for Vaibhav Ravibiruthoji" width="120" height="120" loading="lazy">
-    <p><strong>Vaibhav Ravibiruthoji</strong><br>ME</p>
+    <p><strong>Vaibhav Ravibiruthoji</strong><br>Mechanical Engineering</p>
   </div>
   <div class="undergrad-member">
     <img class="team-portrait" src="{{ site.baseurl }}/images/team/colby-santarelli.jpg" alt="Colby Santarelli" width="120" height="120" loading="lazy">
-    <p><strong>Colby Santarelli</strong><br>ME</p>
+    <p><strong>Colby Santarelli</strong><br>Mechanical Engineering</p>
   </div>
   <div class="undergrad-member">
     <img class="team-portrait team-portrait--logo" src="{{ site.baseurl }}/images/ARL.png" alt="ARL logo — portrait unavailable for Clement Susanto" width="120" height="120" loading="lazy">
@@ -86,7 +86,7 @@ Undergraduate students
   </div>
   <div class="undergrad-member">
     <img class="team-portrait team-portrait--logo" src="{{ site.baseurl }}/images/ARL.png" alt="ARL logo — portrait unavailable for Dana Vesga" width="120" height="120" loading="lazy">
-    <p><strong>Dana Vesga</strong><br>ME</p>
+    <p><strong>Dana Vesga</strong><br>Mechanical Engineering</p>
   </div>
 </div>
 
@@ -95,11 +95,11 @@ Undergraduate students
 <div class="undergrad-grid" style="--member-count:2">
   <div class="undergrad-member">
     <img class="team-portrait" src="{{ site.baseurl }}/images/team/harrison-curtis.png" alt="Harrison Curtis" width="120" height="120" loading="lazy">
-    <p><strong>Harrison Curtis</strong><br>ME</p>
+    <p><strong>Harrison Curtis</strong><br>Mechanical Engineering</p>
   </div>
   <div class="undergrad-member">
     <img class="team-portrait" src="{{ site.baseurl }}/images/team/sierra-beerer.jpg" alt="Sierra Beerer" width="120" height="120" loading="lazy">
-    <p><strong>Sierra Beerer</strong><br>ME</p>
+    <p><strong>Sierra Beerer</strong><br>Mechanical Engineering</p>
   </div>
 </div>
 
@@ -108,7 +108,7 @@ Undergraduate students
 <div class="undergrad-grid" style="--member-count:1">
   <div class="undergrad-member">
     <img class="team-portrait" src="{{ site.baseurl }}/images/team/julio-pimentel.jpg" alt="Julio Pimentel" width="120" height="120" loading="lazy">
-    <p><strong>Julio Pimentel</strong><br>ME</p>
+    <p><strong>Julio Pimentel</strong><br>Mechanical Engineering</p>
   </div>
 </div>
 
