@@ -65,8 +65,8 @@ Undergraduate students
 
 <div class="undergrad-grid" style="--member-count:6">
   <div class="undergrad-member">
-    <img class="team-portrait team-portrait--logo" src="{{ site.baseurl }}/images/ARL.png" alt="ARL logo — portrait unavailable for Johnathan Harrison" width="120" height="120" loading="lazy">
-    <p><strong>Johnathan Harrison</strong><br>Mechanical Engineering</p>
+    <img class="team-portrait" src="{{ site.baseurl }}/images/team/Jonathan%20Harris.jpeg" alt="Jonathan Harris" width="120" height="120" loading="lazy">
+    <p><strong>Jonathan Harris</strong><br>Mechanical Engineering</p>
   </div>
   <div class="undergrad-member">
     <img class="team-portrait team-portrait--logo" src="{{ site.baseurl }}/images/ARL.png" alt="ARL logo — portrait unavailable for Jules Slevensky" width="120" height="120" loading="lazy">
