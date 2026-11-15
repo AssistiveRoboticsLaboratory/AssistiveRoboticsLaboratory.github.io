@@ -38,7 +38,7 @@ PhD students
     <p><strong>Jiawen Wu</strong><br>Mechanical Engineering<br>Fall 2026 – present</p>
   </div>
   <div class="phd-member">
-    <img class="team-portrait team-portrait--logo" src="{{ site.baseurl }}/images/ARL.png" alt="ARL logo — portrait unavailable for Xiaohang (Shawn) Ding" width="120" height="120" loading="lazy">
+    <img class="team-portrait" src="{{ site.baseurl }}/images/team/Shawn%20Ding.jpeg" alt="Xiaohang (Shawn) Ding" width="120" height="120" loading="lazy">
     <p><strong>Xiaohang (Shawn) Ding</strong><br>Mechanical Engineering<br>Spring 2027 - present</p>
   </div>
   <div class="phd-member">
