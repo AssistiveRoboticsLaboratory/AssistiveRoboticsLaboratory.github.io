@@ -85,7 +85,7 @@ Undergraduate students
     <p><strong>Clement Susanto</strong><br>Computer Engineering</p>
   </div>
   <div class="undergrad-member">
-    <img class="team-portrait team-portrait--logo" src="{{ site.baseurl }}/images/ARL.png" alt="ARL logo — portrait unavailable for Dana Vesga" width="120" height="120" loading="lazy">
+    <img class="team-portrait" src="{{ site.baseurl }}/images/team/Dana%20Vesga.jpg" alt="Dana Vesga" width="120" height="120" loading="lazy">
     <p><strong>Dana Vesga</strong><br>Mechanical Engineering</p>
   </div>
 </div>
