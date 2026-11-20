@@ -130,7 +130,7 @@ Alumni
 
 * Therese Parr (Co-Advisor), PhD, Bioengineering, 2019 - 2023
 
-    <div class="alumni-position">Current Position: Research Biomedical Engineer & Fellow, Air Force Research Laboratory </div>
+    <div class="alumni-position">Current Position: Research Scientist at Henry M. Jackson Foundation for the Advancement of Military Medicine</div>
 
 <h4>MS Graduates</h4>
 
