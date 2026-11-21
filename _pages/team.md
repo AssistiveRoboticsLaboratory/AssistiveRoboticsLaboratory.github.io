@@ -42,7 +42,7 @@ PhD students
     <p><strong>Xiaohang (Shawn) Ding</strong><br>Mechanical Engineering<br>Spring 2027 - present</p>
   </div>
   <div class="phd-member">
-    <img class="team-portrait team-portrait--logo" src="{{ site.baseurl }}/images/ARL.png" alt="ARL logo — portrait unavailable for Yosemite Pinedo" width="120" height="120" loading="lazy">
+    <img class="team-portrait" src="{{ site.baseurl }}/images/Yosemite.jpg" alt="Yosemite Pinedo" width="120" height="120" loading="lazy">
     <p><strong>Yosemite Pinedo</strong><br>Mechanical Engineering<br>Spring 2027 - present</p>
   </div>
 </div>
